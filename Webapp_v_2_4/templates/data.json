@@ -1,0 +1,38 @@
+{
+  "nodes":[
+    {"id": "SDG 1", "label":"SDG 1","x": -2, "y": -3,"size": 3},
+    {"id": "SDG 2", "label":"SDG 2","x": -1, "y": -3, "size": 3},
+    {"id": "SDG 3", "label":"SDG 3","x": 0, "y": -3,"size": 3},
+    {"id": "SDG 4", "label":"SDG 4","x": 1, "y": -3,"size": 3},
+    {"id": "SDG 5", "label":"SDG 5","x": 2, "y": -3,"size": 3},
+    {"id": "SDG 6", "label":"SDG 6","x": 3, "y": -2,"size": 3},
+    {"id": "SDG 7", "label":"SDG 7","x": 3, "y": -1,"size": 3},
+    {"id": "SDG 8", "label":"SDG 8","x": 3, "y": 0,"size": 3},
+    {"id": "SDG 9", "label":"SDG 9","x": 3, "y": 1,"size": 3},
+    {"id": "SDG 10", "label":"SDG 10","x": 2, "y": 2,"size": 3},
+    {"id": "SDG 11", "label":"SDG 11","x": 1, "y": 2,"size": 3},
+    {"id": "SDG 12", "label":"SDG 12","x": 0, "y": 2,"size": 3},
+    {"id": "SDG 13", "label":"SDG 13","x": -1, "y": 2,"size": 3},
+    {"id": "SDG 14", "label":"SDG 14","x": -2, "y": 2,"size": 3},
+    {"id": "SDG 15", "label":"SDG 15","x": -3, "y": 1,"size": 3},
+    {"id": "SDG 16", "label":"SDG 16","x": -3, "y": 0,"size": 3},
+    {"id": "SDG 17", "label":"SDG 17","x": -3, "y": -1,"size": 3}
+  ],
+  
+  
+
+  
+  
+  "edges":[
+			{% for item in response.results[0:-1] %}
+			{"id" : "{{item['id']}}" , "source": "{{item['SDG'][0]}}" , "target": "{{item['SDG'][1]}}" },
+			{% endfor %}
+		
+			{% for item in response.results[-1:] %}
+			{"id" : "{{item['id']}}" , "source": "{{item['SDG'][0]}}" , "target": "{{item['SDG'][1]}}" }
+			{% endfor %}			
+			
+		]
+}
+
+								

@@ -1,0 +1,248 @@
+<!DOCTYPE HTML>
+<!--
+	This html template  is from: Big Picture by HTML5 UP html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>#LinksSDGs</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="../static/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../static/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="../static/assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="../static/assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+
+				<!-- Logo -->
+					<h1 id="logo">#LinksSDGs</h1>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="#intro">About</a></li>
+							<!--<li><a href="#one">Publications</a></li>-->
+							<!--<li><a href="#two">Findings</a></li>-->
+							<!--<li><a href="#three">More</a></li>-->
+							<li><a href="search">Search</a></li>
+						</ul>
+					</nav>
+
+			</header>
+
+		<!-- Intro -->
+			<section id="intro" class="main style1 dark fullscreen">
+				<div class="content container 75%">
+					<header>
+						<h2>How are the Sustinable Development Goals linked between each other?.</h2>
+					</header>
+					
+					<p>This is a response to the <a href="https://unite.un.org/ideas/content/linkssdgs-natural-language-processing-and-data-visualization-challenge">#LinksSDGs United Ideas Challenge</a>.
+					</p>
+		
+					<footer>
+						<a href="#one" class="button style2 down">More</a>
+						<!--<a href="/search" class="button style2 down">Search </a>-->
+					</footer>
+				</div>
+			</section>
+
+			<section id="one" class="main style2 right dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>The analysis</h2>
+					</header>
+					<ul>This machine-based literature review analyzed 47 United Nations publications.</ul>
+					<ul>Extracted sentences linking at least two SDGs.</ul>
+					<ul>Categorized each link as being a <em>policy recommendation</em>, a <em>causal link</em>, or a <em>constraint</em>.</ul>
+					<p>Click below to start exploring the results!</p>
+				</div>
+				<a href="#two" class="button style2 down anchored">Next</a>
+			</section>
+
+		 <!--Two -->
+			<section id="two" class="main style2 right light fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>A bird's-eye view </h2>
+					</header>
+					<p>More than 17 thousand sentences linking SDGs are aggregated in the chart below.</p>
+					<p>Clik or hover ever any SDG or link below or to find out more.</p>
+				</div>
+							
+				<!--<a href="#three" class="button style2 down anchored">Next</a>-->
+			</section>
+<!--chart here-->
+<center><div>
+<style>
+
+@import url(../static/assets/css/main.css);
+
+#circle circle {
+  fill: none;
+  pointer-events: all;
+}
+
+.group path {
+  fill-opacity: .7;
+}
+
+path.chord {
+  stroke: #000;
+  stroke-width: .25px;
+  fill-opacity: .9;
+}
+
+#circle:hover path.fade {
+  display: none;
+}
+
+</style>
+<script src="../static/d3_chord/lib/d3.js" charset="utf-8"></script>
+<script src="../static/d3_chord/lib/queue.js"></script>
+<script>
+
+var width = 820,
+    height = 820,
+    outerRadius = Math.min(width, height) / 2 - 10,
+    innerRadius = outerRadius - 24;
+
+// var formatPercent = d3.format(".1%");
+var formatPercent = d3.format("0");
+
+var arc = d3.svg.arc()
+    .innerRadius(innerRadius)
+    .outerRadius(outerRadius);
+
+var layout = d3.layout.chord()
+    .padding(.04)
+    .sortSubgroups(d3.descending)
+    .sortChords(d3.ascending);
+
+var path = d3.svg.chord()
+    .radius(innerRadius);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+  .append("g")
+    .attr("id", "circle")
+    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+svg.append("circle")
+    .attr("r", outerRadius);
+
+queue()
+    .defer(d3.csv, "../static/d3_chord/cities.csv")
+    .defer(d3.json, "../static/d3_chord/matrix.json")
+    .await(ready);
+
+function ready(error, cities, matrix) {
+  if (error) throw error;
+
+  // Compute the chord layout.
+  layout.matrix(matrix);
+
+  // Add a group per SDG.
+  var group = svg.selectAll(".group")
+      .data(layout.groups)
+    .enter().append("g")
+      .attr("class", "group")
+      .on("mouseover", mouseover);
+
+  // Add a mouseover title.
+  group.append("title").text(function(d, i) {
+    return cities[i].name + ": " + Math.round(d.value)  + " sentences";
+  });
+
+  // Add the group arc.
+  var groupPath = group.append("path")
+      .attr("id", function(d, i) { return "group" + i; })
+      .attr("d", arc)
+      .style("fill", function(d, i) { return cities[i].color; });
+
+  // Add a text label.
+  var groupText = group.append("text")
+      .attr("x", 6)
+      .attr("dy", 15);
+
+  groupText.append("textPath")
+      .attr("xlink:href", function(d, i) { return "#group" + i; })
+      .text(function(d, i) { return cities[i].name; });
+
+  // Remove the labels that don't fit. :(
+  groupText.filter(function(d, i) { return groupPath[0][i].getTotalLength() / 2 - 16 < this.getComputedTextLength(); })
+      .remove();
+
+  // Add the chords.
+  var chord = svg.selectAll(".chord")
+      .data(layout.chords)
+    .enter().append("path")
+      .attr("class", "chord")
+      .style("fill", function(d) { return cities[d.source.index].color; })
+      .attr("d", path);
+
+  // Add an elaborate mouseover title for each chord.
+  chord.append("title").text(function(d) {
+    return cities[d.source.index].name
+        + " → " + cities[d.target.index].name
+        + ": " + formatPercent(d.source.value)
+        + "\n" + cities[d.target.index].name
+        + " → " + cities[d.source.index].name
+        + ": " + formatPercent(d.target.value);
+  });
+
+  function mouseover(d, i) {
+    chord.classed("fade", function(p) {
+      return p.source.index != i
+          && p.target.index != i;
+    });
+  }
+}
+
+</script>
+</div>
+</center>
+<!--chart ends-->
+		<!-- Three -->
+			<section id="three" class="main style3 primary">
+
+								<a class="button button-primary" href="/search">View detailed results</a>
+			</section>
+
+		<!-- Footer -->
+			<footer id="footer">
+
+				<!-- Icons -->
+					<ul class="actions">
+						<li><a href="https://twitter.com/UN_UniteIdeas" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.facebook.com/UnitedNationsUnite" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<!--<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>-->
+						<!--<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>-->
+						<!--<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>-->
+						<!--<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>-->
+					</ul>
+
+				<!-- Menu -->
+					<ul class="menu">
+						<li>&copy; This software is licensed under the GNU General Public License </li><li>GPL V3 <a href="http://www.gnu.org/licenses/gpl-3.0.html">Full license</a></li>
+					</ul>
+
+			</footer>
+
+		<!-- Scripts -->
+			<script src="../static/assets/js/jquery.min.js"></script>
+			<script src="../static/assets/js/jquery.poptrox.min.js"></script>
+			<script src="../static/assets/js/jquery.scrolly.min.js"></script>
+			<script src="../static/assets/js/jquery.scrollex.min.js"></script>
+			<script src="../static/assets/js/skel.min.js"></script>
+			<script src="../static/assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="../static/assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="../static/assets/js/main.js"></script>
+
+	</body>
+</html>

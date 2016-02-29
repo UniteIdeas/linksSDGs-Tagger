@@ -1,0 +1,5413 @@
+U N I T E D   N A T I O N S   C O N F E R E N C E   O N   T R A D E   A N D   D E V E L O P M E N T
+
+SCIENCE, TECHNOLOGY AND INNOVATION 
+FOR SUSTAINABLE URBANIZATION
+
+U N C TA D C U R R E N T S T U D I E S O N S C I E N C E , T E C H N O L O G Y A N D I N N O V A T I O N . N º 1 0
+
+U N I T E D   N A T I O N S   C O N F E R E N C E   O N   T R A D E   A N D   D E V E L O P M E N T
+
+SCIENCE, TECHNOLOGY AND INNOVATION 
+FOR SUSTAINABLE URBANIZATION
+
+U N C TA D   C U R R E N T   S T U D I E S   O N   S C I E N C E ,   T E C H N O L O G Y   A N D   I N N O V A T I O N .   N º 1 0
+
+New York and Geneva, 2015
+
+ii
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Note
+
+The United Nations Conference on Trade and Development (UNCTAD) serves as the lead entity 
+within the United Nations Secretariat for matters related to science and technology as part of 
+its work on the integrated treatment of trade and development, investment and finance. The 
+current UNCTAD work programme is based on the mandates set at quadrennial conferences, as 
+well as on the decisions of the General Assembly of the United Nations and the United Nations 
+Economic  and  Social  Council  that  draw  upon  the  recommendations  of  the  United  Nations 
+Commission  on  Science  and Technology  for  Development,  which  is  served  by  the  UNCTAD 
+secretariat.  UNCTAD’s  work  programme  is  built  on  its  three  pillars  of  research  and  analysis, 
+consensus building and technical cooperation and is carried out through intergovernmental 
+deliberations,  research  and  analysis,  technical  assistance  activities,  seminars,  workshops  and 
+conferences.
+
+This series of publications seeks to contribute to exploring current issues in science, technology 
+and innovation, with particular emphasis on their impact on developing countries.
+
+The views expressed in this publication are those of the author and do not necessarily reflect 
+the views of the United Nations Secretariat.
+
+The  term  country  as  used  in  this  study  also  refers,  as  appropriate,  to  territories  or  areas. 
+The designations of country groups are intended solely for statistical or analytical convenience 
+and  do  not  necessarily  express  a  judgement  about  the  stage  of  development  reached  by  a 
+particular  country  or  area  in  the  development  process.  Mention  of  any  firm,  organization  or 
+policy does not imply endorsement by the United Nations.
+
+The designations employed and the presentation of the material do not imply the expression 
+of any opinion on the part of the United Nations concerning the legal status of any country, 
+territory, city or area, or of authorities or concerning the delimitation of its frontiers or boundaries. 
+
+Material  in  this  publication  may  be  freely  quoted  or  reprinted,  but  acknowledgement  is 
+requested, together with a copy of the publication containing the quotation or reprint to be 
+sent to the UNCTAD secretariat.
+
+Reference to dollars ($) means United States of America dollars.
+
+UNCTAD/DTL/STICT/2014/2
+
+Acknowledgments
+
+iii
+
+Acknowledgments
+
+This report was prepared by Tansuğ Ok under the supervision of Padmashree Gehl Sampath 
+and the overall direction of Anne Miroux.
+
+The report is based on a study that was prepared for and discussed at the sixteenth session 
+of  the  United  Nations  Commission  on  Science  and  Technology  for  Development,  held  in 
+June  2013.  UNCTAD  wishes  to  acknowledge  comments  and  suggestions  provided  on  early 
+drafts  by  Elizabeth  Deakin,  University  of  California  at  Berkeley,  and  from  members  of  the 
+United  Nations  Commission  on  Science  and  Technology  for  Development.  Comments  by 
+Peter Engelke, Senior Fellow, Atlantic Council and Andrew Reynolds, United Nations Commission 
+on Science and Technology for Development, as well as support granted by Yunus Arikan, Head 
+of Global Policy and Advocacy, International Council for Local Environmental Initiatives–Local 
+Governments for Sustainability, are also acknowledged.
+
+Research  assistance  by  Abhishek  Malhotra  helped  during  the  finalization  of  the  paper. 
+Nathalie  Loriot  formatted  the  manuscript,  Nadege  Hadjemian  designed  the  cover  and 
+Deniz Barki edited the report.
+
+iv
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Table of Contents
+
+I. 
+
+Introduction .....................................................................................................  
+
+II.  Urbanization and sustainability .....................................................................  
+
+II. a.  Trends of urbanization ...................................................................................................... 
+
+Urbanization and the Millennium Development Goals ........................................................................  
+
+Growing urban divides in all spheres  ..............................................................................................................  
+
+II. b.  Sustainable urbanization .................................................................................................. 
+
+II. c.  Role of science, technology and innovation in the urban context ........................... 
+
+II. d.  Cities as systems ................................................................................................................. 
+
+III.  Sustainable urban planning ...........................................................................  
+
+III. a.  Density, land use and spatial planning .......................................................................... 
+
+Urban sprawl and its eﬀects ...................................................................................................................................  
+
+Science, technology and innovation for spatial planning ...................................................................  
+
+Policy considerations ..................................................................................................................................................  
+
+III. b.  Mobility ................................................................................................................................ 
+
+Automobile travel as an ineﬃcient mode of transport .........................................................................  
+
+Science, technology and innovation for avoiding congestion and improving 
+urban mobility .................................................................................................................................................................  
+
+Policy considerations ..................................................................................................................................................  
+
+III. c.  Resilience against natural hazards .................................................................................. 
+
+High exposure of urban areas to natural disasters ...................................................................................  
+
+Science, technology and innovation for monitoring and managing natural hazards ............. 
+
+Policy considerations ..................................................................................................................................................  
+
+1
+
+3
+
+3
+
+3
+
+4
+
+4
+
+7
+
+7
+
+9
+
+9
+
+9
+
+10
+
+11
+
+12
+
+12
+
+13
+
+15
+
+17
+
+17
+
+18
+
+19
+
+Table of Contents
+
+v
+
+IV.  Sustainable urban resource management ....................................................   21
+
+IV. a.  Energy for cities .................................................................................................................. 
+
+21
+
+Heavy energy consumption in cities .................................................................................................................  
+
+Science, technology and innovation for urban energy conservation ..........................................  
+
+Policy considerations ..................................................................................................................................................  
+
+21
+
+21
+
+22
+
+IV. b.  Solid waste management ................................................................................................. 
+
+24
+
+Exponential growth in urban waste ..................................................................................................................  
+
+Science, technology and innovation for waste management ..........................................................  
+
+Policy considerations ..................................................................................................................................................  
+
+24
+
+25
+
+25
+
+IV. c.  Resource-efficient buildings ............................................................................................ 
+
+26
+
+High energy consumption in buildings ..........................................................................................................  
+
+Science, technology and innovation for resource-eﬃcient buildings .........................................  
+
+Policy considerations ..................................................................................................................................................  
+
+26
+
+27
+
+29
+
+IV. d.  Water and agriculture ........................................................................................................ 
+
+30
+
+The damage of urban sprawl on peri-urban areas ...................................................................................  
+
+Science, technology and innovation for water and agriculture .......................................................  
+
+Policy considerations ..................................................................................................................................................  
+
+30
+
+32
+
+33
+
+V.  Recommendations and conclusion ................................................................   35
+
+V. a.  Urbanization as a key consideration in national innovation systems ...................... 
+
+V. b.  Mobilizing the private sector and civil society ............................................................. 
+
+V. c. 
+
+Innovative governance and financing models ............................................................. 
+
+V. d. 
+
+Inter-city learning as an opportunity area .................................................................... 
+
+V. e.  Cities undergoing a process of perpetual urbanization ............................................. 
+
+37
+
+37
+
+38
+
+39
+
+39
+
+VI.  Bibliography ....................................................................................................   41
+
+Tables
+
+Table 1.  Urban and rural populations by development group .........................................................................................  
+
+Table 2.  Regulatory instruments for land use and spatial planning ...............................................................................  
+
+Table 3.  Energy technology options ..................................................................................................................................................  
+
+Table 4.  Technology options for sustainable buildings ..........................................................................................................  
+
+Boxes
+
+Box 1. 
+
+New York City: Measuring sustainability .......................................................................................................................  
+
+Box 2. 
+
+Urbanization in China and India ........................................................................................................................................  
+
+Box 3. 
+
+Oman: Use of information and communications technologies for spatial planning .......................  
+
+Box 4. 
+
+Innovative spatial design strategies in practice .......................................................................................................  
+
+Box 5. 
+
+Bus rapid transit in developing countries ....................................................................................................................  
+
+Box 6. 
+
+Information and communications technologies tools for mobility ............................................................  
+
+Box 7. 
+
+Intermodal transport planning ...........................................................................................................................................  
+
+Box 8. 
+
+ Regulatory measures to avoid congestion ................................................................................................................  
+
+Box 9.  Malaysia: Storm-water management and road tunnel........................................................................................  
+
+Box 10.  Mainstreaming adaptation into urban planning and urban risk assessments .....................................  
+
+Box 11.  Regulatory support for renewable energy ..................................................................................................................  
+
+Box 12. 
+
+Technologies for energy generation and conservation in practice ............................................................  
+
+Box 13. 
+
+Integrated solid waste management in practice ....................................................................................................  
+
+Box 14.  Public–private partnerships and community initiatives for solid waste management ..................  
+
+Box 15. 
+
+Innovative construction technologies in practice ..................................................................................................  
+
+Box 16. 
+
+Innovative building regulations in practice ................................................................................................................  
+
+Box 17. 
+
+Sustainable housing programmes in practice ..........................................................................................................  
+
+Box 18.  Mozambique: Market gardening .......................................................................................................................................  
+
+Box 19. 
+
+Ecosystem assessments in practice .................................................................................................................................  
+
+3
+
+10
+
+22
+
+28
+
+5
+
+6
+
+11
+
+12
+
+14
+
+15
+
+16
+
+17
+
+19
+
+20
+
+23
+
+24
+
+25
+
+26
+
+29
+
+30
+
+31
+
+33
+
+34
+
+I. Introduction
+
+1
+
+I. Introduction
+
+The  past  two  decades  have  witnessed  the 
+emergence  of 
+the  new  developmental 
+phenomenon  of  urbanization.  Cities  are  not 
+only  the  engines  of  economic  growth  but 
+also  increasingly  spaces  of  shared  social, 
+cultural  and  economic  experiences  (United 
+Nations Human Settlements Programme (UN-
+Habitat),  2005).  Urbanization  is  synonymous 
+to most people in the developing world with 
+job creation and poverty reduction. Yet while 
+some cities across the world have managed to 
+benefit from urbanization as a developmental 
+tool  by  applying  the  right  policies,  others 
+have merely moved poverty to urban areas. In 
+addition,  various  examples  from  around  the 
+world  demonstrate  that  being  a  developed 
+country 
+is  not  a  prerequisite  for  sound 
+urbanization  that  contributes  to  economic 
+development.
+
+Urbanization  has  accompanied  large-scale 
+improvements in some developing countries 
+towards the Millennium Development Goals. 
+The  most  important  change  has  been  the 
+eradication of extreme poverty in rural areas, 
+for  instance  in  China.  Such  progress  has 
+depended  primarily  on  the  role  of  cities  in 
+employment  generation  and  their  ability  to 
+provide  basic  services  such  as  water,  health 
+and sanitation for the masses at a lower cost 
+than in rural areas.
+
+The  next  wave  of  urbanization  represents 
+an  opportunity  to  meet  the  Millennium 
+Development  Goals  and  raise  people  out 
+of  poverty.  Moving  to  cities  may  provide 
+employment,  health  and  sanitation  all  at 
+once  to  citizens  of  developing  countries. 
+Despite  this,  urbanization  is  a  core  concern 
+that developing countries struggle with, with 
+many common issues. Developing countries 
+need to find ways to accommodate growing 
+demands  on  their  cities  to  ensure  that  the 
+social,  cultural  and  environmental  needs  of 
+their citizens are met. Cities need to envisage 
+policies  that  bridge  growing  urban  divides 
+that  translate  not  only  into  unfair  economic 
+opportunities  but  also  unfair  access  to 
+
+services. Cities should aim to become shared 
+spheres of prosperity.
+
+issues.  Cities  account 
+
+Urbanization is a key environmental issue as 
+well. The rapid pace at which urbanization is 
+taking place in the developing world has an 
+impact  on  climate  change  and  other  global 
+environmental 
+for 
+more  than  two-thirds  of  the  global  energy 
+demand  and  result  in  up  to  80  per  cent 
+of  global  greenhouse  gas  emissions.  The 
+urban  planning  and 
+investment  choices 
+that  a  few  large  developing  countries  will 
+make  therefore  represent  one  of  the  most 
+important  environmental 
+the 
+twenty-first century. Entire new industries are 
+forming  with  the  aim  of  switching  to  clean 
+and  renewable  energies  and  managing  the 
+world’s resources in a more efficient manner, 
+primarily  in  developed  countries  but  also  in 
+the developing world. 
+
+issues  of 
+
+In  recent  years,  sustainable  urbanization 
+has  become  a  very  popular  topic.  Several 
+conferences  at  international,  regional  and 
+local 
+levels  have  periodically  discussed 
+urbanization  issues  in  detail.  Debate  on  the 
+topic has already reached a level of maturity 
+whereby  tools,  resources  and  applications 
+are  abundant  worldwide. 
+Innovation  on 
+is  happening 
+sustainable  urbanization 
+everywhere, 
+and 
+developing countries.
+
+in  both  developed 
+
+This  report  aims  to  contribute  to  the  sus-
+tainable urbanization discourse by address-
+ing the specific role of science, technology 
+and innovation. It is based on literature re-
+view and an analysis of cities in developed 
+and  developing  countries  that  provide  ex-
+amples  that  can  be  reapplied  elsewhere. 
+The report provides a fresh perspective on 
+the  discussion  on  sustainable  urbaniza-
+tion, drawing on current research and case 
+studies  from  around  the  world. The  report 
+identifies  key  sectoral  planning  challenges 
+posed by rapid urbanization, particularly in 
+developing  countries,  and  proposes  prac-
+
+2
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+tical  guidelines  to  city  planners  and  other 
+decision makers for addressing these chal-
+lenges through the use of science, technol-
+ogy and innovation.
+
+The  publication  draws  on  lessons  learned 
+from panels organized by the United Nations 
+Commission  on  Science  and  Technology 
+for  Development  on  the  topic  of  science, 
+technology  and  innovation  for  sustainable 
+cities and peri-urban communities during its 
+2012–2013 intersessional panel, held in Lima, 
+Peru in January 2013, and its sixteenth session, 
+held in Geneva, Switzerland in June 2013.
+
+II 
+
+Chapter 
+reviews  global  urbanization 
+trends  and  the  case  for  sustainable  urban 
+development.  Chapter  III  proposes  science, 
+technology  and 
+innovation  options  with 
+examples  of  policy  considerations  on  the 
+path  towards  sustainable  urban  planning. 
+Chapter  IV  looks  at  ways  in  which  science, 
+technology  and 
+improve 
+resource  management  in  an  urban  setting. 
+Finally, chapter V discusses policy implications 
+with  regard  to 
+increasing  the  diffusion 
+and  adoption  of  science,  technology  and 
+innovation  for  sustainable  urbanization  in 
+developing countries.
+
+innovation  can 
+
+II. Urbanization and sustainability
+
+3
+
+II. Urbanization and sustainability
+
+This  chapter  discusses  current  urbanization 
+trends, the relationship between urbanization 
+and  the  attainment  of  the  Millennium 
+Development  Goals  and  the  need  to  foster 
+sustainable  urbanization 
+improved 
+outcomes in developing countries.
+
+for 
+
+II. a. Trends of urbanization
+
+to 
+
+According 
+the  world  development 
+indicators of the World Bank, people living in 
+urban areas represented 52.6 per cent of the 
+world’s population in 2012. It is estimated that 
+by 2050 the number of inhabitants of urban 
+areas will increase from the current 3.5 billion 
+to  6.2  billion,  which  will  approximately 
+constitute more than two-thirds of the global 
+population.  The  unprecedented  pace  of 
+urbanization  in  developing  countries,  where 
+more  than  90  per  cent  of  urban  population 
+
+growth will occur over the next 30 years, is the 
+main driver of this trend. Most of this growth 
+will be attributed to mid-size towns.
+
+Table  1  shows  urbanization 
+trends  by 
+development  group.  The  growth  of  urban 
+areas  until  2050  will  primarily  take  place  in 
+developing  Asia,  Africa  and  Latin  America. 
+Rural areas of both developed and developing 
+regions will stagnate and urban populations 
+of  developed  regions  will  incur  a  very  small 
+increase. 
+is  expected  that  the  urban 
+population of sub-Saharan Africa will double, 
+to reach almost 600 million by 2030.
+
+It 
+
+Urbanization and the Millennium 
+Development Goals
+
+Urbanization 
+stimulated  by 
+economic  factors.  People  move  to  cities 
+in  search  of  jobs  and  a  better  quality  of  life. 
+
+is  mainly 
+
+Table 1.  Urban and rural populations by development group
+
+6,000
+
+5,000
+
+4,000
+
+3,000
+
+2,000
+
+1,000
+
+)
+s
+n
+o
+
+i
+l
+l
+i
+
+m
+
+(
+ 
+n
+o
+i
+t
+a
+u
+p
+o
+P
+
+l
+
+0
+1950      1960      1970       1980      1990      2000       2010      2020       2030      2040      2050
+
+More developed regions - Urban population
+More developed regions - Rural population
+
+Less developed regions - Urban population
+Less developed regions - Rural population
+
+Source:  Department of Economic and Social Aﬀairs – Population Division, 2012.
+
+4
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Cities generate four-fifths of the global gross 
+domestic  product  with  just  over  half  of  the 
+world’s population, on 2 per cent of the earth’s 
+surface (Department of Economic and Social 
+Affairs – Population Division, 2012). Most new 
+jobs  are  created  in  cities;  60  per  cent  of  the 
+increase in the global gross domestic product 
+between 2010 and 2025 is expected to come 
+from 600 cities (Gapper, 2012).
+
+in 
+
+Urbanization 
+the  developing  world 
+has  been  a  major  contributor  to  progress 
+towards  attaining  some  of  the  Millennium 
+Development Goals, such as those related to 
+poverty,  sanitation  and  health.  This  is  to  be 
+expected,  given  that  on  average  a  10  per 
+cent increase in a country’s urban population 
+results  in  a  30  per  cent  increase  in  that 
+country’s  per  capita  output.  In  addition,  per 
+capita incomes are almost four times higher 
+in majority-urban countries in comparison to 
+majority-rural countries (Glaeser, 2011). 
+
+In  addition  to  their  role  in  alleviating  poverty 
+through  their  economic  dynamism,  cities  also 
+make  public  services  more  accessible  (World 
+Bank  and  International  Monetary  Fund,  2013). 
+Due  to  the  economies  of  scale  achieved 
+through  their  higher  density,  it  is  less  costly 
+to  provide  piped  water,  sanitation,  education 
+and  health  care  services  in  urban  areas.  The 
+provision of such services is directly linked to the 
+Millennium  Development  Goals.  For  instance, 
+in  sub-Saharan  Africa,  urbanization  facilitated 
+half of the decline in poverty. In addition, nearly 
+30  per  cent  of  improvements  on  target  7.C1 
+was achieved by urbanization (World Bank and 
+International Monetary Fund, 2013).
+
+Growing urban divides in all spheres 
+
+Urbanization has raised the standard of living for 
+many  by  offering  employment  opportunities 
+and  better  public  services.  However,  it  also 
+comes with important challenges, particularly 
+for developing countries. In many parts of the 
+world,  urbanization  has  not  taken  place  in  a 
+socially  inclusive  manner.  Many  developing 
+countries  have  not  been  able  to  predict  and 
+
+requirements 
+
+prepare  for  the  rapid  pace  of  urbanization 
+that  is  in  progress.  Even  where  the  trend  is 
+predictable,  cities  are  unable  to  address  the 
+needs  of  growing  populations  and  cope 
+with  surging 
+for  housing, 
+physical  infrastructure,  including  roads  and 
+telecommunications  technologies,  and  social 
+services,  such  as  health  and  education.  The 
+continuation  of  current  urbanization  patterns 
+in  the  developing  world  could  lead  to  urban 
+decay  and  a  low  quality  of  life,  adversely 
+affecting the economic growth of developing 
+countries.
+
+Although urbanization itself is not the cause of 
+poverty, unplanned urbanization is resulting in 
+the shift of poverty to urban areas in developing 
+countries. In 2012, urban poverty was already 
+a  serious  issue:  525  million  urban  inhabitants 
+lived  on  under  $1  per  day,  while  1.2  billion 
+citizens lived on under $2 per day. The growth 
+of  slums  has  been  inevitable,  representing 
+38  per  cent  of  urban  growth  around  the 
+world and three-quarters of urban population 
+growth in sub-Saharan Africa. The global slum 
+population  has  been  growing  by  more  than 
+20 million additional slum dwellers per year and 
+will reach a projected total of 1.4 billion in 2020. 
+In Africa, more than half of urban citizens live in 
+informal settlements, where the water supply 
+and sanitation are severely inadequate. Climate 
+change is exacerbating the risk of disasters for 
+populations living in such inadequate shelters. 
+
+The growth of slums has a direct impact on the 
+attainment  of  the  Millennium  Development 
+Goals  in  cities.  In  2007–2008,  UN-Habitat, 
+the  United  Nations  Human  Settlements 
+Programme, measured indicators of progress 
+towards 
+the  Millennium  Development 
+Goals  in  slums  and  other  areas  of  200  cities 
+globally.  The  study 
+indicated  that  slum 
+dwellers die earlier, experience more hunger, 
+are  less  educated,  have  fewer  chances  for 
+employment  and  suffer  more  ill  health  than 
+the rest of the urban population.
+
+II. b. Sustainable urbanization
+
+1 
+
+Target 7.C: Halve, by 2015, the proportion of the population 
+without sustainable access to safe drinking water and basic 
+sanitation.
+
+It is due to these trends that there is a need 
+to  focus  on  sustainable  urbanization,  in 
+terms of what can be considered sustainable 
+
+II. Urbanization and sustainability
+
+5
+
+Box 1. 
+ 
+
+New York City: Measuring
+sustainability
+
+New York  City  has  launched  PlaNYC,  a  comprehensive 
+agenda  that  includes  long-term  targets  for  enhanc-
+ing  infrastructure,  the  environment,  quality  of  life  and 
+the  economy  to  accommodate  an  additional  1  million 
+people  until  2030.  PlaNYC  measures  29  sustainability 
+indicators in categories including housing, parks, public 
+transport, water supply, energy eﬃciency and air quality 
+through  a  dedicated  oﬃce  of  long-term  planning  and 
+sustainability.
+
+Sources: Green Media, 2012; and PlaNYC, 2015.
+
+or  unsustainable  in  the  future  and  how 
+to  address  the  issue.  There  is  no  generally 
+agreed common definition of sustainability or 
+sustainable urbanization. However, there is a 
+growing set of areas and actions that together 
+constitute  the  benchmarks  for  sustainable 
+urbanization.  The  definition  continues  to 
+evolve and higher standards are set.
+
+In 
+
+addition, 
+
+The  economic,  social  and  environmental 
+effects  of  uncontrolled  rapid  urbanization 
+are  increasing  awareness  of  the  need  for 
+sustainable practices. Large-scale events such 
+as  the  Olympics  are  increasingly  evaluated 
+on whether they incorporate legacy projects 
+that plan the reuse of facilities following the 
+event. New ecological cities are planned and 
+constructed  that  rely  fully  on  sustainable 
+technologies. 
+are 
+increasingly setting goals and measuring their 
+sustainability by using indicators such as the 
+availability of shelter and safe drinking water, 
+urban  density,  public  space  as  a  percentage 
+of urban area, energy efficiency of buildings, 
+share  of  renewable  energy  sources,  access 
+and  proximity  to  mass  transit,  wastewater 
+treatment,  number  of  road  traffic  fatalities, 
+solid waste management and recycling (UN-
+Habitat, 2012c). box 1 presents an example of 
+measuring sustainability in the United States 
+of America.
+
+cities 
+
+The  definition  of  sustainability  in  the  urban 
+context can be divided into the subsections 
+of smart, environmentally friendly, prosperous 
+and socially inclusive cities, as follows:
+
+•  Smart  cities  cover  the  needs  of  their 
+citizens adequately. They offer high-quality 
+
+services,  including  mobility,  habitat  and 
+public space. 
+
+•  Environmentally friendly cities manage their 
+resources efficiently. They minimize waste 
+and  promote  environmental  awareness 
+among  citizens  and  environmentally 
+friendly  buildings 
+construction 
+materials to reduce energy consumption. 
+
+and 
+
+tapping 
+
+•  Prosperous  cities  maximize  economic 
+opportunities  by 
+the 
+competitive advantages of their locations, 
+not  only  at  the  city  level  but  beyond, 
+covering  the  region,  in  order  to  attract 
+entrepreneurship  and  new  economic 
+activity. 
+
+into 
+
+•  Socially  inclusive  cities  strive  to  increase 
+quality  of  life  for  all  citizens  regardless  of 
+income levels, through increasing safety by 
+addressing  crime,  stimulating  economic 
+opportunities for the poor and integrating 
+informal areas, and practising governance 
+that involves the public in decision-making 
+structures.
+
+and 
+
+land 
+
+Sustainable  urbanization  can  thus  cover 
+all  actions  that  lead  to  a  more  efficient 
+management  of 
+resources, 
+improved  mobility,  economic  dynamism, 
+higher environmental quality, safety, security, 
+access to urban services and social cohesion. 
+Generally,  the  relevant 
+literature  accepts 
+sustainable  cities  as  those  that  have  sound 
+spatial  plans  that  address  the  needs  of  their 
+population,  ensure  the  circulation  of  people 
+through sound mobility systems and use their 
+resources  efficiently,  and  even  manage  to 
+build a circular economy through means such 
+as recycling. This definition may be seen as the 
+narrow definition of sustainable urbanization. 
+In the broader sense, sustainable urbanization 
+also  addresses  social  policies,  including  for 
+reducing  crime  and  ensuring  social  justice, 
+funding  models  and  governance  structures. 
+Since science, technology and innovation are 
+more relevant to and have a stronger impact 
+on sectors included in the narrow definition 
+of  sustainable  urbanization,  this  report  will 
+cover their role accordingly.
+
+6
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Sustainable  urbanization  comes  at  a  cost.  In 
+the next 10 years, more than $10 trillion will 
+need to be invested in urban infrastructure in 
+Asia and Latin America (Economic and Social 
+Commission  for  Asia  and  the  Pacific  et  al., 
+2011). In the period until 2030, twenty times 
+the infrastructure capacity added during the 
+past  decade  is  needed  for  roads  and  public 
+transport  across  the  world.  The  estimated 
+rate  of  urbanization  in  China  and  India  until 
+2050, outlined in box 2, attests to the scale of 
+investments required to address the needs of 
+growing urban populations in terms of jobs, 
+housing,  basic  services  and  infrastructure. 
+Furthermore,  urban  population  growth 
+and  steadily  rising  incomes  result  in  higher 
+resource  consumption.  Cities  around  the 
+world, especially rapidly growing cities in Asia, 
+Africa and Latin America, need to find ways to 
+delink urban economic growth from resource 
+consumption. Urbanization is creating cross-
+sectoral  governance  challenges, 
+including 
+
+Box 2. 
+
+Urbanization in China and India
+
+Proportion of urban and rural populations
+
+imbalances in quality of life and other social 
+issues  that  need  to  be  addressed  through 
+integrated multi-stakeholder mechanisms.
+
+It  encompasses 
+
+Urbanization 
+is  a  multidimensional  and 
+complex process. Due to the wide scope of the 
+topic,  sustainable  urbanization  is  addressed 
+by  several  international  organizations,  such 
+as  UN-Habitat. 
+several 
+dimensions,  some  of  which  are  addressed 
+through  policies  that  are  beyond  the  realm 
+of  science,  technology  and  innovation.  For 
+example,  addressing  the  topic  of  housing 
+versus habitat concerns not only construction 
+but several other departments, since habitat 
+includes  the  provision  of  access  to  jobs  as 
+well  as  housing.  Science,  technology  and 
+innovation  are  key  enablers  of  sustainable 
+urbanization,  yet  not  the  only  ones,  and 
+have  prerequisites  such  as  local  regulations, 
+capacity-building 
+accountability. 
+Science, technology and innovation are part 
+of  comprehensive 
+improve 
+
+and 
+
+initiatives  to 
+
+China  
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+Urban
+Rural
+
+100
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+India
+
+Urban
+Rural
+
+0
+1950  1960             1980              2000             2020               2040  2050
+
+0
+1950  1960              1980              2000              2020              2040  2050
+
+Urbanization in the developing world is led by China and India. The urban population of China is expected to increase from 
+just above 10 per cent in 1950 to almost 80 per cent in 2050. In India, urbanization has been slower but will accelerate after 
+2020 to pass the 50 per cent threshold in 2050. Urbanization will continue to drive increases in national income in both 
+countries. For instance, 70 per cent of all new jobs in India will be created in urban areas, with twice the productivity level 
+of equivalent jobs in rural areas. Cities will drive social inclusion as well since public infrastructure, such as for water and 
+sanitation, is more aﬀordable in urban areas than in sparsely populated areas.
+
+Sources:  Department of Economic and Social Aﬀairs – Population Division, 2014; Dobbs et al., 2011; and Sankhe et al., 
+
+2010.
+
+II. Urbanization and sustainability
+
+7
+
+cities, along with other components such as 
+leadership, urban governance, regulation and 
+financing.
+
+This report, which is part of the UNCTAD series 
+on  current  studies  on  science,  technology 
+and innovation, focuses on their specific role 
+in bringing about sustainable urbanization in 
+developing countries and how to strengthen 
+this  role.  Therefore,  for  the  purposes  of  this 
+report,  sustainability  refers  to  all  practices 
+based on science, technology and innovation 
+that  lead  to  an  improved  quality  of  life  for 
+urban citizens. 
+
+II. c. Role of science,  
+
+ 
+  technology and innovation  
+  in the urban context
+
+ 
+
+Science,  technology  and  innovation  are  key 
+elements  of  sustainable  urbanization  and 
+will  play  a  growing  role  as  such.  Their  use 
+may  not  solve  all  urbanization  problems, 
+yet  can  provide  a  multitude  of  solutions 
+that  can  be  leveraged  by  cities.  The  use 
+of  science,  technology  and  innovation  in 
+the  urban  context  implies  the  application 
+of  both  high  and 
+low  technology  and 
+innovative  approaches  to  urban  planning 
+and 
+Science, 
+technology  and  innovation  approaches  are 
+widely  available  for  cities  to  draw  upon,  yet 
+cities  are  complex  structures  that  require 
+integrated  responses  to  their  problems  and 
+there  are  sometimes  difficulties  related  to 
+such integration. 
+
+institutional 
+
+innovation. 
+
+Although  this  report  separately  analyses 
+the  various  sectors  that  are  important  for 
+sustainable  urbanization,  it  is  necessary  for 
+urban  planners  and  managers  to  address 
+issues  with  an  intersectoral  mindset.  Urban 
+systems  need  to  be  designed  with  multiple 
+uses 
+in  mind.  Science,  technology  and 
+innovation  offer  a  range  of  related  options, 
+including  high  technology,  low  technology 
+and 
+innovative  governance.  Combining 
+science, technology and innovation to solve 
+urban problems is often contextual, although 
+there  are  several  good  practices  to  draw 
+upon from cities across the globe.
+
+and 
+
+research, 
+
+technology 
+
+Science, 
+innovation 
+contribute  to  sustainable  urbanization  in 
+a  variety  of  ways,  including  with  regard 
+in  spatial  planning, 
+to  new  capabilities 
+socioeconomic 
+enhancing 
+cooperation  between  urban  departments, 
+optimizing mobility and enabling sustainable 
+resource management. A science, technology 
+and innovation-oriented mindset also brings 
+about 
+in 
+urban  governance,  such  as  for  participatory 
+budgeting  and  regional  urban  planning. 
+Finally,  science,  technology  and  innovation 
+contribute  to  social  inclusion  by  improving 
+the  tools  available  to  urban  planners  to 
+respond  to  the  needs  of  excluded  groups 
+and to increase sensitivity to gender equality.
+
+innovative  models  of  thinking 
+
+Each urban setting faces different challenges 
+and has different technology needs. In some 
+cases, 
+inexpensive  and  readily  available 
+technologies  may  be  the  best  solution  to 
+urban  problems.  For  example,  intermodal 
+transport  services  can  be  designed  without 
+necessarily 
+expensive  high-
+technology  means  of  transport.  Promoting 
+bicycles,  an  affordable,  healthy,  clean  and 
+energy-efficient technology, may be the best 
+option to improve mobility in many cities, for 
+both younger and older citizens. 
+
+requiring 
+
+Furthermore, innovation, which in the urban 
+context  may  refer  to  any  new  method, 
+business  model,  policy,  institutional  design 
+or regulation, could meet the needs of urban 
+populations in a more efficient, effective and 
+sustainable way. For instance, improved rules 
+or legislation, as well as improved institutions, 
+stakeholder  participation  models  and  new 
+means of delivering services, can contribute 
+to  sustainable  urbanization.  As  a  final  point, 
+high technology, low technology and urban 
+innovation can also be integrated to address 
+a specific urban issue in harmony.
+
+II. d. Cities as systems
+
+technologies  work 
+
+A  sociotechnical  system  is  the  way  humans 
+and 
+to 
+produce  outcomes.  The  answers  to  societal 
+challenges  cannot  be  expected  to  come 
+from technologies alone but rather from how 
+
+together 
+
+8
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+technologies are developed and used in the 
+overall  development  process.  For  example, 
+a  transportation  system  is  not  only  vehicles 
+and roadways but also how people drive, ride, 
+build and maintain them. The city itself can be 
+viewed  as  a  complex  sociotechnical  system 
+that  addresses  the  needs  of  densely  settled 
+communities.  Science, 
+technology  and 
+innovation approaches may therefore be seen 
+not  merely  as  technologies  but  within  the 
+context of the urban sociotechnical system. 
+Cities  are  ultimately  places  where  humans 
+live  and  must  therefore  address  human 
+needs  and  aspirations.  When  envisaging 
+science,  technology  and 
+for 
+cities,  it  is  necessary  to  ensure  harmony 
+between  engineered  systems  and  design 
+and  architectural  concerns.  For  example, 
+when  planning  roads  with  a  technocratic 
+mindset,  one  might  achieve  perfection  in 
+terms of engineering, yet actually destroy the 
+fabric of a city as a place where people enjoy 
+living, as is often true in the use of elevated 
+highways. Cities provide science, technology 
+and 
+innovation  with  an  opportunity  to 
+produce  benefits  for  large  populations,  if 
+the related solutions are applied to address 
+human needs.
+
+innovation 
+
+Science,  technology  and  innovation  are  key 
+ingredients  for  sustainable  urbanization  in 
+developing countries, yet not the only ones, 
+and have prerequisites to be effective, such as 
+institutional and regulatory reform, socially in-
+clusive policymaking, the availability of funds 
+and the establishment of partnerships. Cities 
+need to be viewed as complete sociotechni-
+cal  systems  in  order  for  science,  technology 
+and innovation-related solutions to be effec-
+
+tive,  and  such  solutions  will  be  ineffective  if 
+other policies do not complement them. Sci-
+ence,  technology  and  innovation  drive  so-
+ciotechnical change, yet city leaders need to 
+increase the awareness of citizens to the ur-
+gency of sociotechnical change for their own 
+well-being and quality of life. Such solutions 
+also need to be accompanied by leadership, 
+a supportive regulatory environment, educa-
+tion and citizen participation. One simple way 
+to explain the positioning of science, technol-
+ogy and innovation as part of a comprehen-
+sive framework of policies leading to sustain-
+able urbanization is through the example of 
+bicycle-sharing programmes. Such initiatives 
+cannot  succeed  without  dedicated  lanes, 
+laws that clarify priorities in traffic and, most 
+importantly, education and awareness-raising 
+so that citizens no longer rely on their auto-
+mobiles for all travel.
+
+Within an urban sociotechnical system, more 
+positive  outcomes  may  be  achieved  if  cities 
+are  designed  with  an  intersectoral  mindset, 
+for  instance  when  addressing  energy,  water 
+and  public  health  in  an  integrated  manner. 
+In  some  cases,  the  best  application  of 
+science,  technology  and  innovation  may  be 
+a  combination  of  low  and  high  technology 
+in  one  package  and 
+is  necessary  for 
+city  management  to  find  an  appropriate 
+balance.  For  example,  building  design, 
+energy consumption and mobility are closely 
+interlinked;  taller  buildings  may  negatively 
+affect  exposure  to  sunlight,  reducing  the 
+potential for the use of solar panels, and street 
+width  affects  the  capacity  to  accommodate 
+multiple  modes  of  transport,  as  well  as  the 
+architecture of buildings.
+
+it 
+
+III. Sustainable urban planning
+
+9
+
+III. Sustainable urban planning
+
+chapter 
+
+innovation 
+
+addresses  how 
+
+This 
+science, 
+technology and innovation can contribute to 
+sustainable urban planning in order to address 
+issues such as urban sprawl, traffic congestion 
+and  natural  hazards.  The  chapter  presents 
+several important uses of science, technology 
+and 
+in  areas  such  as  spatial 
+planning, mobility and disaster resilience. This 
+is not an exhaustive list but rather a selection 
+of  highly  relevant  uses,  to  draw  attention 
+to  the  potential  of  science,  technology 
+and  innovation.  Several  cities  around  the 
+world are already using innovative planning, 
+technology  and  governance  models 
+in 
+sectors such as spatial planning and mobility 
+to address these complex challenges.
+
+III. a. Density, land use and  
+
+  spatial planning
+
+ 
+
+long-term  spatial  planning  and 
+
+This  report  first  considers  spatial  planning 
+in  its  sectoral  analysis  of  sustainable  urban 
+development  as  it  is  a  cross-cutting  theme 
+that  affects  all  other  sectors.  Urbanization 
+in  developing  countries  takes  place  with 
+little 
+is 
+driven  by 
+short-term  profitability 
+expectations  of  the  real-estate  sector.  Even 
+planned development strategies sometimes 
+underestimate the pace of urbanization. For 
+example, the 1995 plan for Shanghai, China 
+estimated a population of 15 million by 2020, 
+yet  the  city  had  already  reached  16  million 
+inhabitants in 2000. 
+
+the 
+
+Current research in urban planning promotes 
+more  compact  and  dense  spatial  planning 
+for  cities.  There  are  several  ways  in  which 
+increasing density may be beneficial for cities 
+with  growing  populations.  The  following 
+section  discusses  alternatives  for  how  to 
+achieve this.
+
+Urban sprawl and its effects
+
+Unplanned  urbanization  often  results 
+in 
+urban  sprawl,  which  is  commonly  defined 
+
+transport  and  utilities 
+
+as  single-use  low-density  urbanization  and 
+has  several  negative  dimensions.  Whereas 
+urban sprawl was previously associated with 
+North American cities, it is rapidly extending 
+to  cities  across 
+the  developing  world 
+(Economic  and  Social  Commission  for  Asia 
+and  the  Pacific  et  al.,  2011).  The  density  of 
+urban areas in terms of number of people per 
+hectare  is  decreasing  across  the  world  due 
+to uncontrolled urban sprawl. Lower density 
+makes  it  more  challenging  and  expensive 
+to  provide  adequate  public  services  such 
+as 
+(UN-Habitat, 
+2012c).  Unplanned  urbanization  results  in 
+investments  that  dictate  future  urban  land 
+and  resource  consumption  patterns.  It  is 
+costly to replace such investments with more 
+sustainable infrastructure later on since they 
+lock  in  the  options  of  urban  planners  (UN-
+Habitat, 2012c).
+As a result of unplanned urbanization, millions 
+of people live in informal settlements on the 
+periphery  of  cities  without  access  to  basic 
+services, water and sanitation due to the lack 
+of funds to carry out important infrastructure 
+projects. For example, large shortfalls in water 
+supply  have  increasingly  been  experienced 
+in  Lagos,  Nigeria,  where  official  supplies 
+barely meet half the level of demand due to 
+population growth, insufficient infrastructure, 
+illegal 
+connections,  poor  maintenance 
+and  inadequate  access  to  limited  supplies 
+(Worldwatch Institute, 2007). 
+Urban 
+the 
+environment  and  affecting  the  livelihood 
+of  communities  located  in  the  immediate 
+vicinity  of  cities  by  covering  land  that  could 
+otherwise be utilized for agriculture, tourism or 
+recreational activities. For example, significant 
+damage has been caused to environmentally 
+sensitive  areas  around  the  following  cities: 
+São Paulo, Brazil; San José, Costa Rica; Panama 
+City,  Panama;  and  Caracas,  the  Bolivarian 
+Republic  of Venezuela  (Economic  and  Social 
+Commission  for  Asia  and  the  Pacific  et  al., 
+2011).
+
+is  also  damaging 
+
+sprawl 
+
+10
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Science, technology and innovation for 
+spatial planning
+
+Cities can accommodate growing populations 
+in  accordance  with  their  land  use,  spatial 
+design  and  density  plans  by  combining 
+several 
+instruments.  Table  2 
+provides examples of regulatory instruments 
+for  land  use  and  spatial  planning  that  can 
+contribute to sustainable growth in cities.
+
+regulatory 
+
+Information  and  communications  technolo-
+gies play a key role in enabling and enforcing 
+regulatory measures such as the above for the 
+spatial planning of urban areas. For example, 
+city  planners  can  use  simulation,  modelling 
+and  visualization  technologies  to  aid  long-
+term  planning  and 
+investment  decisions 
+(Dodgson  and  Gann,  2011).  Geospatial  tools 
+can  identify  infill  zones  such  as  abandoned 
+land or buildings that are suitable for redevel-
+
+Table 2.  Regulatory instruments for land use and spatial planning
+
+Urban growth boundaries
+
+Establishing clear limits to any form of building development around cities to limit 
+urban sprawl; creating green corridors that protect existing ecosystems.
+
+Land-use regulation
+
+Introducing zoning regulation that prioritizes the development of previously 
+developed – brownfield – land in the inner city over greenfield development at 
+a citywide level.
+Closely linked to infill development, which refers to new construction within 
+existing urban areas as opposed to urban expansion.
+
+Promotion of mixed-use 
+settlements
+
+Designing neighbourhoods that include residential, service and local 
+employment elements and are adequately covered in terms of basic services and 
+infrastructure.
+
+Density regulation
+
+Density bonus
+
+Providing minimum rather than maximum density standards; establishing clear 
+density standards at a citywide level, such as floor area ratios,2 in support of 
+compact city development with a hierarchy of higher-density mixed-use clusters 
+around public transport nodes.
+
+Providing development bonuses that allow increased development rights, for 
+example extra floor area with respect to standard planning regulations, for green 
+projects that support citywide and local sustainability.
+
+Special planning powers
+
+Establishing urban development corporations or urban regeneration companies to 
+promote and enable green projects.
+
+Vehicle and traffic regulation
+
+Introducing regulation for vehicle types, emission standards, speed limits and road 
+space allocation that favours green transport, especially green public transport.
+
+Parking standards
+
+Providing maximum rather than minimum parking standards; reducing 
+private automobile parking standards to a minimum, for example less than 
+one automobile per household, especially in areas of high public transport 
+accessibility.
+
+Car-free developments
+
+Providing planning incentives for car-free developments in higher-density areas 
+with high public transport accessibility.
+
+Minimum emission 
+standards
+
+Regulating minimum carbon-emission and energy-efficiency standards at the local 
+level for buildings and vehicles.
+
+Sources:  United Nations Environment Programme, 2011; and Wheeler, 2008.
+
+2 
+
+The ﬂoor area ratio is the most common density measure for planning purposes and is calculated by adding all the area of residential 
+and business ﬂoor spaces and dividing it by the entire area of the development site (United Nations Environment Programme, 2011).
+
+III. Sustainable urban planning
+
+11
+
+Box 3.  Oman: Use of information and communications technologies for
+ 
+
+spatial planning
+
+Information and communications technologies are increasingly being used in the form of geospatial applications in 
+urban areas. Oman, in partnership with the International Society of City and Regional Planners, is developing a plan-
+ning information system as part of its national spatial strategy. The system will become the central hub for all types 
+of  spatial  data  in  the  country,  supplied  by  data  from  multiple  national  institutions.  It  will  be  complemented  by  a 
+capacity-building programme in order that the system may be managed locally. Data will be linked to a map and the 
+system will help access information on serviced land in Oman, such as with regard to utility networks, by overlaying 
+different types of data.
+
+Source:  Suri, 2013.
+
+opment and plan for their reallocation. Geo-
+spatial data can be used for scenario planning 
+to  envision  future  urban  development  that 
+is consistent with a city’s historic and current 
+development path. Geospatial tools can also 
+combine  statistical  information  with  satel-
+lite maps to run analyses such as on poverty 
+targeting,  urban  infrastructure  and  transport 
+planning  and  socioeconomic  analyses  such 
+as  crime  statistics  and  the  tracking  of  illegal 
+settlements  (UNCTAD,  2012a).  In  Bangkok, 
+Thailand spatial data is used to analyse flood 
+risks  and  improve  the  security  of  tenure  in 
+informal  settlements.  box  3  provides  an  ex-
+ample of the use of information and commu-
+nications technologies for spatial planning in 
+Oman.
+
+Policy considerations
+
+Developing spatial plans in the early phases 
+of  urbanization  based  on  the  political 
+consensus  of  stakeholders,  support  from 
+the  private  sector  and  outside  assistance 
+or  investment  can  prevent  the  later  waste 
+of  financial  resources.  Spatial  plans  are 
+the  strategic  decisions  of  cities  on  spatial 
+design  and  density  that  take  into  account 
+population  growth  estimates,  topographic 
+characteristics and the capacity to implement 
+related changes (UN-Habitat, 2012c). 
+
+spatial  design  options 
+
+The  main 
+to 
+accommodate  population  growth  are  as 
+follows:
+
+• 
+
+Increasing density
+
+•  Extending the city
+
+•  Multiplying  nodes  by  building  satellite 
+
+towns 
+
+Spatial  planning  can  optimize  the  density 
+of  cities  according  to  urban  development 
+goals and enable public services that achieve 
+economies of scale. Increasing urban density 
+can  save  costs  arising  from  the  provision 
+of  basic  services  to  scarcely  inhabited  and 
+extended city outskirts. It can also be beneficial 
+in terms of encouraging public transport. For 
+example, high density in central Hong Kong 
+(China)  allows  85  per  cent  of  all  trips  to  be 
+made by using public transport (UN-Habitat, 
+2012c).
+
+Increasing  density  can  be  a  solution  for 
+physical  limitations  on  urban  growth,  as  is 
+often  seen  in  city-States  such  as  Singapore 
+or  cities  of  small  island  developing  States. 
+Academic  research  has  shown  that  higher 
+population  density  in  cities  leads  to  more 
+face-to-face  interactions  between  citizens, 
+which results in a superlinear acceleration of 
+innovation, wealth creation and productivity. 
+At  the  same  time,  too  much  density  is  also 
+not advisable since it can result in the overuse 
+of  public  infrastructure  that  will  depreciate 
+early.  Research  in  247  large  counties  in  the 
+United States identified that public spending 
+first  decreases  with  higher  density  but  can 
+increase  after  a  tipping  point  (UN-Habitat, 
+2012c).
+
+Densification  policies  can  be  coupled  with 
+innovative  models  of  urban  development. 
+On  high-value  public  land  that  is  covered 
+by slums, local governments can implement 
+
+12
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Box 4. 
+
+Innovative spatial design strategies in practice
+
+Portland,  United  States,  is  a  city  that  experiences  relatively  stable  population  growth  and  its  spatial  design  was 
+therefore  based  on  increasing  density. The  city  established  an  urban  growth  boundary  and  prioritized  infill  de-
+velopment by regenerating brownfield areas and replacing degraded buildings with new ones that had a higher 
+capacity. 
+
+Cape Town, South Africa, adopted a densification policy in February 2012 in order to address challenges of rapid 
+low-density development such as long travel distances, loss of agricultural land and operational inefficiencies (City 
+of Cape Town, 2012). The policy supports the increase of average gross density through the subdivision or consoli-
+dation of plots, in order to make room for redevelopment at higher densities. Objectives include the efficient use 
+of infrastructure, development of public transport, protection of the environment, revitalization of city life through 
+mixed land uses and the development of attractive and safe urban environments.
+
+If a city grows faster than 1 to 2 per cent per year, infill development may not be sufficient and extending the city at 
+its fringes may be required. The Commissioners’ Plan of 1811, the original design plan for the streets of Manhattan, 
+was a far-sighted extension plan that foresaw such gradual expansion. 
+
+For cities with even higher growth rates, establishing satellite towns in the vicinity of major cities may be an ap-
+propriate solution, as envisaged in the Comprehensive Plan 1999–2010 of Shanghai, which includes nine satellite 
+towns that will receive migration from rural areas. Moreover, building strong links between cities within a region, 
+as occurs in Seoul, Republic of Korea, can lead to new possibilities for cooperation such as joint financing, sharing 
+infrastructure with other towns and joint regional governance mechanisms to manage transport, waste and water 
+resources.
+
+Sources:  Gill and Bhide, 2012; and UN-Habitat, 2012c.
+
+slum-upgrading programmes for the benefit 
+of  all  stakeholders.  They  can  propose 
+improved  housing  for  occupants  of  slums 
+in higher modern buildings on parts of the 
+same land. The private sector can construct 
+these  buildings  free  of  cost  in  return  for 
+development 
+in  other  zones  of 
+the  city.  As  a  result,  the  city  can  upgrade 
+infrastructure  at  no  cost,  optimize  land  use 
+and create open space on valuable land with 
+the  help  of  vertical  resettlement  (Gill  and 
+Bhide, 2012).
+
+rights 
+
+Spatial plans can include regional integration 
+aspects.  Cities  are  located  in  regions  and 
+should  undertake  metropolitan  strategic 
+planning  for  integration  with  their  regions 
+and  not  only  in  the  jurisdiction  area  of  the 
+metropolitan  zone  to  which  they  belong. 
+Various  spatial  design  strategies  can  be 
+implemented  depending  on  the  needs 
+of  the  specific  urban  area.  box  4  provides 
+examples  of  cities  that  have  implemented 
+innovative spatial design strategies.
+
+dependence 
+
+transport. Cities can be designed by locating 
+mixed-use  developments  and 
+jobs  near 
+intermodal  public  transport  connections, 
+thereby  minimizing 
+on 
+automobiles  and  reducing  the  distance  that 
+people need to travel. Spatial design should 
+plan for integrating the incoming population 
+into the public transport system. Each mode 
+of  public  transport  requires  a  minimum 
+density  to  be  economical,  and  the  choice 
+between  buses,  trams  and  light  rail  may  be 
+identified accordingly. For example, a density 
+of  20  persons  per  hectare  generally  makes 
+urban  zones  dependent  on  automobiles.  As 
+of  60  persons  per  hectare  public  transport 
+starts to be economical and as of 150 persons 
+per  hectare  walking  and  bicycling  may  be 
+considered practical transport modes.
+
+III. b. Mobility
+
+Automobile travel as an inefficient 
+mode of transport
+
+Spatial  planning 
+includes  public 
+transport  networks  from  the  very  beginning 
+is  a  key  factor  in  helping  to  prioritize  public 
+
+that 
+
+Population  growth  and  rapid  migration  to 
+cities  make  it  harder  to  predict  and  plan 
+potential  public  transport  routes  that  can 
+
+III. Sustainable urban planning
+
+13
+
+answer the needs of inhabitants. As mentioned 
+in  the  previous  section,  in  low-density  cities 
+it  is  more  difficult  to  introduce  cost-efficient 
+public  transport  due  to  increased  distances 
+and a decreased number of people per trip. It 
+takes years to reverse transport strategies that 
+do  not  answer  the  needs  of  citizens,  due  to 
+the cost and scale of underlying investments. 
+infrastructure 
+Investing 
+causes 
+investment 
+needs  for  a  later  shift  to  means  of  public 
+transport.  Moreover,  low  population  density 
+results in higher per capita transport energy 
+consumption.
+
+lock-in  that  multiplies 
+
+automobile 
+
+in 
+
+is 
+
+fossil 
+
+fuel-powered 
+Mobility  based  on 
+automobiles 
+increasingly  becoming  a 
+liability  for  the  world’s  cities.  In  many  cities, 
+automobile  ownership  is  too  costly  for  the 
+majority of inhabitants, for example in Nairobi, 
+Kenya,  where  only  1  in  7  inhabitants  has  an 
+automobile  (UN-Habitat,  2012c).  Prioritizing 
+automobile  travel  excludes  most  of  the 
+population from adequate means of transport. 
+Automobiles are the most spatially inefficient 
+transport mode, as they can carry only 2,000 
+people per hour on a 3.5 metre-wide lane in 
+the city, in comparison with 20,000 people via 
+a  single-lane  bus  rapid  transit  system  (Asian 
+Development  Bank  and  German  Agency  for 
+International Cooperation, 2011).
+
+Traffic congestion causes economic damage 
+to  cities.  For  example,  Bangkok  is  losing 
+6  per  cent  of  its  gross  domestic  product  to 
+congestion,  a  percentage  comparable  to 
+the tourism sector of the city, which produces 
+7  per  cent  of  the  gross  domestic  product. 
+In  Mexico  City,  Mexico  the  average  daily 
+commute  time  is  2.5  hours,  creating  a  loss 
+of  2.6  per  cent  of  gross  domestic  product 
+(Glaeser, 2011). The cost of traffic congestion 
+is 10 per cent of the gross domestic product 
+of  Lima,  Peru  and  3.4  per  cent  of  the  gross 
+domestic product of Buenos Aires, Argentina 
+(Economic and Social Commission for Asia and 
+the Pacific et al., 2011). Most of this economic 
+loss comes from the value of the time lost by 
+drivers and passengers. Moreover, congestion 
+worsens  carbon  emissions  and  air  pollution, 
+resulting in negative effects on health.
+
+Automobile travel requires vast land for roads 
+and  parking  areas.  New  sprawling  suburbs 
+have high infrastructure costs and cause the 
+loss of productive agricultural land as well as 
+the loss of urban land to asphalt. Due to their 
+hard surfaces, roads also make the absorption 
+of storm-water more difficult.
+
+While fossil-fuel powered automobile travel is 
+increasingly becoming less sustainable, public 
+transport is also facing the challenge of lack of 
+interest. In particular, public transport projects 
+that are undertaken without sufficient public 
+consultation  are  likely  to  misinterpret  local 
+demand on transit routes. At the same time, 
+despite its drawbacks, automobile ownership 
+is continuously increasing. The global private 
+automobile  fleet  is  expected  to  grow  from 
+1  billion  in  2002  to  2  billion  in  2022,  mainly 
+driven by motorization in Asia. In Delhi, India, 
+it  is  estimated  that  the  number  of  vehicles 
+in 2030 will be five times that of 1990 levels 
+(Asian  Development  Bank  and  German 
+Agency for International Cooperation, 2011). 
+Automobiles are seen as a status symbol that 
+ensures  convenience  and  personal  freedom 
+of travel and citizens are biased towards using 
+this mode of transport.
+
+Science, technology and innovation for 
+avoiding congestion and improving 
+urban mobility
+
+Mobility  solutions  should  not  only  focus  on 
+supplying  infrastructure  but  on  answering 
+the  demand  for  infrastructure.  They  should 
+be centred on the movement of people and 
+goods  instead  of  the  movement  of  vehicles 
+and  deal  with  the  causes  of  mobility  issues 
+rather  than  merely  the  symptoms.  They  are 
+thus  directly  linked  to  spatial  planning,  as 
+spatial  plans  dictate  mobility  options  and 
+whether  or  not  cities  may  be  walkable. 
+Spatial  planning  that  takes  the  needs  of 
+urban  transport 
+from 
+the  beginning  is  a  key  factor  in  helping 
+to  prioritize  public  transport.  Cities  can 
+make  streets  more  walkable  for  pedestrians 
+through the provision of dedicated lanes and 
+suitable  street  crossings  and  by  minimizing 
+pedestrian  bridges. 
+In  addition,  bicycling 
+may  be  encouraged  through  the  provision 
+
+into  consideration 
+
+14
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+of  dedicated  lanes  and  low-velocity  streets. 
+Ultimately,  mobility  issues  cannot  be  solved 
+only  by  science,  technology  and  innovation. 
+Social  aspects  and  driver  education  need  to 
+be combined with technological solutions. 
+
+Cities can make use of technology to switch to 
+cleaner fuels in transport vehicles, implement 
+various public transport systems and enable 
+regulatory measures that control and improve 
+the flow of traffic. Although there are a large 
+variety of science, technology and innovation 
+solutions  that  can  address  congestion  and 
+high levels of fuel consumption, many are not 
+feasible  for  implementation  in  developing 
+countries  due  to  their  cost.  It  is  therefore 
+imperative  for  cities  in  developing  countries 
+to  integrate  high  and  low  technology  to 
+provide mobility solutions for citizens. 
+
+Bus rapid transit has lately emerged as a popular 
+urban transit solution and is being introduced 
+across  the  world,  including  in  cities  of  least 
+developed countries, with successful results in 
+reducing  congestion,  air  pollution  and  travel 
+time, as shown by the examples in box 5. Bus 
+rapid  transit  is  a  dedicated-lane  bus  system 
+with  signal  priority  at  intersections,  prepaid 
+fares  and  fast-boarding  platforms.  While  bus 
+rapid  transit  is  a  relatively  low-cost  method 
+of  providing  public  transport,  it  needs  to  be 
+
+viewed in the larger context of urban mobility, 
+ensuring the development of infrastructure for 
+bicycles and pedestrians, as well as integration 
+with other means of public transport.
+
+technology 
+
+and 
+
+that  predict 
+
+improve  mobility 
+
+Science, 
+innovation, 
+especially  information  and  communications 
+technologies,  enable  innovative  regulations 
+to 
+in  growing  urban 
+areas. 
+Information  and  communications 
+technologies can inform citizens with regard 
+to  mobility  choices  they  are  about  to  make 
+through  algorithms 
+traffic 
+flow  one  hour  ahead  of  time  with  up  to 
+80  per  cent  accuracy.  Providing  data  on  the 
+impact  of  journeys  to  urban  citizens  allows 
+them  to  adjust  their  mobility  choices.  In 
+addition,  information  and  communications 
+technologies can analyse route patterns in new 
+ways  so  that  bottlenecks  can  be  addressed 
+through  the  most  efficient  investments  in 
+public  transport.  For  example,  information 
+and communications technologies are key to 
+understanding the reasons behind phantom 
+traffic jams, through which a small disturbance 
+in  the  flow  of  vehicles  during  heavy  traffic 
+leads  to  a  traffic  standstill.  Information  and 
+communications  technologies  models  are 
+being  developed  to  explain  the  reasons  for 
+such traffic jams so that roads can be designed 
+to prevent them.
+
+Box 5. 
+
+Bus rapid transit in developing countries
+
+The city of Curitiba, Brazil, pioneered public-transport oriented spatial design based on bus rapid transit, with a system 
+that uses dedicated lanes, allowing it to function as a low-cost subway. The system also has a special design for stops that 
+facilitates quick payments and easy transfers. Starting at 25,000 daily passengers in 1974, the bus rapid transit system grew 
+to serve 2.2 million passengers in 2007. Although the city’s population grew from 400,000 to 2 million in 50 years, it did not 
+suﬀer from additional pollution or congestion.
+
+Curitiba’s system was the ﬁrst of its kind in the world and similar systems were later introduced in more than 83 cities glob-
+ally. The sharing of knowledge between cities has greatly contributed to the increase in the number of such systems. For 
+example, a presentation in 2004 by the mayor of Bogota, Colombia, describing the success of the bus rapid transit system 
+in the city motivated the conceptualization of a similar project in Ahmedabad, India.
+
+Since its launch in 2009, the system in Ahmedabad has been expanded to cover a distance of 67 kilometres, with 136 buses 
+transporting 130,000 passengers per day. An additional 21 kilometres is expected to be completed by 2015 in phase two of the 
+project and a further 27 kilometres is planned for phase three. The system in Ahmedabad is India’s most extensive and success-
+ful bus rapid transit system. It gives priority to buses at junctions and uses segregated lanes, level passenger boarding, external 
+ticketing and real-time arrivals information to reduce traveling times and ensure better service compared with conventional 
+bus services. As a result of factors such as higher eﬃciency and increased ridership, it is estimated to have increased the travel 
+speeds of buses by 20 to 60 per cent and achieved carbon dioxide emissions savings of 92,000 tons in 2010.
+
+Sources:  UN-Habitat, 2012c; and Worldwatch Institute, 2007.
+
+III. Sustainable urban planning
+
+15
+
+Box 6. 
+
+Information and communications technologies tools for mobility
+
+The city of Dublin, Ireland, is cooperating with International Business Machines to identify and solve the root causes of traf-
+ﬁc congestion along its public bus network. Information-sharing between partnering local governments and universities 
+is resulting in the use of 3,000 data sets to identify new ways for Dublin’s transport, energy and water systems to work in 
+an integrated manner. Such data is also being made available to the local community, which is encouraging the develop-
+ment of innovative information and communications technologies tools. Data from a citywide network of sensors is being 
+integrated with geospatial data so that city oﬃcials can monitor and manage the bus ﬂeet in real time. 
+
+The same business model is being piloted in Abidjan, Côte d’Ivoire, where the analysis of global positioning system data 
+to understand mobility patterns has helped identify four new bus routes and optimize several others. As a result, citywide 
+travel time has decreased by 10 per cent and there is less need for informal bus services.
+
+Singapore is using geospatial data and information collected from transport tickets to plan future transport services and rec-
+ommend routes and to provide additional services such as the location of taxicabs during rain. Singapore also uses mobile 
+telephone data to map current traﬃc situations and propose alternate travel routes to drivers, in order to reduce congestion.
+
+In cooperation with the World Bank, the non-proﬁt organization OpenPlans has developed a real-time traﬃc crowdsourc-
+ing application for Cebu City, the Philippines. Once deployed, the application will collect real-time traﬃc data from 500 
+telephones deployed in taxicabs. This data will provide citizens with up-to-date information about traﬃc conditions and the 
+historical archive will help inform planners and transport engineers.
+
+Sources:  Robinson, 2012; OpenPlans, 2012; and Worldwatch Institute, 2012.
+
+Institute,  2012). 
+
+There are various applications for information 
+and  communications  technologies,  such  as 
+traffic  management  systems,  open  access 
+and  multimodal 
+trip  planning  services. 
+Several cities including New York City and San 
+Francisco  in  the  United  States  and  London, 
+United Kingdom of Great Britain and Northern 
+Ireland,  are  providing  open  access  to  core 
+city  data  and  enabling  the  development  of 
+applications  that  help  citizens  make  more 
+informed  travel  decisions,  such  as  finding 
+the closest bicycle-share or car-share station 
+(Worldwatch 
+Information 
+and  communications  technologies  may  also 
+be  used  by  citizens  to  plan  a  door-to-door 
+journey by integrating walking and different 
+modes  of  public  transport  such  as  bicycles, 
+buses,  trains  and  automobile-sharing. 
+If 
+citizens are informed that it is less economical 
+for them to drive, for example via applications 
+they can access from their mobile telephones, 
+they  will  be  more  inclined  to  use  public 
+transport.  Online  commercial  tools  that 
+provide multimodal routing services, such as 
+Open Trip Planner (www.opentripplanner.org) 
+and  Moovel  (www.moovel.com),  are  already 
+available  in  the  United  States.  Finally,  as 
+shown in the examples in box 6, information 
+and  communications  technologies-related 
+tools that combine geospatial mapping with 
+crowdsourced  data  from  mobile  telephones 
+
+or transport tickets can play a role in relieving 
+traﬃc and optimizing transport eﬃciency.
+
+Policy considerations
+
+Avoid, shift, improve
+
+Mobility  in  cities  can  be  improved  through 
+the  combination  of  three  strategies,  namely 
+avoid, shift and improve, which can transform 
+behaviour and influence technology choices 
+(Asian  Development  Bank  and  German 
+Agency  for  International  Cooperation,  2011 
+and United Nations Environment Programme, 
+2011).  The  avoid  strategy  is  for  reducing 
+journeys and avoiding the need to travel. Shift 
+represents  a  move  to  more  environmentally 
+friendly  modes  of  transport.  Improve  refers 
+to  the  improvement  of  energy  efficiency  in 
+the transport vehicles used. The avoid–shift–
+improve  model  is  based  on  a  combination 
+of  incentives  and  disincentives  and  the  use 
+of  technology.  For  example,  regulators  can 
+aim  to  overcome  automobile  dependence 
+through a combination of measures such as 
+the following (Wheeler, 2008):
+
+• 
+
+techniques 
+
+Traffic-calming 
+slow 
+automobile traffic and create more humane 
+urban environments better suited to other 
+transportation modes. 
+
+to 
+
+16
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Box 7. 
+
+Intermodal transport planning
+
+In developing countries, intermodal transport services are contributing to social inclusion. Several cities in Latin America – 
+including La Paz, the Plurinational State of Bolivia; Rio de Janeiro, Brazil; and Medellín, Colombia – are implementing cable 
+car and escalator projects to integrate poorer outskirts, located on steep landscapes, with city centres. The cable car, also 
+known as a gondola lift, is a transport system that travels up and down a mountainside in which cabins are suspended on 
+a continuously moving cable driven by a motor at one end of the route. Cable cars dramatically reduce daily commutes for 
+citizens living in areas that are diﬃcult and costly to access with traditional public transport services. 
+
+Free cable cars and escalators were installed in Medellín in order to provide access to the city centre from the most isolated 
+neighbourhoods. Before, inhabitants in these neighbourhoods had to commute 2.5 hours to reach the city centre. The 
+cable cars now provide access to more than half a million citizens. In addition, a network of escalators has reduced the time 
+needed to access one of the poorest sections of the city by half an hour.
+
+Sources:  Danish Architecture Centre, 2013; and Vuchic, 2008.
+
+• 
+
+• 
+
+Improved  transit,  such  as  by  prioritizing 
+walking and bicycling as genuine options to 
+automobile use.
+
+land  use, 
+
+Improved 
+for  example  by 
+establishing  urban  villages  that  are  self-
+sufficient  in  terms  of  employment  and 
+recreational  activities  and  thereby  reduce 
+the need to travel by automobile.
+
+•  Growth management to prevent sprawl and 
+
+redirect development into urban villages.
+
+• 
+
+Economic incentives, such as better taxation 
+of transportation.
+
+Traffic-calming techniques include altering road 
+layout and design such as by narrowing entries 
+to streets, planting trees and employing variable 
+street  surfaces,  speed-restricting  devices  and 
+visual signs for cautious driving. On busier roads, 
+traffic calming may be achieved by reclaiming 
+road  space  for  other  uses  and  reducing  the 
+speed  of  traffic.  Traffic-calming  measures  can 
+reduce congestion, thereby saving fuel wasted 
+in traffic jams and preventing the loss of time. 
+
+Intermodal transport
+
+Traffic  calming  should  be  implemented  in 
+coordination  with  schemes  that  make  public 
+transport more attractive in the same areas by 
+combining  land  use  and  intermodal  transport 
+strategies.  Cities  can  reclaim  road  space  in 
+parallel to improving intermodal public transport 
+networks  such  as  rail  links.  Modern  light-rail 
+systems  that  accompany  pedestrian  zones  in 
+city  centres  reduce  the  need  for  automobiles. 
+Intermodal  transport  networks  include  mass 
+
+rapid-transit  systems  surrounded  by  high-
+density 
+land-use  developments.  Science, 
+technology  and  innovation  can  help  in  the 
+process  of  planning  the  integration  of  modes 
+of  transport  such  as  walking,  public  transport, 
+bicycles, taxicabs and automobiles, for example 
+through  park-and-ride  systems.  A 
+transit-
+oriented  development  approach  concentrates 
+residential  and  commercial  developments 
+within  walking  distance  of  public  transport 
+stations to maximize the number of passengers. 
+Intermodal  transport  services  can  contribute 
+to social inclusion by combining a wide variety 
+of  science,  technology  and  innovation-related 
+solutions, as shown by the examples in box 7.
+
+Regulatory mechanisms and incentives
+
+Cities  can  accompany  public 
+transport 
+investments  with 
+infrastructure 
+innovative 
+regulatory  mechanisms 
+and 
+incentives. 
+Optimizing  urban  mobility  entails  achieving 
+the  best  balance  between  different  modes 
+of  transportation  (Vuchic,  2008).  Regulations 
+such  as  incentives  for  public  transport  use 
+and  disincentives  for  automobile  use  can  be 
+introduced  in  order  to  reach  a  compromise 
+between personal freedom to choose transport 
+modes, social optimum modes that minimize 
+travel  costs  and  the  time  for  travellers  in  the 
+urban area and environmental concerns such 
+as the need to reduce air pollution. Measures 
+can  include  both  soft  incentives  and  hard 
+regulation (Banister, 2008 and Vuchic, 2008). 
+
+Traffic  demand  management 
+regulation 
+more  suited 
+to  higher-income  countries 
+includes  low-emission  zones  in  city  centres 
+
+III. Sustainable urban planning
+
+17
+
+and  increased  fuel  taxes,  road  pricing  and 
+parking-zone  charges.  Road  pricing  may  be 
+a  solution  for  traffic  calming  in  larger  cities, 
+as shown in box 8, but the investment in the 
+technical  infrastructure  necessary  to  operate 
+it,  such  as  cameras  that  take  photographs  of 
+license plates, road signalling and sensors that 
+automatically  deduct  tolls  from  units  inside 
+vehicles,  may  not  be  worthwhile  in  smaller 
+cities  as  the  scheme  may  not  raise  enough 
+funds to cover operational infrastructure costs. 
+Political  acceptance  by  the  public  may  be  a 
+more  significant  issue  and  road  pricing  also 
+requires privacy and data protection measures.
+
+Possible  measures  and  incentives  vary  across 
+countries  and 
+include  traffic  calming,  the 
+promotion of walking, bicycling and automobile-
+sharing  programmes  and  the  reallocation  of 
+open space to public transport. One important 
+element of success for such schemes is to gather 
+public  support  by  engaging  stakeholders  and 
+communicating  and 
+information. 
+
+sharing 
+
+When  launching  bicycling  incentives  such  as 
+electric-bicycle promotion campaigns, it is just 
+as  important  to  establish  a  legal  framework 
+on  the  status  of  such  vehicles  within  city 
+traffic  as  it  is  to  make  the  vehicles  available 
+and  establish  the  physical  infrastructure.  For 
+example,  bicycle-sharing  programmes,  already 
+available in around 200 cities worldwide, require 
+infrastructure such as parking spaces and tracks 
+and a legal framework that protects the rights of 
+cyclists. Otherwise, users may not feel safe when 
+bicycling in the city.
+
+III. c. Resilience against natural  
+
+  hazards
+
+High exposure of urban areas to natural 
+disasters
+
+Cities  in  developing  countries  undergoing 
+unplanned urbanization are facing the risk of 
+high human and economic losses from natural 
+
+Box 8. 
+
+ Regulatory measures to avoid congestion
+
+Road pricing in Singapore and London
+
+Singapore was one of the ﬁrst cities to apply physical, regulatory and pricing measures to coordinate the use of diﬀerent 
+modes in a balanced intermodal transport system. The city pioneered road pricing in the city centre to reduce congestion. In 
+parallel, it built a state-of-the art subway system and optimized its bus system with many transfer points and major terminals 
+at subway stations. The Land Transport Authority comprehensively plans and coordinates all modes of mobility in Singapore.
+
+London has also implemented congestion pricing in the city centre. While the scheme faced resistance at the beginning, it 
+gained more public acceptance after reducing traﬃc levels by 15 to 20 per cent and congestion by over 20 per cent in the 
+ﬁrst three years of operation. Milan, Italy and Stockholm, Sweden have also implemented similar measures in their city centres.
+
+Regulation and programmes that encourage walking and bicycling 
+
+London has recently introduced a rewards system through which users can accumulate points as they walk or bicycle and 
+redeem them to obtain diﬀerent kinds of services such as haircuts and shopping. A mobile telephone application uses the 
+telephone’s global positioning system signal to track movement (see www.recyclebank.com). In Switzerland, a bicycle-to-
+work initiative encourages participants to commute up to 50 per cent of the time by bicycling and gain the chance to win 
+prizes such as holiday weekends. 
+
+Combination of measures
+
+Cheonggyecheon, a river running through downtown Seoul, was used as a sewer in the 1950s and then covered by an el-
+evated motorway in the 1970s. The motorway became very congested in the 1980s and at the same time created an urban 
+fault line hampering the livelihood of the middle of the city. In 2003, the metropolitan government removed the motorway, 
+restored the river and turned the area into a tourist attraction, creating 300,000 jobs and also providing environmental ben-
+eﬁts. The project was accompanied by improvements to the city’s public transportation system, which was made possible 
+through a consensus-based decision-making model that promoted intermodal transit, incorporating dedicated bus lanes 
+and a uniﬁed fare system. The key to success was the formation of a consultative group, the Citizens Collaborative Council, 
+which ensured that no party would be disadvantaged by the proposed transport solutions.
+
+Sources:  Banister, 2008; UN-Habitat, 2012c; and Vuchic, 2008.
+
+18
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+hazards. The  effects  of  climate  change  are 
+exacerbating the issue by instigating more 
+frequent urban climate-related hazards. On 
+the  one  hand,  more  and  more  people  are 
+moving  into  vibrant  metropolises  that  are 
+situated  on  or  close  to  the  coast.  On  the 
+other  hand,  such  cities  are  increasingly  at 
+risk due to climate-change induced natural 
+disasters,  especially  informal  settlements 
+on  city  fringes  and  lower-quality  buildings 
+that  are  the  products  of  rapid  unplanned 
+urbanization  and  represent  a  resilience 
+issue  for  developing  countries,  although 
+they  play  an  important  role  in  terms  of 
+meeting  the  shelter  needs  of  the  urban 
+poor. Low construction standards and poor 
+drainage  result  in  serious  vulnerability  to 
+natural risks.
+Hurricane Sandy, which made landfall in the 
+United States in October 2012, only one year 
+after Hurricane Irene, served as a reminder 
+of the dangers that cities face. New York City 
+is one of several global cities at risk due to 
+the fact that it is surrounded by water, and 
+the precautions such cities can take against 
+risks  such  as  rising  sea  levels  are  limited. 
+In  developing  countries,  urban  areas  with 
+large populations situated along coastlines 
+and  exposed  to  climate-related  hazards 
+include Guangzhou and Shanghai in China, 
+Alexandria in Egypt, Kolkata and Mumbai in 
+India and Ho Chi Minh City in Viet Nam.
+In the past 20 years, floods have become the 
+most frequent natural disaster. The average 
+annual  number  of  floods  has  increased  at 
+a higher rate than any other natural hazard 
+(Green  Media,  2012).  The  most  important 
+hazards  that  will  become  more  frequent 
+and  affect  urban  zones  due  to  increased 
+climate  variability  include  rising  sea  levels, 
+storm surges, extreme rain, heat waves and 
+the heat-island effect, water scarcity and air 
+pollution.
+City  managements  in  lower  and  middle-
+income  countries 
+in 
+developing  and  maintaining  disaster  risk 
+management  strategies.  They 
+lack  an 
+understanding  of  risk  and  methodologies 
+to  assess  risk,  particularly  with  regard 
+informal 
+to  urban  growth  areas  and 
+
+face  challenges 
+
+and 
+
+resources 
+
+settlements.  Disaster  and  climate-change 
+risk  is  not  a  priority  due  to  the  lack  of 
+financial 
+institutional 
+capacity.  Finally,  few  have  procedures  to 
+mainstream  disaster 
+risk  management 
+and climate change adaptation into urban 
+planning  or  monitoring  of  a  city’s  risk 
+reduction  performance  (Thapa  et  al.,  2010 
+and Dickson et al., 2012).
+
+Science, technology and innovation 
+for monitoring and managing natural 
+hazards
+
+A  resilient  city  is  one  that  can  predict  and 
+react to natural disasters in order to minimize 
+the loss of lives and disruption to city utilities 
+and services. The use of technology plays an 
+important  role  in  improving  city  resilience 
+against  natural  hazards.  Several  cities 
+in 
+developing  countries  are  already  using 
+science,  technology  and  innovation  for  this 
+purpose  in  various  forms  and  combinations. 
+The  most  common  applications  are  hazard 
+monitoring  and  surveillance, 
+information 
+technology-based 
+and 
+city  operations  centres,  geospatial  tools  and 
+large-scale infrastructure such as storm-water 
+tunnels and barriers. 
+
+communications 
+
+Some of the benefits of designing cities that 
+are compact and dense were noted in chapter 
+III.  a.  Higher  density  also  requires  stronger 
+infrastructure  that 
+is  resilient  to  natural 
+disasters.  Otherwise,  increasing  density  will 
+only exacerbate the exposure of cities to such 
+risks.  Science,  technology  and  innovation 
+play a key role in informing urban planners of 
+where to build cities to prevent risks brought 
+about  by  climate  change  or  proximity  to  a 
+coast.
+
+and 
+
+surveillance 
+Hazard  monitoring 
+techniques  can  be  beneficial 
+for  early 
+warning and land-use planning. For example, 
+Mumbai  has  35  automatic  weather  stations 
+that  measure  real-time  rainfall  intensity  and 
+flow  gauges  on  the  Mithi  River  to  monitor 
+water flow. Chacao, a subdivision of Caracas, 
+has  a  wireless  early-warning  system  that 
+connects civil protection and environmental 
+institutions  with  cameras  that  monitor  four 
+
+III. Sustainable urban planning
+
+19
+
+river channels crossing the city. The city also 
+provides online real-time hazard information 
+to citizens (United Nations Office for Disaster 
+Risk Reduction, 2012).
+
+Information  and  communications  technolo-
+gies that combine data from different depart-
+ments can enable cities to monitor risks in an 
+integrated manner. Rio de Janeiro established 
+an  operations  centre  by  partnering  with  In-
+ternational  Business  Machines  that  provides 
+real-time integrated data from 30 agencies on 
+transport,  energy,  weather  and  emergency 
+services.  The  centre  has  improved  reaction 
+times  and  coordination  between  agencies. 
+For  example,  when  a  20-storey  building  col-
+lapsed in January 2012, the centre employees 
+alerted the fire and civil defence departments, 
+asked the gas and electric companies to shut 
+down service in the area, closed the subway 
+stop,  blocked  the  street,  dispatched  ambu-
+lances,  alerted  hospitals,  sent  equipment  to 
+clear the rubble and deployed civil guards to 
+secure  the  site. The  centre  also  kept  citizens 
+informed over the Internet via Twitter (Singer, 
+2012).
+
+Information  and  communications  technolo-
+gies  in  the  form  of  geospatial  tools  may  be 
+beneficial  for  assessing  disaster  risk  and  di-
+saster recovery. For example, such tools were 
+used by the International Organization for Mi-
+gration in Haiti after the January 2010 earth-
+quake  to  identify  appropriate  buildings  and 
+sites that could be used as shelters (UNCTAD, 
+2012b). 
+
+In  Malaysia,  a  multi-use 
+tunnel  was 
+constructed  for  storm-water  management 
+and road traffic in Kuala Lumpur in response 
+to a serious problem of flooding and a need 
+to  divert  large  quantities  of  water  from  the 
+city.  The  high-technology  tunnel  has  two 
+layers  that  can  be  used  in  three  modes 
+depending on the intensity of water flow, as 
+shown in box 9. In the first mode, the tunnel 
+is used for road traffic on an everyday basis. In 
+the second mode, when there is a moderate 
+storm, one layer is used for road traffic, while 
+the  other  layer  diverts  storm-water.  In  the 
+third mode, in the event of heavy flooding, 
+the tunnel is closed to traffic and both layers 
+are used to divert water to holding reservoirs. 
+In  some  cities,  lower-technology  solutions 
+such  as 
+insulating  subway  entrances  to 
+prevent  storm-water  from  flowing  in  may 
+also be useful in improving resilience.
+
+Policy considerations
+
+to 
+
+invest  proactively 
+
+Cities  need 
+in 
+infrastructure  in  order  to  adapt  to  natural 
+hazards.  As  oceans  grow  warmer  and  sea 
+levels  rise  due  to  the  effects  of  climate 
+change,  cities  will  have  to  continuously 
+revise  their  risk  assessments  and  adapt  their 
+infrastructure. Many of the policies mentioned 
+in previous sections can help increase resilience. 
+For  example,  improved  buildings  can  reduce 
+human  losses  and  spatial  plans  can  take  into 
+account the risk of natural disasters. In addition to 
+the necessity to save lives when disasters occur, 
+
+Box 9.  Malaysia: Storm-water management and road tunnel
+
+Source:  Suri, 2013.
+
+20
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+adaptation has a financial dimension. Investing 
+into adaptation earlier can reduce the scale of 
+economic losses and the financing required to 
+repair damage. Considering that the economic 
+damage  that  New  York  City  suffered  due  to 
+Hurricane Sandy is estimated at $20 billion, the 
+human and economic costs of inaction in less-
+prepared cities in developing countries can be 
+enormous. The cost of repairing damage from 
+climate  change-related  flooding  is  estimated 
+at  2  to  6  per  cent  of  regional  gross  domestic 
+product  in  Bangkok,  Ho  Chi  Minh  City  and 
+Manila, the Philippines (UN-Habitat, 2012c).
+
+Cities  can  mainstream  adaptation  into  urban 
+planning.  Possible  measures  include  building 
+new  developments  outside  of  risk  areas, 
+upgrading informal settlements and addressing 
+the lack of infrastructure and the degradation of 
+the environment (UN-Habitat, 2012c).
+
+Box 10.  Mainstreaming adaptation into
+ 
+ 
+
+urban planning and
+urban risk assessments
+
+The  eThekwini  Metropolitan  Municipality,  South  Africa, 
+integrated  adaptation  planning  into  its  general  urban 
+planning  and  development  framework,  including  ad-
+aptation  at  both  municipal  and  community  levels.  In 
+2006, a climate change-related impact assessment was 
+prepared, following which a climate change adaptation 
+strategy was put together to identify key interventions 
+for such situations as an urban heat-island eﬀect or a rise 
+in sea level. The strategy is constantly being extended, to 
+include reforestation projects and water, health and dis-
+aster management. An assessment tool was also devel-
+oped to evaluate and compare policies and mainstream-
+ing initiatives were undertaken, such as the creation of a 
+climate protection branch within the municipality.
+
+Sorsogon City, the Philippines, is a city with 152,000 in-
+habitants that is open to the Paciﬁc Ocean to both the 
+east and west. The city faces an average of ﬁve tropical 
+storms  each  year.  In  cooperation  with  UN-Habitat,  the 
+city  conducted  a  vulnerability  and  adaptation  assess-
+ment,  as  a  result  of  which  it  directed  urban  develop-
+ment plans to safer inland areas. Settlements in high-risk 
+coastal zones will be incrementally relocated through lo-
+cal shelter relocation projects or voluntary resettlement. 
+Inland  areas  will  be  incentivized  through  infrastructure 
+investments  and  the  construction  of  new  residential 
+units and new industrial sites for employment.
+
+Sources:  United  Nations  Environment  Programme, 
+
+2012b; and UN-Habitat, 2012c.
+
+Integrating spatial planning with infrastruc-
+ture  can  also  improve  resilience.  Risk  as-
+sessments  are  tools  that  can  mainstream 
+resilience  and  preparedness  into  spatial 
+planning. The tools map the areas that are 
+most vulnerable to hazards and help adjust 
+land use and development strategies. Some 
+cities or city areas are more vulnerable than 
+others  and  risk  assessments  make  it  pos-
+sible to demarcate and provide extra safety 
+for these areas. Regulatory measures based 
+on  risk  assessments  can  help  city  planners 
+forecast and guard against future develop-
+ments to avoid the risk of disaster. 
+
+For  example,  Dhaka,  Bangladesh,  accom-
+panied 
+infrastructure  measures  such  as 
+reinforcing  river  and  canal  embankments 
+with  efforts  to  prevent  the  encroachment 
+of  buildings  on  the  vicinity  of  canals  for 
+improved  protection  against  major  floods. 
+Similarly,  regulatory  measures  based  on 
+risk assessments can guide future develop-
+ments  to  avoid  disaster  risk.  For  example, 
+Singapore  requires  new  land  reclamations 
+to be at least 2.25 metres above the highest 
+level of recorded tides (UN-Habitat, 2012c).
+
+The  United  Nations  Environment  Pro-
+gramme,  UN-Habitat  and  the  World  Bank, 
+with the support of Cities Alliance, a global 
+partnership  for  urban  poverty  reduction 
+and  the  promotion  of  the  role  of  cities  in 
+sustainable  development,  have  developed 
+a  standardized  risk  assessment  tool  to  as-
+sess urban risk and identify areas and popu-
+lations  that  are  most  vulnerable,  typically 
+those  living  in  informal  settlements.  The 
+tool  provides  a  framework  for  both  quali-
+tative  and  quantitative  assessments  that 
+enhance  a  local  government’s  capacity  to 
+identify  hazards  that  may  arise  from  disas-
+ter  and  climate  change-related  risks.  The 
+tool assesses the exposure and vulnerability 
+of specific assets and populations, analyses 
+institutional capacities and data availability 
+and  quantifies  city  vulnerabilities  through 
+the application of a baseline-benchmarking 
+approach to assess progress over time and 
+space (UN-Habitat, 2012c). box 10 provides 
+examples  of  the  use  of  urban  risk  assess-
+ments to improve disaster resilience.
+
+IV. Sustainable urban resource management
+
+21
+
+IV. Sustainable urban resource management
+
+Energy,  water  and  food  consumption  in 
+urban areas in developing countries is rapidly 
+rising  in  parallel  with  growing  incomes, 
+putting  pressure  on  limited  resources.  At 
+the same time, higher consumption leads to 
+higher  amounts  of  waste.  Long-term  urban 
+sustainability  depends  on 
+technologies 
+that  conserve 
+resources  and  minimize 
+waste. Fortunately, science, technology and 
+innovation options are abundant to respond 
+to the needs of cities, and this chapter looks 
+at  ways  in  which  they  can  help  improve 
+resource  management  in  an  urban  setting. 
+Applications 
+replacing  public 
+urban 
+infrastructure  with  more  efficient 
+options such as lighting with light-emitting 
+diodes, tracking public and private resource 
+consumption 
+resource 
+leakages  and  theft,  as  well  as  the  smart 
+management of resources. 
+
+and  detecting 
+
+include 
+
+IV. a. Energy for cities
+
+Heavy energy consumption in cities
+
+Cities  are  major  consumers  of  energy  and 
+therefore  vulnerable  to  energy  scarcity  and 
+energy  price 
+increases.  Adequate  energy 
+supply to growing urban zones is increasingly 
+becoming a challenge. It is largely expected 
+that in cities of emerging countries, demand 
+will continue to exceed capacity in the coming 
+years. This raises questions on how to improve 
+energy  efficiency,  regulate  the  electricity 
+market, involve the private sector and revise 
+the mechanism of subsidized energy pricing, 
+among  others  (GlobeScan  and  McCormick 
+Rankin Corporation McLean Hazel, 2007). 
+
+Large centralized energy production facilities 
+require  costly  distribution  systems  that  are 
+vulnerable  to  misuse  and  natural  disasters. 
+In  rapid-growth  urban  environments,  low-
+density  sprawl  leads  to  a  rapid  increase  in 
+per capita distribution and line-maintenance 
+costs.  In  many  countries,  distribution  lines 
+are  also  subject  to  siphoning.  Moreover, 
+centralized  energy  production 
+follows  a 
+supply-driven  approach,  prioritizing  selling 
+energy  over  saving  energy,  creating  no 
+incentives 
+for  energy-efficiency  practices 
+that  can  reduce  consumption.  With  rapid 
+urbanization,  providing  access  to  electricity 
+in a centralized manner for growing cities will 
+grow more challenging.
+
+Science, technology and innovation for 
+urban energy conservation
+
+Various clean low-carbon energy technologies 
+compatible with use in cities are available to 
+improve  energy  efficiency  and  enable  the 
+transition  to  renewable  energy  sources  in 
+cities.  Table  3  gives  examples  of  innovative 
+energy technologies that may be considered 
+for  densely  populated  urban  areas  (UN-
+Habitat, 2012b). Each technology has market-
+related, technical, institutional, political, social 
+and environmental challenges on the way to 
+mainstream  use.  Cost  competitiveness  with 
+fossil-fuel  energy  sources  is  a  major  issue. 
+The  technical  limitations  of  clean  energy 
+technologies such as the battery efficiency of 
+solar photovoltaic technology and issues such 
+as the lack of infrastructure or trained workers 
+and the lack of public acceptance also need 
+to  be  overcome  (Organization  for  Economic 
+Cooperation and Development, 2012).
+
+22
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Table 3.  Energy technology options
+
+Solar
+
+Hydro
+
+Kinetic
+
+Solar thermal 
+storage
+
+Solar thermal power plants gather heat from the sun and boil water into 
+steam  to  generate  electricity  by  running  a  turbine. The  energy  can  be 
+temporarily stored and used when needed during peak hours.
+
+Micro 
+hydropower 
+systems
+
+Micro  hydropower  systems  can  complement  intermittent  wind  or  solar 
+energy by pumping water to an upper reservoir when excess energy is 
+produced and letting it down when more energy is needed.
+
+Converting 
+kinetic energy 
+from walking
+
+Purpose-made  slabs  installed  on  pavements  can  harvest  renewable 
+energy from footsteps. The technology, developed by Pavegen, converts 
+kinetic energy to electricity that can be stored and used for powering off-
+grid  applications  such  as  pedestrian  lighting,  wayfinding  solutions  and 
+advertising signage (see www.pavegen.com).
+
+Heating
+
+District 
+heating
+
+District heating systems can distribute heat and power from a centralized 
+location. The  heat  often  comes  from  combined  heat  and  power  plants 
+and can therefore achieve higher efficiencies and lower emissions than 
+separated heat and power production.
+
+Electric grids
+
+Smart grids
+
+Smart  grids  are  intelligent  electric  systems  that  have  the  following 
+three  major  components:  demand  management;  distributed  energy 
+generation; and transmission and distribution grid management. 
+
+Lighting
+
+Vehicle-to-
+grid
+
+Light-
+emitting 
+diodes
+
+Once the number of electric vehicles in urban traffic reaches a critical mass, 
+it will be possible to benefit from bidirectional connections between the 
+batteries of such vehicles and smart electricity grids. At peak times for the 
+grid, if a vehicle is not in use, it can feed energy from its battery back into 
+the grid.
+
+Partnerships  between  information  and  communications  technologies 
+networking  and  lighting  companies  are  making  smart,  networked 
+information  and  communications  technologies-based  lighting  with 
+light-emitting  diodes  possible.  Light-emitting  diode  technologies  can 
+generate relatively effortless and immediate savings in electricity.
+
+Information and 
+communications 
+technologies
+
+Carbon-
+footprint 
+applications
+
+Information  and  communications  technologies-related  applications 
+can  help  encourage  more  sustainable  energy  consumption  patterns 
+by  individuals,  for  example  by  proactively  tracking  and  distributing 
+information on personal carbon footprints and consumption patterns.
+
+Sources:  Mitchell  and  Casalegno,  2008;  Robinson,  2012;  Totty,  2011;  United  Nations  Environment  Programme,  2011; 
+
+UN-Habitat, 2012b; and Villa and Mitchell, 2010.
+
+Information  and  communications  technolo-
+gies play a critical role in many of the options 
+listed in table 3. They enable the automated, 
+or smart, management of electricity genera-
+tion  and  distribution,  leading  to  lower  con-
+sumption and reductions in carbon emissions 
+(Souter  and  MacLean,  2012). The  large-scale 
+use of information and communications tech-
+nologies for energy management in urban ar-
+eas  in  the  medium  to  long  term  will  have  a 
+profound  impact  on  consumption  patterns. 
+
+The possibility for households to be informed 
+of patterns of consumption and to compare 
+them  is  likely  to  induce  behaviour  that  con-
+serves energy.
+
+Policy considerations
+
+Although  energy  policy  is  a  national  issue, 
+cities in developing countries can lead the 
+way in leapfrogging to advanced renewable 
+energy  sources  and  efficient  transmission 
+
+IV. Sustainable urban resource management
+
+23
+
+Box 11.  Regulatory support for renewable energy
+
+The Government of India formulated a solar cities programme in order to reduce demand for fossil-fuel energy sources 
+by  at  least  10  per  cent  in  sixty  cities  between  2007  and  2012. The  programme  allocates  ﬁnancial  assistance  to  local 
+governments that show commitment to implementing renewable energy projects through master plans, governance 
+structures and project proposals. 
+
+The authorities of the city of Rizhao, China, provided strong political and ﬁnancial support for the development of a local 
+solar panel industry. As a result, solar technology became widespread, with 99 per cent of Rizhao’s households in the 
+central districts using solar water heaters and almost all traﬃc signals, street lights and park illuminations powered by so-
+lar energy. In addition, solar cooking facilities are common in households and solar panels are used to heat greenhouses, 
+reducing overhead costs for farmers.
+
+Shanghai envisages a total of 13 wind farms with an installed capacity of 2.1 gigawatts by 2020, which will provide elec-
+tricity to more than 4 million households. The plan includes China’s ﬁrst oﬀshore wind farm, which is also the world’s ﬁrst 
+major wind farm outside of Europe. It will provide around 1 per cent of the city’s total power production.
+
+In several cities across Eastern Europe that had older district heating infrastructure, modernization eﬀorts driven by Eu-
+ropean Union directives as well as national energy programmes are taking place that could generate 15 to 30 per cent 
+savings in heating energy. Since district heating can use renewable energy sources such as biomass, geothermal and 
+solar energy with biomass, it harbours great potential for countries that already have infrastructure for this technology 
+in place.
+
+Sources:  United Nations Economic Commission for Europe, 2011; UN-Habitat, 2012b; and UN-Habitat et al. 2009.
+
+local 
+
+technologies  through 
+regulations, 
+incentives  or  subsidies,  as  shown  in  the 
+examples in box 11. Cities can pioneer the 
+transition  to  renewable  energy  by  making 
+use of national incentives as well.
+
+for  decentralized 
+
+The  use  of  new  technologies  in  cities  can 
+reduce  the  burden  of  rapidly  increasing 
+energy demand, as shown in the examples 
+in box 12. For instance, implementing smart 
+grids 
+increases  the  flexibility  of  energy 
+production  and  distribution  by  making 
+it  possible 
+individual 
+energy producers, for example households 
+with  solar  panels  on  their  roofs,  to  feed 
+surplus  energy  back  into  the  electricity 
+grid  (Cosgrave,  2012).  Smart  grids  provide 
+real-time  information  to  utility  companies 
+with  the  help  of  sensors,  enabling  them 
+to  respond  to  changes  in  power  supply, 
+demand,  costs  and  emissions  and  to 
+prevent  major  power  outages.  Smart 
+grids  can  drive  cross-sectoral  cooperation, 
+enable  decentralized  energy  generation 
+and  encourage  more  efficient  energy 
+consumption patterns.
+
+Smart grid investment should be prioritized 
+in  large  cities  that  face  frequent  peaks  in 
+electricity  demand  and  also  have  a  high 
+
+as 
+
+for  decentralized  generation 
+potential 
+capacity, 
+such 
+suitable  weather 
+conditions  for  installing  solar  panels  on 
+buildings. Local governments can establish 
+regulatory  frameworks  for  local  energy 
+marketplaces that make use of smart-grid 
+technology.  These  marketplaces  would 
+make  it  possible  for  individuals  to  trade 
+excess  power  generated  by  their  private 
+facilities,  such  as  micro  wind  turbines 
+or  solar  energy  panels  located  in  homes 
+(Robinson,  2012).  The  deployment  of 
+smart grids could generate up to $4 trillion 
+worth  of  savings  until  2050  in  Europe, 
+mainly due to the reduced need to invest 
+in  new  electricity  generation  capacity 
+(Organization  for  Economic  Cooperation 
+and Development, 2012).
+
+sources 
+invest 
+
+Off-grid  energy  production  based  on 
+can  also 
+renewable 
+reduce 
+the  need  to 
+in  new  centralized 
+production and distribution systems. Cities 
+can  provide  incentives  to  companies  that 
+in  off-grid  solutions.  Finally, 
+specialize 
+designing 
+integrated  energy  and  waste 
+management  infrastructure  can  optimize 
+energy  efficiency  and  generate  significant 
+savings. 
+
+24
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Box 12.  Technologies for energy generation and conservation in practice
+
+Information and communications technologies tools for optimizing energy management
+
+The following cities are partnering with Cisco to provide integrated city data for use in improving traﬃc, public transporta-
+tion, energy eﬃciency and the self-management of carbon footprints by residents: Hamburg, Germany; Amsterdam, the 
+Netherlands; Lisbon, Portugal; Seoul; Madrid, Spain; Birmingham, United Kingdom; and San Francisco.
+
+Kinetic energy
+
+Purpose-made  slabs  installed  on  pavements  can  convert  kinetic  energy  from  footsteps  to  electricity.  The  technology, 
+developed  by  Pavegen,  is  best  suited  to  high-footfall  urban  environments  and  represents  a  good  example  of  how 
+clean  technologies  can  also  be  enjoyable,  which  is  an  important  aspect  for  general  public  awareness  and  adoption. 
+The technology was installed in 2012 at a subway station in London near the Olympics facilities.
+
+Oﬀ-grid energy generation
+
+Sunlabob,  a  company  in  the  Lao  People’s  Democratic  Republic,  started  operations  by  providing  solar  electriﬁcation  to 
+homes  on  a  rental  basis.  It  established  an  innovative  public–private  partnership  business  model  whereby  local  public 
+authorities covered part of the investment cost through ownership of solar lamps that were rented out to households, 
+while Sunlabob owned the charging stations. The company created a national network of franchises and provided training 
+on marketing, installation and maintenance. Following its initial success, Sunlabob diversiﬁed to oﬀer a full range of renew-
+able energy solutions, such as solar water pumps and heaters, water puriﬁcation systems, street lighting solutions, cooling 
+units for health posts and solar lanterns.
+
+Another oﬀ-grid solution provider is M-Kopa, a start-up in Kenya that has designed a solar lamp consisting of a base station 
+with a solar panel, three lamps and a charging kit for use with telephones. Users can pay for part of the system upfront and 
+the rest via minimal instalments that they transfer by using mobile telephones. The lamps can replace kerosene lamps that 
+are not only expensive but also dangerous to health.
+
+Integrated energy and waste management
+
+The  Hammarby  Sjöstad  district  of  Stockholm  is  an  ecological  district  that  has  used  brownfield  industry  space  for 
+development, referred to as the Hammarby Model in urban planning. The district minimizes energy use while opti-
+mizing water use and waste management with the help of recycling, energy and waste treatment plants. Buildings 
+send waste and wastewater to combined heat and power plants and wastewater treatment plants that then produce 
+heating, biogas and electricity for the buildings. The district plans to produce 50 per cent of its energy requirements 
+locally.
+
+Sources:  Bolay and Kern, 2011; Danish Architecture Centre, 2010; The Economist, 2012; and Villa and Mitchell, 2010.
+
+IV. b. Solid waste management
+
+Exponential growth in urban waste
+
+Uncontrolled  solid  waste  is  growing  faster 
+than  urbanization  and  represents  a  serious 
+issue  for  the  sustainability  of  cities.  Growing 
+cities generate higher amounts of waste per 
+inhabitant.  Rates  of  solid  waste  growth  are 
+fastest in China, other countries in East Asia, 
+parts of Eastern Europe and the Middle East 
+(Hoornweg and Perinaz, 2012). The amount of 
+solid waste generated in rapidly growing cities 
+in developing countries is a serious health risk 
+for  their  populations.  Using  landfills  reduces 
+
+the  attractiveness  of  cities.  Landfills  do  not 
+decompose  easily,  and  produce  methane, 
+which  heavily  contributes  to  greenhouse 
+gas  emissions.  The 
+incineration  of  solid 
+waste is also not preferable as it can cause air 
+pollution. Although waste is an energy source 
+that could be reused, it is not seen as such in 
+many countries.
+
+The  cost  of  solid  waste  management  can 
+be very high, reaching up to half of the total 
+municipal  budget  of  medium-sized  cities  in 
+lower-income  countries.  Global  solid  waste 
+generation is due to increase from 1.3 billion 
+tons per year to 2.2 billion tons by 2025. It is 
+an urgent priority, especially in lower-income 
+
+IV. Sustainable urban resource management
+
+25
+
+Box 13. 
+
+Integrated solid waste management in practice
+
+In Kalundborg, Denmark, companies located in an industrial zone started selling waste products as raw materials to each 
+other in 1961. The network later grew to include more than 30 exchange pipes. Surplus heat, steam and other residue 
+generated from a 1,500 megawatt coal-ﬁred power plant are all reutilized by nearby businesses, reducing the ecological 
+footprint of the plant and involved companies.
+
+São Paulo implemented a landﬁll emissions control programme that renovated two solid waste landﬁlls. Methane-rich 
+biogas from decaying waste was used to generate electric power on site. The programme both reduced the amount of 
+methane released into the atmosphere and supplied energy to 7 per cent of households in São Paulo. The programme 
+was approved as a Clean Development Mechanism project of the United Nations Framework Convention on Climate 
+Change. In 2008, the programme was generating a number of carbon credits that was close to the sum of all other 
+certiﬁed projects in Brazil. The city used the proceeds of these credits to fund urban and environmental improvement 
+projects in surrounding areas.
+
+Sources:  Goldenstein, 2008; Jastrup and Drique, 2012; and UN-Habitat, 2012b.
+
+countries,  where  serious  increases  in  solid 
+waste  management  costs  are  expected 
+(Hoornweg and Perinaz, 2012).
+
+Science, technology and innovation for 
+waste management
+
+Integrated  solid  waste  management  is  a 
+waste  management  approach  that  refers  to 
+a  shift  from  less-preferred  waste  treatment 
+and  disposal  methods  such  as  incineration 
+and different forms of landfilling towards the 
+reduce, reuse and recycle, or three Rs, model, 
+as shown in the examples in box 13.
+
+Activities  under 
+management can include the following:
+
+integrated  solid  waste 
+
+•  Resource  conservation,  which  avoids 
+
+excessive resource consumption.
+
+•  Waste  reduction  through  resource-use 
+
+optimization.
+
+•  Waste collection and segregation, ensuring 
+
+appropriate waste treatment.
+
+•  Waste  reuse,  which  circulates  waste  and 
+
+avoids the use of new resources.
+
+•  Waste recycling, which converts waste into 
+
+useful products.
+
+•  Energy recovery, which harnesses residual 
+energy  from  waste.  For  example,  waste 
+and wastewater can be used for producing 
+biogas, 
+synthetic 
+construction materials.
+
+synthetic  gas  and 
+
+•  Landfill  avoidance,  which  conserves  land 
+
+and avoids the risks of contamination.
+
+•  Construction 
+
+and  maintenance 
+
+of 
+infrastructure for waste collection, recovery 
+of  materials  from  waste  streams  through 
+collection, segregation and the application 
+of technologies related to the three Rs and 
+associated activities.
+
+The  long-term  vision  under  integrated  solid 
+waste  management  is  to  establish  a  circular 
+economy  in  which  the  use  of  materials  and 
+the  generation  of  waste  are  minimized, 
+any  unavoidable  waste 
+recycled  or 
+remanufactured  and  any  remaining  waste  is 
+treated in a way that causes the least damage 
+to health and the environment or even creates 
+value  by  recovering  energy  (Totty,  2011  and 
+United  Nations  Environment  Programme, 
+2011). 
+
+is 
+
+Policy considerations
+
+Following  the  Hammarby  Sjöstad  and 
+Kalundborg examples, cities can make use 
+of technologies to convert certain types of 
+waste  into  energy.  Many  Governments  in 
+Europe are promoting ecological industrial 
+parks, also referred to as industrial symbiosis 
+systems.  Emerging  economy  cities  are 
+also 
+implementing  projects  based  on 
+integrated  solid  waste  management  and 
+the three Rs. 
+
+26
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Public–private  partnerships,  as  well  as 
+joint  initiatives  of  local  communities  and 
+non-governmental  organizations,  can  be 
+effective  in  launching  waste  management 
+initiatives. 
+In  several  countries,  public–
+private partnerships between municipalities 
+and the private sector, as well as organized 
+initiatives  by  citizens,  are  already  actively 
+participating  in  solid  waste  management, 
+as shown by the examples in box 14. 
+
+Managing  solid  waste  in  combination  with 
+spatial  planning  can  help  optimize  energy 
+consumption and reduce waste in cities (UN-
+Habitat, 2012c). For example, the location of 
+landfills  can  minimize  negative  effects  and 
+providing sorting and recycling space close to 
+locations where waste is generated can help 
+reduce the size of disposal sites.
+
+IV. c. Resource-efficient  
+
+  buildings
+
+ 
+
+ 
+
+High energy consumption in buildings
+
+The  built  environment  poses  a  challenge 
+for  resource  efficiency.  Buildings  account  for 
+40 per cent of global energy use, 38 per cent 
+of  global  greenhouse  gas  emissions,  12  per 
+cent of global potable water use and 40 per 
+
+cent  of  solid  waste  streams  in  developed 
+countries 
+(United  Nations  Environment 
+Programme,  2012a).  The  lack  of  resource 
+efficiency  measures 
+for  existing  or  new 
+buildings results in a missed opportunity and 
+carries  the  resource  burden,  environmental 
+damage  and  social 
+into  the 
+future.  Since  new  buildings  are  long-term 
+investments and the housing stock of cities is 
+gradually replaced, policies requiring resource 
+efficiency standards can combine affordability 
+with sustainability in the long term.
+
+inequality 
+
+terms  of  current  and 
+
+Especially  in  cities  in  developing  countries, 
+the  built  environment  is  a  cause  of  concern 
+in 
+forthcoming 
+housing  shortages.  There  is  high  demand 
+for affordable housing in the cities of rapidly 
+urbanizing countries in Asia, Africa and Latin 
+America and a lack of space for newcomers. 
+In  China,  it  is  estimated  that  as  much  new 
+building  floor  space  will  be  built  until  2030 
+as  the  entire  existing  building  stock  of  the 
+United States (UN-Habitat, 2012a). Due to the 
+fact  that  the  supply  of  affordable  housing, 
+infrastructure  and  services  is  not  able  to 
+catch  up  with  the  rate  of  urbanization  in 
+developing  countries,  informal  shelters  are 
+built  with  no  infrastructure,  little  sanitation 
+and no compliance with planning or building 
+regulations.
+
+Box 14.  Public–private partnerships and community initiatives for solid waste management
+
+In developing countries, public–private partnerships and innovative community initiatives are contributing to the manage-
+ment of urban waste.
+
+For example, in 1998 in Dhaka, a city of 12 million inhabitants where the municipality cannot process more than 30 to 40 per 
+cent of generated solid waste, Waste Concern, a local non-governmental organization, launched a public–private partner-
+ship for waste collection with logistical support and programme coordination by public authorities. Local communities col-
+lected waste that complied with the minimum quality benchmarks of Waste Concern and sold it to private fertilizer compa-
+nies. The initiative reduced greenhouse gas emissions, saved landﬁll area in the city and provided employment for women.
+
+The public–private partnership model of Waste Concern was replicated in several other cities and towns in Bangladesh, ser-
+vicing a total population of 130,000 in 15 cities. The collection of waste helped avoid the production of methane gas that is 
+released when organic waste is deposited at a landﬁll. The project was registered with the Clean Development Mechanism.
+
+The Waste Concern model was extended to three composting models and four ﬁnancial models, following which it was ap-
+plied in other countries. The city of Matale in Sri Lanka established an integrated centre to treat organic waste and produce 
+high-quality compost with assistance from Waste Concern and the United Nations Economic and Social Commission for 
+Asia and the Paciﬁc. The project is now being replicated by the Commission in 10 cities in Asia.
+
+Sources:  Economic and Social Commission for Asia and the Paciﬁc et al., 2011; Municipal Government of Shanghai et al., 
+
+2011; and Suri, 2013.
+
+IV. Sustainable urban resource management
+
+27
+
+Science, technology and innovation for 
+resource-efficient buildings
+
+indoor 
+
+Resource-consuming  buildings  harbour  the 
+greatest potential for resource and emissions 
+reductions. Sustainable houses can be built by 
+using a range of techniques and practices that 
+improve  resource  efficiency  and  contribute 
+to  healthy 
+living  conditions  at  a 
+reasonable cost. Solutions differ according to 
+the type of house, the climate zone and the 
+available  infrastructure  around  the  building, 
+such  as  whether  there  is  access  to  district 
+heating.  Using  sustainable  technologies  in 
+new  buildings  could  achieve  a  30  to  50  per 
+cent  reduction  in  energy  use,  a  35  per  cent 
+reduction 
+in  greenhouse  gas  emissions, 
+a  40  per  cent  reduction  in  water  use  and 
+a  70  per  cent  reduction  in  waste  outputs 
+(United  Nations  Environment  Programme, 
+2012a). 
+
+The  vast  majority  of  cities  evolve  gradually 
+and  retrofitting  is  therefore  a  key  science, 
+technology  and  innovation-related  approach 
+on  which  they  need  to  rely.  Retrofitting 
+existing  buildings  can  bring  about  significant 
+efficiencies,  both  in  terms  of  the  building 
+itself  and  the  city  in  general.  It  is  cheaper 
+to  build  and  retrofit  in  an  urban  zone  that 
+already  benefits  from  connections  to  utilities 
+and  transport  networks.  Many  cities  are 
+implementing  retrofitting  programmes  such 
+as  the  transformation  of  industrial  riverfronts 
+or the replacement of obsolete structures, for 
+example  in  the  Cheonggyecheon  project  in 
+Seoul, as noted in box 8. Table 4 lists examples 
+of technology options for sustainable buildings.
+
+Buildings  can  employ  either  passive  or 
+active  environmental  design  strategies. 
+Passive design techniques such as improved 
+
+is  greater 
+
+insulation, natural ventilation and daylighting 
+take  advantage  of  the  building’s  site  or 
+climatic  characteristics  to  improve  resource 
+efficiency. According to energy consumption 
+guidelines 
+in  the  United  Kingdom,  the 
+introduction  of  natural  ventilation  can 
+save  55  to  60  per  cent  of  the  energy  used 
+in  fully  air-conditioned  and  glazed  office 
+buildings 
+(United  Nations  Environment 
+Programme,  2011).  The  potential  use  of 
+passive  strategies 
+in  tropical 
+regions  due  to  the  priority  of  blocking 
+heat  rather  than  generating  it  efficiently 
+(Municipal  Government  of  Shanghai  et  al., 
+2011).  However,  active  systems  employ 
+technologies such as solar panels or energy-
+efficient  appliances  to  improve  efficiency 
+(United  Nations  Environment  Programme, 
+2012a). A study in the United States of more 
+than  5,000  commercial  buildings  showed 
+that  in  new  buildings,  employing  energy-
+efficient  lighting,  heating,  ventilation,  air 
+conditioning  and  shading  can  achieve  a 
+64 per cent reduction in energy use (United 
+Nations Environment Programme, 2012a).
+
+While  the  operational  phase  of  a  building 
+represents the most significant opportunity 
+for  resource  efficiency,  using  innovative 
+construction  technology  can  also  save 
+costs and resources, as demonstrated in the 
+examples in box 15. New prefabricated and 
+modular  building  techniques,  making  use 
+of local building materials and local know-
+how,  can  optimize  the  resource  efficiency 
+of construction (Kaye, 2012). Using building 
+materials  without  harmful  chemicals  has  a 
+highly positive impact on the health of users. 
+In  addition,  recycling  building  materials 
+can dramatically reduce the environmental 
+impact of the building process.
+
+28
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Table 4.  Technology options for sustainable buildings
+
+Design: 
+Designing for 
+sustainability 
+can dramatically 
+reduce energy 
+consumption 
+and create 
+settings that 
+encourage 
+inhabitants to be 
+more physically 
+active.
+
+Energy generation
+
+Heating and 
+cooling
+
+Heating and 
+cooling
+
+Water
+
+Information and 
+communications 
+technologies
+
+Windows
+
+Green roofs 
+and walls
+
+Solar power
+
+Orientation 
+towards the 
+sun
+
+Solar window 
+blinds
+Solar shingles
+
+Windows provide views and daylight, passive solar energy and natural 
+ventilation to buildings. Through their optimal orientation and use, windows 
+can provide net energy to buildings. Automated shading is essential in warmer 
+climates to limit heat from the sun. Natural light is beneﬁcial to productivity, 
+well-being and health.
+Homes may be placed with large facades facing east and west, letting in 
+morning and evening sunlight. Offices may have large facades facing north and 
+south, letting in high quality daylight, with shielding from direct sunlight to 
+avoid overheating.
+Adding plants to rooftops, walls and balconies offers many beneﬁts, as follows: 
+added insulation; reduced runoff of water during heavy rain; aesthetic qualities; 
+noise reduction; and a reduced heat-island effect.
+Photovoltaic cells can deliver clean energy to a building on site, eliminating 
+transmission losses. Combined with a heat pump, solar power can also generate 
+heating. The falling prices of photovoltaic cells have rendered their use more 
+feasible in many parts of the world.
+Solar window blinds keep buildings cool by blocking sunlight and at the same 
+time produce electricity via photovoltaic technology.
+Similar to solar panels, solar shingles are based on photovoltaic technology. 
+However, shingles can absorb more light and their durability makes it possible to 
+use them as roofing material.
+Generating energy from wind by placing turbines on top of commercial or 
+residential buildings can cover a large percentage of the structure’s energy 
+needs.
+Solar heating systems can provide heat and hot water and can be combined 
+with heat pumps to create heat depots in hot periods for use in cooler weather.
+Insulation materials, from mineral wool to aerogel, are essential in every climate 
+for keeping heat either in or out of a building.
+Techniques which use natural convection currents within air flow to direct air 
+into and out of buildings in order to replace rising warm air with cooler air can 
+function with minimal or no mechanical parts or energy consumption. For 
+example, air ducts can be designed to allow air to enter low in the building via 
+underground ducts, while simultaneously allowing air to escape from higher up 
+the building, and provide for natural ventilation.
+Earth-to-water or air-to-water heat pumps can draw thermal energy from the 
+surroundings into buildings, multiplying the energy used, whereby 1 kilowatt-
+hour of electricity can deliver 2 to 4 kilowatt-hours of heat.
+Ambiators can cool interiors by using thermodynamic technology based 
+on evaporation at a fraction of the energy consumption of conventional air 
+conditioning. Ambiators process air through a pump that recuperates heat and 
+reduces temperature. The pre-cooled air then passes through an evaporative 
+cooling module that uses limited amounts of water to cool the air further 
+(see www.hmx.co.in). Ambiators are more suitable for low-humidity locations.
+Reuse of water Reusing water from washbasins or showers for water closets can reduce water 
+
+Insulation
+
+Natural 
+ventilation
+
+Micro wind 
+turbines
+
+Solar heating
+
+Heat pumps
+
+Ambiators
+
+Rainwater 
+retention and 
+collection
+
+Reduction 
+of covered 
+ground
+Smart homes
+
+consumption.
+Rainwater can be held in fascines or tanks, reducing runoff during heavy rain. 
+The water can then be reused in water closets.
+
+Reducing the amount of ground covered by buildings, pavements, roads, 
+parking lots, etc. reduces both the local heat-island effect and pressure on 
+sewage and drainage, as the earth can absorb more water during heavy rain.
+Monitoring and controlling energy demand in buildings can reduce energy 
+consumption by 5 to 10 per cent.
+
+Sources: Jastrup and Drique, 2012; UN-Habitat, 2012b; and UN-Habitat, 2011.
+
+IV. Sustainable urban resource management
+
+29
+
+Box 15. 
+
+Innovative construction technologies in practice
+
+In Harare, Zimbabwe, the Eastgate shopping centre and oﬃce block was designed and built with an innovative passive 
+cooling system that stores heat in daytime. The warm air rises in the evening, replaced by denser cool air low in the building. 
+The shopping centre has avoided the need for artiﬁcial air conditioning and saved $3.5 million.
+
+Broad Sustainable Building, a company in China, uses pre-manufactured structures for more sustainable building construc-
+tion. This technique was implemented in the construction of the Tower Hotel in Yueyang. The building has several features, 
+such as resilience to earthquakes of up to 9.0 on the Richter scale, thermal insulation and the ability to produce biogas from 
+sewage and use hot wastewater for heating purposes. Broad Sustainable Building produced 93 per cent of the building 
+parts in its factory and then shipped them to the construction site, where the building was assembled in only 15 days by 
+bolting the pre-constructed modules together. The construction process required no water, welding or scaﬀolding, caused 
+minimal dust and created only 1 per cent of the waste that is common in similar construction sites.
+
+In Cuba, which has a programme for low energy and material consumption for housing, more than ﬁfty thousand homes 
+have been built in the last 20 years by using alternative building techniques with ecological materials that use recycled 
+waste products and special types of tile, cement and concrete blocks. The materials require less energy and fewer resources. 
+Biological wastes are used as fuel and bamboo is used in the construction process.
+
+Sources:  Kaye, 2012; UN-Habitat, 2012b; and UN-Habitat et al., 2009.
+
+Policy considerations
+
+Public support and regulation can speed up 
+the  adoption  of  green  building  practices  in 
+the  construction  sector.  Innovative  building 
+regulation  can  also  help  improve  resilience 
+and environmental quality in cities, as shown 
+in the examples in box 16.
+
+Standard  measurement  and  reporting  re-
+quirements  for  building  performance 
+in 
+terms  of  energy  efficiency  and  greenhouse 
+gas  emissions  can  increase  the  use  of  sus-
+tainable construction in the real estate sec-
+tor. They  can  also  make  it  easier  to  embed 
+the environmental performance of buildings 
+into calculations of their financial value. To-
+wards this end, the United Nations Environ-
+ment Programme is piloting a common car-
+bon metric that will measure emissions from 
+buildings  based  on  energy  use,  such  as  in 
+heating,  cooling,  ventilation,  lighting  and 
+appliances  (see  www.unep.org/sbci/Activi-
+ties/CCM_Pilot.asp).  This  metric  will  allow 
+data-driven  comparisons  between  build-
+ings.  In  addition,  the  Bonn  Centre  for  Local 
+Climate  Action  and  Reporting,  which  was 
+established  in  December  2009  as  an  initia-
+tive of the United Nations Environment Pro-
+gramme  and  the  International  Council  for 
+Local  Environmental  Initiatives–Local  Gov-
+ernments  for  Sustainability,  facilitates  the 
+voluntary  publication  of  city  commitments, 
+
+actions  and  performance  in  terms  of  emis-
+sion reductions (see www.carbonn.org). The 
+centre also provides guidance for emissions 
+reporting.  A  notable  example  of  voluntary 
+reporting initiatives is the Greenprint Perfor-
+mance  Report,  which  measures  the  energy 
+consumption and greenhouse gas emissions 
+of assets owned by members of the Green-
+print  Foundation,  a  worldwide  alliance  of 
+real-estate investors.
+
+Establishing multi-tier building rating systems 
+can guide the real estate sector in adopting 
+comprehensive  green  building  standards. 
+Green  building  rating  systems  that  certify 
+environmental building design strategies are 
+starting to be implemented globally. Notable 
+examples are the Green Rating for Integrated 
+Habitat Assessment in India, the Green Mark 
+initiative  in  Singapore,  which  aims  to  shift 
+industry  towards 
+Singapore’s  construction 
+friendly  buildings, 
+more  environmentally 
+the 
+Establishment 
+Environmental  Assessment  Methodology  in 
+the  United  Kingdom  and  the  Leadership  in 
+Energy and Environmental Design certification 
+in  the  United  States.  The  latter  is  provided 
+to  buildings  that  are  generally  designed  to 
+be  healthier  and  safer  for  residents  and  to 
+operate at a lower cost and higher asset value, 
+reduce  waste,  conserve  energy  and  water 
+and reduce greenhouse gas emissions. Green 
+building rating systems should be promoted 
+
+Research 
+
+Building 
+
+30
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+Box 16. 
+
+Innovative building regulations in practice
+
+Local governments may lead by example and implement energy-eﬃciency measures in new public buildings. For example, 
+the new city hall of Seoul uses a combination of photovoltaic, solar and geothermal energy for power generation.
+
+Vienna, Austria has an energy-eﬃciency policy that subsidizes new housing projects based on a competitive selection process 
+that includes energy eﬃciency among its criteria. The city also partially subsidizes the refurbishment of existing buildings.
+
+Stuttgart, Germany has analysed weather patterns to develop an urban climatic map and identify wind paths that transport 
+clean air into the city and improve air quality by reducing the heat-island eﬀect. As a result, constructing new buildings that 
+would prevent air ﬂow through these wind paths is prohibited.
+
+As of 2016, new residences in England will be required comply with higher energy-eﬃciency standards, with heating en-
+ergy demand levels corresponding to one-ﬁfth of current buildings and on-or-oﬀ-site renewable energy generation for all 
+building-related energy demands such as lighting and ventilation. By 2030, 2 to 3 million new homes will be built according 
+to these zero carbon standards.
+
+Rooftops  cover  one-ﬁfth  of  urban  surface  areas.  Green  roofs  can  be  used  to  provide  insulation  and  thereby  reduce 
+heating and cooling costs for buildings, while at the same time absorbing rainwater and ﬁltering pollutants so that the 
+cleaned water may be reused. Some countries such as Austria, Canada, Germany, Switzerland and the United States are 
+introducing regulation that makes it compulsory to construct green roofs on all new buildings or allocating subsidies 
+for converting existing roofs. Toronto, Canada, is the ﬁrst city in North America to require green roofs on new buildings. 
+Several cities are also investing in rooftop gardens and trees that are designed to hold water. In Seattle, United States, 
+households are reimbursed for putting in place such rain gardens. Rainwater harvesting from roofs was made manda-
+tory in Bangalore, India, through a water supply and sewerage bill in 2009. Existing buildings that do not install rainwater 
+harvesting structures are penalized.
+
+Sources:  United Nations Economic Commission for Europe, 2011; UN-Habitat, 2012b; Robbins, 2012; and Totty, 2011.
+
+first and foremost at the level of municipalities 
+and other local governance structures. Local 
+authorities  should  also  provide  transparent 
+information  to  the  real  estate  sector  on 
+green building construction costs, which are 
+normally lower than perceived by the public 
+and  can  easily  be  recuperated  in  the  long 
+term owing to lower operating costs.
+
+However,  green  buildings  require  higher 
+start-up  costs.  Local  authorities  can  provide 
+construction companies with incentives such 
+as  cash  payments,  loans  or  lower  taxes,  in 
+order that they may benefit from some of the 
+long-term  savings  resulting  from  the  lower 
+resource use of ecological construction. If the 
+business  model  of  green  regulation  passes 
+resource  efficiency  savings  only  to  building 
+owners, construction companies may not be 
+willing  to  invest. Therefore,  the  introduction 
+of  green  building  regulation  should  be 
+accompanied by information campaigns that 
+educate  builders  on  the  technical  aspects 
+of  new  standards  and  by  potential  financial 
+incentives  such  as  favourable  tax  policies  or 
+interest  rates  that  may  compensate  for  the 
+extra  start-up  costs  of  green  construction 
+
+(Municipal  Government  of  Shanghai  et  al., 
+2011).
+
+Green buildings need not be confined to cities 
+in high-income countries. Local governments 
+in developing countries can address housing 
+shortages  through  construction 
+initiatives 
+for  affordable,  sustainable  housing  and  the 
+upgrading  of  informal  settlements.  box  17 
+provides  examples  of  such  programmes  in 
+developing countries.
+
+IV. d. Water and agriculture
+
+The damage of urban sprawl on 
+peri-urban areas
+
+Peri-urbanization,  sometimes  referred  to  as 
+spillover growth, refers to urban growth into 
+zones that lie between a city and rural zones, 
+usually  without  spatial  planning  and  the 
+provision of basic services. Development of 
+city fringes that undergo peri-urbanization is 
+most often triggered by a real-estate boom 
+that  accompanies 
+rapid  urban  growth. 
+rural 
+Populations 
+
+that  were  previously 
+
+IV. Sustainable urban resource management
+
+31
+
+benefit  from  new  economic  dynamism  in 
+manufacturing  and  services  brought  by 
+urbanization,  yet  they  do  not  always  enjoy 
+improvements in quality of life.
+
+People  living  in  peri-urban  areas  suffer  the 
+consequences  of  unplanned  urban  growth 
+most  intensely,  as  they  face  environmental 
+pollution,  rapid  social  transformation  and 
+poverty.  Peri-urbanization  also  results 
+in 
+conflicts  in  basic  needs  and  resources  such 
+as  water.  Although  peri-urban  zones 
+in 
+developing countries are often neglected in 
+the process of urban growth and lack basic 
+services  such  as  water  and  sanitation,  they 
+have  a  key  role  to  play  in  supplying  cities 
+with  food,  energy,  water,  building  materials 
+and  critical  ecosystem 
+services.  Their 
+success  or  failure  has  implications  beyond 
+their  vicinity.  Since  there  is  no  return  from 
+urbanization and no future in rural poverty, 
+the key question is in how to undertake the 
+right urbanization for peri-urban zones.
+
+The  rules  for  the  administrative  governance 
+of  peri-urban  areas  are  often  unclear.  Rapid 
+urbanization  causes  peri-urban  zones  to 
+undergo rapid transformations in land, social 
+structure and economic activity. The extension 
+of  cities  into  peri-urban  areas  in  developing 
+countries  is  often  uncontrolled,  and  such 
+expansion can occur along a river or highway, 
+as well as around a single metropolitan area. 
+Due to a lack of regulation or planning, peri-
+urban  areas 
+face  severe  environmental, 
+
+economic  and  property-related  challenges. 
+For  instance,  due  to  a  lack  of  regulation, 
+some  cities  release  waste  into  peri-urban 
+areas without facing any legal consequences. 
+Insufficient regulation can result in peri-urban 
+agriculture  not  being  recognized  as  legal. 
+Urban  sprawl  causes  property  speculation 
+to increase land prices to unaffordable levels 
+for  peri-urban  residents 
+(United  Nations 
+Population Fund, 2008).
+
+is  not 
+
+Many cities in developing countries expand 
+with  little  focus  on  protecting  peri-urban 
+water  systems  or  agricultural  areas.  Since 
+the  peri-urban  area 
+incorporated 
+in  city  development  plans,  the  effects 
+of  urbanization  on  city  fringes  are  not 
+properly assessed. For example, many of the 
+households in peri-urban zones are involved 
+in  agriculture.  A  lack  of  understanding  of 
+the  way  peri-urban  agriculture  is  sustained 
+is  a  key  issue  affecting  peri-urban  farmers. 
+Land  acquisition  and  the  fragmentation 
+of  land  caused  by  urbanization  disrupt  the 
+livelihood  of  farmers.  Their  vulnerability  is 
+also  increased  by  industrial  pollution  and 
+the 
+lack  of  prioritization  of  agricultural 
+programmes.  In  addition,  opportunities  for 
+greater economic return by selling or leasing 
+land  decrease  the  attractiveness  of  future 
+peri-urban  agricultural  prospects  (Marshall 
+et al., 2009).
+
+Peri-urban zones on city fringes compete with 
+urban residential and industrial demands for 
+
+Box 17.  Sustainable housing programmes in practice
+
+The United Nations Environment Programme is implementing a sustainable social housing initiative that was piloted in São 
+Paulo and Bangkok in order to build social housing units that are both energy-eﬃcient and low-cost. 
+
+Brazil and Mexico have housing programmes that aim to cover their housing shortages. Brazil’s My House My Life pro-
+gramme provides incentives and subsidies to enable mortgages for low-income households and includes solar water heat-
+ers in housing design. Mexico’s national housing programme subsidizes households for buying homes with pre-approved 
+ecological technologies. In addition, the National Workers’ Housing Fund Institute provides green mortgages of up to $1,250 
+to cover the cost of ecological technologies for low-income housing. The programme ﬁnances 22 technologies related to 
+electricity, gas, water and health. The programme beneﬁted over 3 million people between 2007 and 2012 and is being 
+expanded to the retroﬁtting of existing housing stock.
+
+There are also successful examples of the upgrading of informal settlements. For example, settlements in Manaus, Brazil 
+were upgraded through the construction of parks, transport infrastructure and sewage pipes, as well as the provision of 
+basic services such as water, sanitation and electricity.
+
+Sources:  UN-Habitat, 2012a; UN-Habitat, 2012c; and World Habitat Awards, 2012.
+
+32
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+water. Growing urban zones endanger water 
+resources  that  are  critical  for  agriculture.  A 
+study  conducted  of  Chennai,  India,  by  the 
+Social,  Technological  and  Environmental 
+Pathways to Sustainability Centre based at the 
+University of Sussex demonstrated that after 
+a water-use agreement was signed between 
+the urban water management authority and 
+rural farmers for the use of groundwater, peri-
+urban  farmers  were  vulnerable  to  increased 
+urban  and  rural  demand  and  resulting 
+price 
+increases.  Moreover,  the  water-use 
+agreement  had  counterproductive  effects 
+on  all  parties.  As  urban  water  use  increased, 
+excessive  groundwater  extraction 
+led  to 
+longer  droughts,  thereby  also  negatively 
+impacting urban citizens due to reduced food 
+production (Thapa et al., 2010). 
+
+Water  scarcity  can  turn  into  a  serious  health 
+issue for both rapidly growing cities and peri-
+urban  zones.  The  lack  of  water  negatively 
+affects  access  to  sanitation.  The  number  of 
+inhabitants  in  cities  of  sub-Saharan  Africa 
+without  access  to  adequate  sanitation  more 
+than  doubled  between  1990  and  2010, 
+reaching  180  million  (Food  and  Agriculture 
+Organization  of  the  United  Nations,  2012). 
+In  Maputo,  Mozambique,  20  per  cent  of  the 
+population lacked access to potable water in 
+2003. Half of the 10 million citizens of Jakarta, 
+Indonesia had no access to potable water in 
+2007 (UN-Habitat, 2012c). Water consumption 
+is already excessive according to World Health 
+Organization  norms  and  is  likely  to  increase 
+further  in  cities  such  as  the  following:  Porto 
+Alegre,  Brazil;  Nanjing,  China;  Johannesburg, 
+South  Africa;  Bangkok;  Tunis,  Tunisia;  and 
+Montevideo,  Uruguay.  Water  leakages  and 
+abuse are severe problems in many countries. 
+The  lack  of  water  can  thus  be  an  inhibiting 
+factor to sound urban growth and peri-urban 
+livelihood.
+
+The  lack  of  healthy  nutrition  remains  an 
+important  issue  in  growing  urban  areas  in 
+developing  countries.  More  than  half  of 
+the  urban  residents  in  Africa  live  in  slums, 
+are  undernourished  and  have 
+scarce 
+employment  opportunities.  Commercial 
+horticultural  production  of  fresh  fruits  and 
+vegetables,  widely  practiced  in  peri-urban 
+
+zones  especially  in  Africa,  risks  becoming 
+unsustainable due to the lack of means and 
+support.  Horticulture  and  food  production 
+are  sources  of  nutrition  and  employment 
+for  millions  of  urban  Africans,  yet  they 
+receive 
+little  recognition,  regulation  or 
+support  from  their  Governments.  As  a 
+result,  an  important  opportunity  for  the 
+healthy  nutrition  of  urban  populations 
+and  a  source  of  employment,  especially 
+for  women  workers,  remains  underutilized 
+(Food  and  Agriculture  Organization  of  the 
+United Nations, 2012).
+
+Science, technology and innovation for 
+water and agriculture
+
+Urban farming and market gardening
+
+Science, technology and innovation increase 
+the options for urban areas to become more 
+self-sufficient  in  terms  of  nutrition.  In  Asia, 
+Africa  and  Latin  America,  urban  farming  is 
+already  a  livelihood  and  survival  strategy 
+for  populations.  Urban  farming  can  also  be 
+critical to supply food for disaster-struck urban 
+zones.  Technologies  and  innovative  models 
+are  available  to  promote  urban  farming. 
+For  example,  school  gardens  represent  an 
+innovative  means  to  promote  horticultural 
+production,  while  simultaneously  improving 
+the  quality  of  meals  at  schools,  providing 
+practical  nutrition  education  and  increasing 
+household  consumption.  In  addition,  family 
+gardens  may  be  established  with  links  to 
+markets through cooperatives. 
+
+Integrating  urban  farming  into  urban  and 
+peri-urban  planning  can  produce  multiple 
+benefits. As the spread of urban zones results 
+in a lack of space for food production, small-
+scale peri-urban market gardening can make 
+up  for  shortages  in  healthy,  fresh  food  and 
+generate  employment.  Peri-urban 
+farms 
+can  reuse  urban  wastewater  for  irrigation 
+purposes.  The  production  of 
+fruit  and 
+vegetables  in  small  private  farms  close  to 
+cities can be less costly than bringing supplies 
+from rural areas, due to lower transport costs. 
+Such production can also help contain urban 
+sprawl by creating urban green belts. box 18 
+presents  an  example  of  the  implementation 
+of market gardening in Mozambique.
+
+IV. Sustainable urban resource management
+
+33
+
+Box 18.  Mozambique: Market gardening
+
+Mozambique  demonstrates  a  good  example  of  policy-
+making  for  successful  market  gardening  in  Africa.  The 
+Government  created  green  zones  by  organizing  horti-
+cultural cooperatives in the capital city of Maputo and 
+other major cities after the civil war of the 1980s, which 
+disrupted  food  supplies  and  increased  urban  unem-
+ployment. These green zones produce a critical supply 
+of fresh vegetables such as cabbage, lettuce, tomatoes, 
+onions, eggplants, beans and pumpkins. Despite expo-
+nential  growth  that  occurred  without  planning  or  ad-
+ministrative control, most of the green zones have been 
+protected by the city council, sustaining the livelihood of 
+predominantly women farmers. Membership in farmers’ 
+associations, which are aﬃliated with the General Union 
+of Cooperatives, made it possible to protect the land of 
+small-scale farmers from takeover by more wealthy farm-
+ers. The cooperative-based structure also supports farm-
+ers  with  ﬁnancing,  technical  assistance  and  market  ac-
+cess. The green zones play a key economic role through 
+the production of healthy food on a small scale, the crea-
+tion of employment opportunities and the use of urban 
+wastewater for irrigation purposes.
+
+Source:  Food  and  Agriculture  Organization  of  the 
+
+United Nations, 2012.
+
+Water technologies
+
+Since peri-urban communities in developing 
+countries largely depend on agriculture, water 
+is a key resource for their economic well-being. 
+Water  storage,  irrigation  and  water-lifting 
+technologies can help tackle water shortages. 
+For  example,  Grundfos,  a  Danish  pump 
+manufacturer,  developed  and  implemented 
+a  solution  to  the  challenge  of  providing 
+sustainable access to water for rural and peri-
+urban communities in the developing world. 
+The  system,  as  implemented  in  Kenya,  uses 
+solar energy to activate a pump that extracts 
+groundwater  and  distributes  it  through  a 
+payment  system  that  is  managed  locally. 
+The  revenue  from  the  pump  is  used  for 
+maintaining the system. Grundfos is working 
+on introducing the system to other countries 
+(World  Business  Council 
+for  Sustainable 
+Development, 2012).
+
+Phyto-remediation
+
+Another  innovative  method  for  reusing  urban 
+wastewater  is  phyto-remediation,  that  is,  the 
+use of trees and plants to clean water, whereby 
+
+a drainage system channels wastewater into a 
+catchment that is filled with trees, which capture 
+the water and hold the waste. The cleaned water 
+is then reused for irrigation purposes. 
+
+Policy considerations
+
+Peri-urbanization  should  take  place  as  a 
+planned,  managed 
+transition.  Regional 
+governance entities may be set up to establish 
+a  framework  of  equitable  regulation  that 
+protects  the  environment,  provides  basic 
+services to the poor and resolves land disputes 
+that may arise from urban sprawl. It may even 
+be to the benefit of a region as a whole to set 
+city land-expansion limits, as set for example by 
+Portland, and to encourage more concentrated 
+development.  Peri-urban  areas  can  benefit 
+from social inclusion programmes that upgrade 
+existing informal settlements and prevent the 
+formation of new informal settlements through 
+adequate spatial planning. Peri-urban areas can 
+be integrated into the urban transport network 
+as well. Soweto, a township in South Africa that 
+was part of greater Johannesburg as a separate 
+municipality,  was  successfully  integrated  into 
+Johannesburg  as  a  result  of  a  planning  and 
+investment effort that improved infrastructure, 
+accessibility,  safety  and  public  spaces  and 
+provided  new  economic  opportunities  (UN-
+Habitat, 2012c).
+
+Formal means of public participation in deci-
+sion-making can play a key role in preventing 
+resource conflicts between urban, peri-urban 
+and rural stakeholders during the process of 
+urbanization. Some countries have already es-
+tablished successful forms of participation in 
+urban decision-making. For example, in Brazil, 
+more than 70 cities have a participatory bud-
+get  system  that  allows  citizen  participation 
+in  decisions  of  resource  allocation  (Marshall 
+et  al.,  2009).  The  Coalition  to  Fight  Poverty 
+(Mesa de Concertación para la Lucha Contra 
+la Pobreza) in Peru is a council of Government, 
+non-governmental  organization,  church  and 
+community  organization  members  that  for-
+mulates  short,  medium  and  long-term  pri-
+orities  for  community  development  in  areas 
+of  infrastructure,  health,  education,  security, 
+recreation  and  employment  (Marshall  et  al., 
+2009).
+
+34
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+for 
+
+urban 
+
+zoning, 
+
+the  peri-urban 
+
+Horticulture  may  be  supported  through 
+policies 
+building 
+irrigation  systems  and  the  establishment 
+of  cooperatives  that  protect  small-scale 
+farming. Agricultural cooperatives can sustain 
+agricultural  production  and  the  livelihood 
+of 
+farming  community 
+and  industry  in  the  face  of  urbanization. 
+Cooperative 
+the 
+accessibility of markets and provide logistical 
+support  for  individual  farmers.  Furthermore, 
+Governments can support peri-urban farming 
+through  regulation.  Tax  policies  can  help 
+sustain peri-urban food production for cities, 
+thereby reducing the need to transport food 
+from  other  areas,  which  would  potentially 
+increase food costs.
+
+structures 
+
+improve 
+
+Water  governance  by  a  single  unified 
+authority  can  help  resolve  water-related 
+conflicts in urban and peri-urban zones. For 
+
+Box 19.  Ecosystem assessments in practice
+
+example,  in  1963  Singapore  centralized  its 
+water management through a public utilities 
+board. Within 40 years of centralization, two-
+thirds  of  Singapore’s  land  surface  became 
+a  water  catchment  area  that  stored  water 
+in  17  reservoirs.  Singapore  also  collects 
+wastewater  to  produce  drinking  water  and 
+thereby covers 30 per cent of the city’s needs 
+(Tan, 2012).
+
+ecosystem 
+
+assessments 
+
+Peri-urban  communities  may  benefit  from 
+regional 
+that 
+map  their  composition,  interlinkages  and 
+changes  induced  by  urbanization,  as  shown 
+in the examples in box 19. Assessments can 
+document  the  vulnerabilities  of  peri-urban 
+zones with quantifiable data so that policies 
+may  be  developed  to  maintain  landscapes 
+and  ecosystems  that  are  important  for  food 
+production,  maintaining  biodiversity  and 
+tourism.
+
+Following up on the millennium ecosystem assessment released in 2005, the satoyama–satoumi assessment, a land and 
+marine ecosystem assessment, was conducted in Japan by the Institute of Advanced Studies of the United Nations Uni-
+versity. The assessment was divided into ﬁve major regional clusters and identiﬁed the root causes of decline in both land 
+and marine ecosystems and the possible courses of action to reverse this trend. The most important root causes were land 
+use transformation, largely due to urbanization, and demographic changes such as ageing that made it harder to sustain 
+the landscapes, while the decline of these ecosystems negatively aﬀected health and well-being in Japan. The assessment 
+established  that  the  two  key  challenges  for  the  future  were  attracting  participation  by  citizens  and  non-governmental 
+organizations in re-establishing land and marine ecosystem services and formulating economic incentives to protect non-
+economic values in the landscapes.
+
+Suncheon, a city on the south coast of the Republic of Korea, is a good example of an urban zone that has managed to 
+protect its surrounding ecosystems. Despite being surrounded by cities prioritizing heavy industry, the city has invested in 
+its ecosystems as of the late 1990s and turned Suncheon Bay into an award-winning ecotourism centre that attracts more 
+than 2.3 million visitors per year. Although businesses and landowners disagreed with the plan at the beginning, it was im-
+plemented with the mayor’s leadership and a clear vision of how the ecosystem approach would bring economic growth.
+
+Sources:  Duraiappah et al., 2012; and Economic and Social Commission for Asia and the Paciﬁc et al., 2011.
+
+V. Recommendations and conclusion
+
+35
+
+V. Recommendations and conclusion
+
+to  achieve 
+
+This  report  provides  guidance  on  science, 
+technology  and  innovation-related  policies 
+and  practices  that  can  lead  to  sustainable 
+urbanization  by  producing  wider  economic, 
+social  and  environmental  benefits  for  cities. 
+The  report  details  how  cities  that  prioritize 
+sustainable  growth  patterns  can  improve 
+employment  and  competitiveness,  enhance 
+social  cohesion  and  create  a  healthy  and 
+liveable  urban  environment.  As  seen  in  the 
+examples provided, many cities have achieved 
+success  on  a  partial  basis  by  implementing 
+some  of  the  related  technologies,  yet  the 
+same cities may have failed in other areas. 
+The  best  way 
+sustainable 
+urbanization is for a city to implement integrated 
+comprehensive policies that take into account 
+all aspects such as spatial planning, mobility and 
+buildings, among others. Cities need to embed 
+sustainability  in  their  urban  plans  and  urban 
+development policies. If a sustainability mindset 
+is  included  in  all  sectors,  there  is  a  higher 
+likelihood  of  achieving  success.  Mobilizing 
+citizens  to  support  this  mindset  is  critical, 
+since  without  the  participation  of  citizens, 
+policymakers cannot achieve objectives such as 
+sustainable  resource  management.  Ultimately, 
+citizens  are  the  ones  who  make  decisions  on 
+consumption patterns.
+In  order 
+technology  and 
+innovation  to  be  effective  in  bringing  about 
+positive  responses  in  cities  in  developing 
+countries, there is a need for strong diffusion 
+mechanisms. 
+and 
+innovation are widely available for sustainable 
+urbanization  and 
+tools  are 
+constantly  improving.  Most  significant  for 
+developing  countries  is  the  need  to  ensure 
+that  diffusion  takes  place  where  needed. 
+Solutions need to travel quickly from creators 
+to beneficiaries. However, as with the adoption 
+of  science, 
+innovation-
+related  solutions,  diffusion  requires  action 
+on  multiple  fronts.  Diffusion  models  should 
+include  capital  accumulation  and  the  local 
+capacity development of beneficiaries.
+
+technology  and 
+
+technology 
+
+Science, 
+
+science, 
+
+for 
+
+the 
+
+related 
+
+is 
+
+infrastructure 
+
+countries,  particularly 
+
+in  a  number  of 
+Urban 
+least 
+developing 
+developed  countries, 
+inadequate  and 
+insufficient  to  meet  the  needs  of  rapidly 
+growing  populations  and  economies.  The 
+lack  of  affordable  housing  furnished  with 
+basic  services  such  as  water,  sanitation 
+and  electricity,  especially  for  lower-income 
+groups, results in informal shelters being built 
+with  no  infrastructure,  little  sanitation  and 
+no  compliance  with  planning  or  building 
+regulations.  Least  developed  countries  have 
+particularly  high  urban  growth  rates  and 
+require  special  consideration  with  regard 
+to  meeting  shelter,  sanitation  and  other 
+infrastructure  needs.  Most  least  developed 
+countries  are  located  in  sub-Saharan  Africa 
+and  South-East  Asia,  where  natural  disasters 
+pose constant risks.
+Science,  technology  and  innovation-related 
+choices in developing country contexts differ 
+from  those  in  developed  countries  due  to 
+limitations  in  human  resources,  know-how 
+and  financing,  among  others.  Constraints 
+are  particularly  acute 
+least  developed 
+countries,  limiting  their  ability  to  cope  with 
+the  challenges  of  rapid  urbanization  and 
+to  ensure  even  the  bare  minimum  –  food, 
+water  and  electricity  –  needed  to  sustain 
+the livelihoods of their citizens. Nevertheless, 
+science,  technology  and  innovation  have 
+a  key  role  to  play  in  fostering  sustainable 
+urbanization  in  the  developing  world.  The 
+particular  nature  of  urbanization 
+least 
+developed  countries  requires  customized 
+models  of  delivering  science,  technology 
+and innovation-related solutions, not least by 
+tapping into indigenous knowledge.
+As demonstrated in this report, many of the 
+technologies  that  are  useful  in  the  urban 
+context  in  developing  countries  can  be  low 
+technology and therefore may not necessarily 
+require high financial resources or investments. 
+This 
+that  science, 
+technology  and  innovation  for  sustainable 
+urbanization  often  originate  in  developing 
+
+report  demonstrates 
+
+in 
+
+in 
+
+36
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+least 
+
+including 
+
+countries, 
+developed 
+countries. Several successful innovations such 
+as  bus  rapid  transit  systems,  public–private 
+partnerships  for  waste  management,  urban 
+agriculture, models for public participation in 
+decision-making,  disaster  risk  management 
+and sustainable housing programmes already 
+have been or have the potential to be applied 
+across the world.
+
+examples 
+
+of 
+
+construction 
+
+of 
+low  and  high 
+
+Developing  countries  have  also  successfully 
+creatively 
+demonstrated 
+combining 
+technology 
+according  to  local  needs,  as  with  some  of 
+the technologies used for disaster resilience. 
+This  report  provides  examples  of  how  local 
+knowledge may be leveraged to implement 
+the 
+resource-efficient 
+buildings  that  are  not  necessarily  expensive. 
+Many  innovations  originate  in  developing 
+countries, yet there is a need for mechanisms 
+to  implement  them  more  widely.  In  least 
+developed  countries,  urbanization  rates  are 
+still relatively low compared to other countries. 
+Making 
+ideas  on  urbanization 
+available  to  least  developed  countries  can 
+help  their  cities  follow  the  best  path  from 
+the start and minimize the cost of correcting 
+unhealthy urban practices later on.
+
+innovative 
+
+The examples given in this report illustrate the 
+benefits of establishing strong links between 
+national  policies  on  science,  technology 
+and 
+innovation,  particularly  research  and 
+development,  and 
+specific  urbanization 
+issues,  in  order  to  develop  local  solutions 
+that  address  local  needs.  The  report  shows 
+how  developed  countries  are  taking  the 
+lead  with  regard  to  innovative  regulation  in 
+the urban context. This may therefore be an 
+area  for  increased  cooperation  among  cities 
+in the future. Developing countries and least 
+developed  countries  may  need  assistance 
+in  putting 
+in  place  beneficial  business 
+models  and  urban  governance  structures 
+that  can  popularize  science,  technology 
+and 
+low 
+technology or innovation forms. For instance, 
+while bicycling is a technology that has been 
+available for over a century, encouraging the 
+wide-scale  adoption  of  bicycling  in  a  city 
+through  bicycle-sharing  systems  integrated 
+
+in  high  technology, 
+
+innovation 
+
+technical  know-how 
+
+with 
+information  and  communications 
+technologies,  which  are  accessible  via 
+smart  telephones  and  the  Internet,  requires 
+advanced 
+(Atlantic 
+Council,  2013).  Technical  cooperation  on 
+innovative  regulations  may  therefore  speed 
+up the process of implementing sustainable 
+practices  on  a  much  wider  scale  in  growing 
+cities in developing countries.
+
+Policy implications that may be derived from 
+this report to address the specific urbanization 
+needs  of  developing  countries  and  least 
+developed  countries  are  further  detailed  in 
+the following sections.
+
+V. a. Urbanization as a key  
+
+ 
+  consideration in national    
+  innovation systems
+
+Cities  are  one  of  the  greatest  innovation 
+tools developed by humans. They encourage 
+innovation through contact between people, 
+which may be either planned or serendipitous. 
+Creative 
+inhabitants  of  cities  constantly 
+design  novel  solutions. The  same  applies  to 
+inhabitants  of  informal  settlements,  where 
+people  must  embody  an  entrepreneurial 
+spirit  for  their  daily  survival.  It  is  important 
+for  developing  countries  to  harness  this 
+innovative spirit and scale frugal innovation for 
+the benefit of the larger population. Increasing 
+the  possibilities  of  public  participation  in 
+urban  decision-making  may  enable  this,  as 
+seen  in  some  of  the  examples  provided  in 
+this  report.  Urban  citizens  are  best  placed 
+to  work  with  municipalities  and 
+identify 
+science,  technology  and  innovation-related 
+requirements. Fostering cooperation between 
+national councils on science, technology and 
+innovation  and  local  governments  to  solve 
+urban problems is also beneficial.
+
+Furthermore, if the national innovation system 
+of a country prioritizes urbanization issues, this 
+may  be  a  great  benefit  for  its  development 
+as,  more  often  than  not,  urbanization  and 
+development occur in parallel. Mainstreaming 
+sustainability  into  urban  development  plans 
+from  the  start  can  help  to  avoid  costly  and 
+difficult  policy  adjustments  later  on.  While 
+
+V. Recommendations and conclusion
+
+37
+
+long-term  plans 
+
+developing  accurate 
+is 
+more  challenging  in  rapidly  growing  urban 
+environments  than  in  areas  with  constant 
+populations, new technologies can empower 
+urban  planners  by  providing  a  greater 
+capability and capacity to plan ahead.
+
+V. b. Mobilizing the private  
+  sector and civil society
+
+ 
+
+report  demonstrates 
+
+This 
+the  different 
+areas  in  which  public–private  partnerships, 
+particularly in developing countries, can have 
+a lasting impact on sustainable urbanization. 
+Such  business  models  are  valuable  in  terms 
+of scaling the innovation generated by small 
+organizations  with  the  means  available  to 
+large  organizations.  Local  governments  can 
+also  make  public  resources,  such  as  open 
+data,  available  to  private-sector  enterprises 
+and  community 
+local 
+communities work together with businesses, 
+they  can  steer  innovation  more  effectively 
+towards  answering 
+requirements. 
+in  Africa,  the  development 
+For  example, 
+of  electronic  payment  systems  based  on 
+mobile telephones led to the creation of new 
+marketplaces at a relatively low cost and with 
+low infrastructure requirements.
+
+innovators.  When 
+
+their 
+
+Sustainability  examples  from  several  cities 
+show  that  applying  technology  in  highly 
+populated  urban  environments  requires  a 
+sound  business  model  in  order  to  succeed. 
+Popular adoption of new urban technologies 
+depends on whether they can replace current 
+habits  and  practices  without  disruption  or 
+economic disadvantages. City managements 
+can  increase  the  potential  for  entrepreneurs 
+to establish sound business models through 
+incentives 
+regulation, 
+and 
+information and awareness campaigns.
+
+economic 
+
+Local governments should also put in place a 
+comprehensive  regulatory  environment  and 
+provide  incentives  to  encourage  the  private 
+sector  to  participate  in  urban  infrastructure 
+technology  projects.  Public–private 
+and 
+partnerships 
+investment 
+in 
+International 
+organizations  and  business  associations  can 
+
+attract 
+sustainability  projects. 
+
+can 
+
+assist  in  matching  the  sustainability  needs 
+of  cities  with  possible  solutions  from  the 
+private sector. Municipalities can also receive 
+support  from  national  Governments  and 
+international  organizations  to  create  more 
+favourable  conditions  so  that  sustainable 
+practices  do  not  remain  expensive  subsidy-
+dependent  options  but  are  turned  into  real 
+business opportunities (Economic and Social 
+Commission for Asia and the Pacific et al., 2011 
+and United Nations Environment Programme, 
+2011).
+
+Particularly in the context of least developed 
+countries,  the  social  inclusion  of  slum  areas 
+is  a  necessity.  Social  entrepreneurship  is  an 
+emerging  business  model  that  addresses 
+societal  needs  by  bringing 
+together 
+community  innovators  with  private  sector 
+entrepreneurs  to  fund  social  innovation  as 
+a  financially  viable  business.  For  example, 
+open-data  initiatives  can  help  populations 
+map  their  neighbourhoods.  Cooperation 
+initiatives  that 
+include  non-governmental 
+organizations  can  map  slums  and  survey 
+households  to  integrate  slums  into  future 
+urban development plans.
+
+International organizations can contribute to 
+standard  setting  and  technical  cooperation 
+for  sustainable  urbanization.  They  can  raise 
+awareness among urban policymakers of the 
+role of science, technology and innovation for 
+sustainable urban development in developing 
+countries,  with  a  special  focus  on 
+least 
+developed countries, by serving as a forum for 
+the sharing of good practices and experiences. 
+In  particular,  international  organizations  can 
+share  and  analyse  evidence  of  successful 
+examples  of  local  innovation  models  that 
+provide solutions to pressing urban challenges 
+based on science, technology and innovation, 
+including  serving  as  incubators,.  They  can 
+also  share  and  analyse  evidence  of  business 
+models that scale innovative interdisciplinary 
+solutions  to  city  management  and  provide 
+them  to  beneficiaries.  Formal  cooperation 
+and  technology  transfer  mechanisms  can 
+be  established  within  relevant  international 
+organizations, such as the Clean Development 
+Mechanism of the United Nations Framework 
+Convention on Climate Change.
+
+38
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+V. c. Innovative governance 
+
+  and financing models
+
+The  highlighted  case  studies  from  around  the 
+world demonstrate the need for cities to form a 
+coalition of public, private and civil society actors 
+and  multilevel  governance  models  in  their 
+transition to sustainability. Since policy changes 
+related  to  prioritizing  public  transport,  saving 
+energy  and  efficient  buildings,  among  others, 
+affect all stakeholders that take part in urban life, 
+they require consensus-based decision-making 
+to succeed. Cities need to envisage and put in 
+place  legal  participation  mechanisms.  Broad 
+public participation can help gather input and 
+promote consensus on urban projects, leading 
+to cities that are more socially inclusive.
+
+Sectors  of  urban  management  are  interlinked. 
+The  absence  of  cross-sectoral  policies  can 
+lead  to  fragmented  governance,  which 
+is 
+counterproductive and can lead to unexpected 
+and unwanted outcomes. For example, rebound 
+effects can occur in cases where the introduction 
+of energy-saving technologies actually leads to 
+an increase in per capita energy consumption 
+(United Nations Environment Programme, 2011). 
+Local  governments  in  developing  countries 
+can  launch  cross-sectoral  sustainability  goals 
+covering mobility, energy, buildings, water and 
+waste. Science, technology and innovation have 
+an  essential  role  to  play  in  addressing  cross-
+sectoral  sustainability  challenges.  For  instance, 
+information and communications technologies 
+can be used to bring together data from different 
+city  departments  and  enable  coordinated 
+simultaneous responses to challenges.
+
+Science,  technology  and 
+innovation  are 
+important  for  urban  economic  dynamism 
+and  employment.  Urban  economies  need 
+to innovate and take a regional approach in 
+order  to  provide  employment  for  incoming 
+populations. Assessing the advantages of the 
+region and ensuring the integration of a city 
+with its region are necessary to generate new 
+employment. Formal governance mechanisms 
+that enhance cooperation between national, 
+regional  and  local  governments  can  assist 
+spatial  planning  at  the  regional  level.  Such 
+governance models may even be developed 
+
+across  countries.  An  overall  view  of  the 
+regional  economic  landscape  can  help  in 
+forming a vibrant economic cluster. Science, 
+technology  and  innovation  make  it  possible 
+to  undertake  regional  work  and  exchange 
+ideas more easily. Examples include regional 
+planning  and  governance  models  that  are 
+being  practiced  in  different  urban  hubs  in 
+Asia,  including  the  Malacca  Straits  Diagonal, 
+the Pearl River Delta and Metropolitan Manila 
+(International  Society  of  City  and  Regional 
+Planners, 2012).
+
+support 
+
+for 
+
+financial 
+
+technologies 
+
+Public 
+science, 
+technology and innovation-related initiatives 
+and  start-ups  oriented  towards  sustainable 
+urbanization solutions is important. New forms 
+of  financial  services  are  emerging,  driven  by 
+the opportunities created by information and 
+communications 
+(Robinson, 
+2012).  For  example,  crowdfunding,  peer-to-
+peer  lending,  sustainable  investment  funds 
+and  local  and  electronic  currencies  are  all 
+innovations  that  can  be  used  to  finance 
+projects related to sustainable urbanization. In 
+addition,  new  sources  of  investment  capital, 
+such  as  retirement  and  sovereign  wealth 
+funds,  can  finance  science,  technology  and 
+innovation-based solutions, in particular at a 
+smaller scale, for sustainable urbanization.
+
+V. d. Inter-city learning as an    
+
+  opportunity area
+
+Cities  of  the  world  learn  from  one  another. 
+City-to-city knowledge exchanges on science, 
+technology  and  innovation  facilitate  both 
+North-South  and  South-South  collaboration 
+in  sharing  experiences  on  issues  such  as 
+urban  planning  and  design,  mobility  and 
+efficient  urban  resource  management.  For 
+example,  since  the  European  Union–Latin 
+America  and  Caribbean  summit  in  Madrid 
+on 18 May 2010, the two regions have been 
+undertaking 
+joint  efforts  on  smart  cities, 
+among  other  topics.  A  mapping  exercise  is 
+being conducted to identify priorities on new 
+biregional cooperation possibilities for smart 
+cities. The objective is to constitute a database 
+of  biregional  projects  related  to  information 
+and  communications  technologies,  as  well 
+
+V. Recommendations and conclusion
+
+39
+
+as applications and technologies deployed in 
+thematic areas including smart cities to allow 
+for  the  identification  of  twinning  projects, 
+funding 
+instruments  and  collaborating 
+institutions.  It  is  based  on  an  exploratory 
+survey  of  cooperation  on  information  and 
+communications 
+through 
+contact  with  national  funding  agencies  in 
+both regions.
+
+technologies 
+
+At  the  level  of  mayors  and  municipalities, 
+barriers  between  North  and  South  are  less 
+significant, since solutions to urban problems 
+can  originate  from  anywhere.  Cities  help 
+break  barriers  to  learning  among  countries 
+and regions. For example, the bus rapid transit 
+system in Curitiba has been reapplied in many 
+parts  of  the  world,  including  in  developed 
+countries.  Accelerating 
+learning 
+is  a  key  opportunity  for  diffusing  science, 
+technology and innovation on a much wider 
+scale  towards  sustainable  urbanization 
+in 
+developing countries. 
+
+inter-city 
+
+Multilateral  and  bilateral  technology  banks 
+can be established to speed up the transfer of 
+knowledge and experience on projects that are 
+implemented  in  cities  with  similar  problems. 
+International 
+local  government  networks 
+such as Cities Alliance, the C40 Cities Climate 
+Leadership  Group,  the  International  Council 
+for  Local  Environmental 
+Initiatives–Local 
+Governments  for  Sustainability,  United  Cities 
+and Local Governments and the World Urban 
+Campaign  coordinated  by  UN-Habitat  are 
+already playing an important role in increasing 
+awareness  of  sustainability,  circulating  best 
+practices  and  providing  a  platform  for  joint 
+projects. Action at a mayoral level is effective 
+since  mayors  regulate,  operate  or  even  own 
+infrastructure  such  as  roads,  buildings  and 
+street  lights,  as  well  as  public  transport,  land 
+use planning and waste collection.
+
+V. e. Cities undergoing a 
+
+  process of perpetual  
+  urbanization
+
+ 
+
+Urbanization 
+one-time 
+phenomenon  and  therefore  not  only  a 
+consideration  for  developing  countries.  It 
+
+not 
+
+is 
+
+a 
+
+is perpetual. Cities continuously undergo a 
+process  of  transformation  by  reimagining 
+their existing infrastructure in the context 
+of what becomes possible through science, 
+technology and innovation. In many cities 
+of  developed  countries,  urbanization  is 
+occurring  in  the  form  of  reurbanization, 
+for 
+to 
+accommodate  for  ageing  citizens  and  to 
+improve resource management. 
+
+to  deindustrialize, 
+
+instance 
+
+and 
+
+technology 
+
+The  nature  of  urbanization  may  change, 
+yet  it  remains  a  continuously  evolving 
+process. In order to make this continuous 
+process sustainable, cities need to consider 
+science, 
+innovation 
+options  whenever  they  embark  on  new 
+infrastructure 
+investments  and  plans. 
+They  should  continuously  benefit  from 
+ecological  solutions  as 
+they  emerge, 
+perpetually  replacing  obsolete  and  old 
+infrastructure  with  more  efficient  and 
+environmentally 
+infrastructure. 
+They need to have mechanisms that assess 
+the  evolution  of  new  technologies  and 
+innovative  means  of  urban  governance, 
+in  order  to  gradually  integrate  these  into 
+their domain.
+
+friendly 
+
+Cities  are  already  thinking  of  ways  to 
+repurpose  their  obsolete 
+infrastructure. 
+For example, New York City is piloting the 
+use of its 12,500 public telephone booths 
+as  information  nodes.  A  similar  pilot  that 
+reuses public telephone booths as electric 
+automobile-charging 
+is  being 
+run  by  Telekom  Austria  (Burnham,  2013). 
+Such examples are encouraging proof that 
+there is potential for cities at any stage of 
+development  to  innovate  and  learn  from 
+other cities.
+
+facilities 
+
+Since  urbanization  is  a  perpetual  phenom-
+enon, there needs to be a constant evolution-
+ary  transformation  of  infrastructure  to  adapt 
+to the current requirements of citizens.
+
+should 
+
+implement 
+
+Cities 
+sustainable 
+policies  first  and  foremost  because  they 
+improve  the 
+inhabitants. 
+Ultimately, cities should be constructed so 
+that  they  serve  their  citizens  and  not  the 
+other way around.
+
+lives  of  their 
+
+VI. Bibliography
+
+41
+
+VI. Bibliography
+
+International  Cooperation 
+
+Asian Development Bank and German Agency 
+for 
+(2011). 
+Changing Course in Urban Transport – An 
+Illustrated Guide. Asian Development Bank. 
+Manila.
+
+Atlantic  Council 
+
+(2013).  Envisioning  2030: 
+United  States  Strategy  for  the  Coming 
+Technology  Revolution.  Atlantic  Council. 
+Washington, D.C.
+
+Banister,  D  (2008).  The  sustainable  mobility 
+
+paradigm. Transport Policy. 15:73–80.
+
+Bolay  J-C  and  Kern  A  (2011).  Technology 
+and  cities: What  type  of  development  is 
+appropriate for cities of the south? Journal of 
+Urban Technology. 18(3): 25–43.
+
+Burnham S (2013). Reprogramming the city: can 
+urban  innovation  meet  growing  needs? 
+The  Guardian.  26  September.  Available 
+http://www.theguardian.com/
+at 
+sustainable-business/reprogramming-
+city-urban 
+infrastructure-changes 
+(accessed 30 December 2014).
+
+City  of  Cape  Town 
+
+(2012).  Cape  Town 
+densification  policy.  Available  at  http://
+www.capetown.gov.za/en/Policies/
+All%20Policies/Densification%20
+Policy%20-%20approved%20on%20
+29%20February%202012.pdf 
+(accessed 
+30 December 2014).
+
+Cosgrave  E  (2012).  A  world  transformed 
+by  technology.  The  Guardian.  18  July. 
+http://www.guardian.
+Available 
+co.uk/sustainable -business/world-
+transformation-sustainable-technology-
+cities (accessed 30 December 2014).
+
+at 
+
+lins-innovative-infrastructure/  (accessed 
+30 December 2014).
+
+Danish Architecture Centre (2010). Hammarby 
+Sjöstad: Integrated sustainability as a main 
+focus. Available at http://www.dac.dk/en/
+dac-cities/sustainable-cities/all-cases/ 
+m a s t e r - p l a n / h a m m a r b y - s j o s t a d -
+integrated-sustainability-as-a-main-
+focus/ (accessed 30 December 2014).
+
+Department  of  Economic  and  Social  Affairs 
+–  Population  Division 
+(2012).  World 
+Urbanization  Prospects:  The  2011  Revision 
+–  Highlights.  United  Nations  publication. 
+ESA/P/WP/224. New York.
+
+Department  of  Economic  and  Social  Affairs 
+–  Population  Division  (2014).  See  http://
+esa.un.org/unpd/wup/Country-Profiles/ 
+(accessed 30 December 2014).
+
+Dickson  E,  Baker  JL,  Hoornweg  D  and Tiwari 
+A 
+(2012).  Urban  Risk  Assessments: 
+Understanding Disaster and Climate Risk 
+in  Cities.  Urban  Development  Series. 
+World Bank. Washington, D.C.
+
+Dobbs  R,  Smit  S,  Remes  J,  Manyika  J, 
+Roxburgh C and Restrepo A (2011). Urban 
+World:  Mapping  the  economic  power  of 
+cities.  McKinsey  Global  Institute.  McKinsey 
+and  Company.  Available  at  http://www.
+mckinsey.com/insights/urbanization/ 
+urban_world  (accessed  30  December 
+2014).
+
+Dodgson,  M 
+
+and  Gann  D 
+
+(2011). 
+Technological  innovation  and  complex 
+systems 
+in  cities.  Journal  of  Urban 
+Technology. 18(3): 101–113.
+
+Danish  Architecture  Centre  (2013).  Medel-
+lín’s  innovative  infrastructure.  Available 
+at  http://www.dac.dk/en/dac-cities/sus-
+tainable-cities/all-cases/transport/medel-
+
+Duraiappah  AK,  Nakamura  K,  Takeuchi 
+K,  Watanabe  M  and  Nishi  M  (2012). 
+Satoyama–satoumi 
+and 
+Human  Well-being:  Socio-ecological  Pro-
+
+Ecosystems 
+
+42
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+duction  Landscapes  of  Japan.  United  Na-
+tions University Press. Tokyo, New York and 
+Paris.
+
+Green  Media 
+
+(2012).  Sustainable  Cities  – 
+Building  Cities  for  the  Future.  Green  Media 
+Limited. London.
+
+Economic  and  Social  Commission  for  Asia 
+and  the  Pacific,  Economic  Commission 
+for Latin America and the Caribbean, UN-
+Habitat and Urban Design Lab (2011). Are 
+We Building Competitive and Liveable Cities? 
+Guidelines for Developing Eco-efficient and 
+Socially Inclusive Infrastructure. ST/ESCAP/–
+ISBN  978-974-680-291-8.  United  Nations 
+publication. Thailand.
+
+Food  and  Agriculture  Organization  of  the 
+United  Nations  (2012).  Growing  Greener 
+Cities in Africa – First Status Report on Urban 
+and Peri-urban Horticulture in Africa. United 
+Nations publication. Rome.
+
+Gapper J (2012). New York’s ascent meets the 
+rising  ocean.  Financial  Times.  31  October. 
+http://www.ft.com/
+Available 
+cms/s/0/e8e55468-229b-11e2-b606-
+00144feabdc0.html#axzz3NwniZOou 
+(accessed 30 December 2014).
+
+at 
+
+Gill  M  and  Bhide  A  (2012).  Densification 
+through vertical resettlement as a tool for 
+sustainable  urban  development.  Paper 
+presented at the World Bank Sixth Urban 
+Research  and  Knowledge  Symposium. 
+Barcelona, Spain. 8–10 October. 
+
+Glaeser  EL  (2011).  Triumph  of  the  City:  How 
+Our  Greatest  Invention  Makes  Us  Richer, 
+Smarter,  Greener,  Healthier,  and  Happier. 
+The Penguin Press. New York.
+
+GlobeScan  and  McCormick  Rankin  Corpora-
+tion McLean Hazel (2007). Megacity Chal-
+lenges: A Stakeholder Perspective. Siemens. 
+Munich.
+
+Goldenstein  S  (2008).  From  waste  to  public 
+space. London School of Economics Cities 
+Programme: Urban Age. Available at http://
+lsecities.net/media/objects/articles/ 
+from-waste-to-public-space 
+(accessed 
+30 December 2014). 
+
+Hoornweg  D  and  Perinaz  B-T  (2012).  What 
+a  waste:  A  global  review  of  solid  waste 
+management. Urban Development Series 
+– Knowledge Papers No. 15. World Bank. 
+Washington, D.C.
+
+International  Society  of  City  and  Regional 
+Planners (2012). Fast Forward: City Planning 
+in  a  Hyper  Dynamic  Age.  International 
+Society  of  City  and  Regional  Planners. 
+Netherlands.
+
+Jastrup  M  and  Drique  M  (2012).  Buildings: 
+Exploring  the  Sustainable  Buildings  of 
+Tomorrow. 
+Copenhagen. 
+Available  at  http://www.sustainia.me/
+sustainia-award/buildings_sector_guide.
+pdf (accessed 30 December 2014).
+
+Sustainia. 
+
+Kaye  L 
+
+(2012).  Modular  building  could 
+in  China’s  commercial 
+lead  the  way 
+construction.  The  Guardian.  26  July. 
+Available at http://www.theguardian.com 
+/ s u s t a i n a b l e - b u s i n e s s / m o d u l a r -
+b u i l d i n g - c h i n a - c o m m e r c i a l -
+construction 
+(accessed  30  December 
+2014).
+
+Marshall F, Waldman L, MacGregor H, Mehta 
+L and Randhawa P (2009). On the edge 
+of  sustainability:  Perspectives  on  peri-
+urban  dynamics.  Working  Paper  35. 
+Social, Technological and Environmental 
+Pathways 
+Sustainability  Centre. 
+Brighton.
+
+to 
+
+Mitchell WJ and Casalegno F (2008). Connected 
+Sustainable  Cities.  Massachusetts  Institute 
+of  Technology  Mobile  Experience  Lab 
+Publishing. United States.
+
+Municipal  Government  of  Shanghai,  Bureau 
+International des Expositions and United 
+Nations (2011). Shanghai Manual: A Guide 
+for  Sustainable  Urban  Development  in  the 
+Twenty-first Century. Shanghai.
+
+VI. Bibliography
+
+43
+
+OpenPlans  (2012).  Help  us  test  our  traffic 
+crowdsourcing  app!  Available  at  http://
+blog.openplans.org/2012/09/dc-help-
+us-test-our-traffic-crowdsourcing-app/ 
+(accessed 30 December 2014).
+
+Organization 
+
+for  Economic  Cooperation 
+and  Development  (2012).  Compact  city 
+policies:  a  comparative  assessment. 
+Green  Growth  Studies.  Organization  for 
+Economic Cooperation and Development 
+Publishing. Paris.
+
+PlaNYC  (2015).  Sustainability.  Available  at 
+http://www.nyc.gov/html/planyc2030/ 
+html/theplan/sustainability.shtml 
+(accessed 30 December 2014).
+
+Robbins J (2012). How cities are using nature 
+to cut pollution. The Guardian. 23 August. 
+Available  at  http://www.theguardian.
+com/environment/2012/aug/23/how-
+cities-nature-cut-pollution 
+(accessed 
+30 December 2014).
+
+Robinson  R  (2012).  Open  urbanism:  why 
+the  information  economy  will  lead  to 
+sustainable cities. The Urban Technologist. 
+http://
+11  October.  Available 
+theurbantechnologist.com/2012/10/11/
+open-urbanism-why-the-information-
+economy-will-lead-to-sustainable-cities 
+(accessed 30 December 2014).
+
+at 
+
+Sankhe S, Vittal I, Dobbs R, Mohan A, Gulati A, 
+Ablett J, Gupta S, Kim A, Paul S, Sanghvi A 
+and Sethy G (2010). India’s urban awakening: 
+inclusive 
+Building 
+sustaining 
+economic 
+growth.  McKinsey  Global 
+Institute. McKinsey and Company. Available 
+http://www.mckinsey.com/insights/
+at 
+urbanization/urban_awakening_in_ 
+india (accessed 30 December 2014).
+
+cities, 
+
+Singer,  N  (2012).  Mission  control,  built  for 
+cities.  The  New  York  Times.  3  March 
+Available  at  http://www.nytimes.com/ 
+2 0 1 2 / 0 3 / 0 4 / b u s i n e s s / i b m - t a k e s -
+smarter-cities-concept-to-rio-de-janeiro.
+html?pagewanted=all&_r=0 
+(accessed 
+30 December 2014).
+
+Souter, D and MacLean D, eds. (2012). Chang-
+ing  Our  Understanding  of  Sustainability: 
+The Impact of Information and Communi-
+cations Technologies and the Internet. Inter-
+national  Institute  for  Sustainable  Develop-
+ment.  Winnipeg.  Available  at  http://www.
+iisd.org/pdf/2012/changing_our_under-
+standing_of_sustainability.pdf  (accessed 
+30 December 2014).
+
+Suri  SN  (2013).  Science,  technology  and  inno-
+vation  for  sustainable  urbanisation,  urban 
+planning and local governance. Presented 
+at the sixteenth session of the United Na-
+tions  Commission  on  Science  and  Tech-
+nology  for  Development.  Geneva.  5  June. 
+Available  at  http://unctad.org/en/pages/
+MeetingDetails.aspx?meetingid=213 
+(ac-
+cessed 30 December 2014).
+
+Tan  NS  (2012).  Revitalising  Singapore’s  ur-
+ban  waterscapes:  active,  beautiful, 
+clean  waters  programme.  Urban  Solu-
+tions. Available at http://www.clc.gov.sg/ 
+documents/UrbanSolutionsIssue1.pdf 
+(accessed 30 December 2014).
+
+Thapa S, Marshall F and Stagl S (2010). Under-
+standing  peri-urban  sustainability:  The 
+role  of  the  resilience  approach. Working 
+Paper  38.  Social,  Technological  and  En-
+vironmental  Pathways  to  Sustainability 
+Centre. Brighton.
+
+The  Economist  (2012).  Lighting  the  way.  1 
+September.  Available  at  http://www.
+e c o n o m i s t . c o m / n o d e / 2 1 5 6 0 9 8 3 
+(accessed 30 December 2014). 
+
+Totty M (2011). How to build a greener city. The 
+Wall Street Journal. 12 September. Available 
+at  http://online.wsj.com/article/SB100014
+2405311190400930457653511387734655
+4.html (accessed 30 December 2014).
+
+UNCTAD (2012a). Geospatial Science and Tech-
+nology  for  Development:  With  a  Focus  on 
+Urban  Development,  Land  Administration 
+and  Disaster  Risk  Management.  UNCTAD/
+DTL/STICT/2012/3. United Nations publica-
+tion. New York and Geneva.
+
+44
+
+Science, Technology and Innovation for Sustainable Urbanization
+
+communications 
+
+________  (2012b).  Open  access,  virtual 
+libraries,  geospatial  analysis 
+science 
+and  other  complementary  information 
+and 
+technology 
+and  science,  technology,  engineering 
+and  mathematics  assets  to  address 
+development 
+issues,  with  particular 
+attention to education. E/CN.16/2012/3. 
+Geneva. 9 March.
+
+United  Nations  Economic  Commission  for 
+Europe (2011). Climate Neutral Cities: How 
+to  Make  Cities  Less  Energy  and  Carbon 
+Intensive  and  More  Resilient  to  Climatic 
+Challenges.  ECE/HBP/168.  United  Nations 
+publication. New York and Geneva.
+
+United  Nations  Environment  Programme 
+(2011).  Towards a Green Economy: Pathways 
+to  Sustainable  Development  and  Poverty 
+Eradication.  United  Nations  publication. 
+Nairobi.
+
+________ 
+
+(2012a).  Building  Design  and 
+Construction:  Forging  Resource  Efficiency 
+and  Sustainable  Development.  United 
+Nations publication. Nairobi.
+
+________  (2012b).  GEO5  Global  Environment 
+Outlook:  For  Local  Government  –  Solving 
+Global  Problems  Locally.  United  Nations 
+publication. Nairobi.
+
+United 
+
+Human 
+
+Nations 
+
+Settlements 
+Programme  (2005).  Cities  –  Engines  of 
+Economic  Development.  United  Nations 
+publication. Nairobi.
+
+________  (2011).  Sustainable  Building  Prac-
+tices  for  Low  Cost  Housing:  Implications 
+for  Climate  Change  Mitigation  and  Ad-
+aptation  in  Developing  Countries.  Nai-
+robi.  Available  at  http://mirror.unhabitat.
+org/categories.asp?catid=463 
+(accessed 
+30 December 2014).
+
+________  (2012a).  Sustainable  Housing  for 
+Sustainable  Cities:  A  Policy  Framework 
+for  Developing  Countries.  United  Nations 
+publication. Nairobi.
+
+________  (2012b).  Sustainable Urban Energy: 
+A  Sourcebook  for  Asia.  United  Nations 
+publication. Nairobi.
+
+________  (2012c).  Urban  Planning  for  City 
+Leaders.  United  Nations  publication. 
+Nairobi.
+
+United 
+
+Human 
+
+Nations 
+
+Settlements 
+Programme, United Nations Environment 
+Programme  and 
+International  Council 
+for  Local  Environmental  Initiatives–Local 
+Governments  for  Sustainability  (2009). 
+Sustainable  Urban 
+Planning: 
+A  Handbook  for  Cities  and  Towns 
+in 
+Developing  Countries.  United  Nations 
+publication. Nairobi.
+
+Energy 
+
+United  Nations  Office 
+
+(2012).  Making 
+
+for  Disaster  Risk 
+Reduction 
+Cities 
+Resilient  Report  2012:  My  City  Is  Getting 
+Ready!  A  Global  Snapshot  of  How  Local 
+Governments Reduce Disaster Risk. United 
+Nations publication. Geneva. 
+
+United  Nations  Population  Fund  (2008). 
+State  of  World  Population  2007  –  Un-
+leashing the Potential of Urban Growth. 
+07.III.H.1.  United  Nations  publication. 
+New York.
+
+Villa  N  and  Mitchell  S  (2010).  Connecting 
+cities:  Achieving  sustainability  through 
+innovation.  Cisco  White  Paper.  Cisco 
+Internet Business Solutions Group.
+
+Vuchic  VR  (2008).  Transport  Systems  and 
+Policies  for  Sustainable  Cities.  Thermal 
+Science. 12(4): 7–17.
+
+Wheeler  SM  and  Beatley  T,  eds.  (2008).  The 
+Sustainable  Urban  Development  Reader. 
+Second Edition. Routledge. London.
+
+World  Bank  and 
+
+International  Monetary 
+Fund  (2013).  Global  Monitoring  Report 
+2013:  Rural-Urban  Dynamics  and  the 
+Millennium  Development  Goals.  World 
+Bank. Washington, D.C.
+
+VI. Bibliography
+
+45
+
+World  Business  Council  for  Sustainable  De-
+velopment (2012). A new model for sus-
+tainable  water  supply  in  the  developing 
+world. The Guardian. 7 March. Available at 
+http://www.theguardian.com/sustaina-
+ble-business/sustainable-water-access-
+grundfos-lifelink (accessed 30 December 
+2014).
+
+Worldwatch 
+
+Institute  (2007).  State  of  the 
+World: Our Urban Future. WW Norton and 
+Company. New York and London.
+
+Worldwatch  Institute  (2012).  State  of  the 
+World:  Moving  Towards  Sustainable 
+Prosperity. 
+Island  Press.  Washington, 
+Covelo and London.
+
+World Habitat Awards (2012). Winners and Fi-
+nalists:  Green  Mortgage  –  Mexico.  Avail-
+able  at  http://www.worldhabitatawards.
+org/winners-and-finalists/project-details.
+cfm?lang=00&theProjectID=9DA03455-1
+5C5-F4C0-99170E7D631F50E9  (accessed 
+30 December 2014).
+
+s
+n
+o
+m
+m
+o
+C
+ 
+e
+v
+i
+t
+a
+e
+r
+C
+
+ 
+,
+
+i
+
+o
+R
+ 
+s
+e
+õ
+ç
+a
+r
+e
+p
+O
+ 
+e
+d
+ 
+o
+r
+t
+n
+e
+C
+
+i
+
+ 
+,
+u
+b
+o
+r
+ 
+:
+a
+
+i
+l
+
+o
+t
+o
+F
+©
+
+ 
+:
+t
+i
+d
+e
+r
+c
+ 
+
+o
+t
+o
+h
+P
+
+Layout and Printing at United Nations, Geneva – 1500548 (E) – February 2015 – 1,376 – UNCTAD/DTL/STICT/2014/2
+
+

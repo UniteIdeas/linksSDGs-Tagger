@@ -1,0 +1,179 @@
+WARNING: System properties and/or JVM args set.  Consider using --dry-run or --exec
+0    INFO  (main) [   ] o.e.j.u.log Logging initialized @574ms
+374  INFO  (main) [   ] o.e.j.s.Server jetty-9.2.13.v20150730
+397  WARN  (main) [   ] o.e.j.s.h.RequestLogHandler !RequestLog
+400  INFO  (main) [   ] o.e.j.d.p.ScanningAppProvider Deployment monitor [file:/home/jmmnn/linksSDGs/solr-5.4.0/server/contexts/] at interval 0
+1444 INFO  (main) [   ] o.e.j.w.StandardDescriptorProcessor NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+1493 WARN  (main) [   ] o.e.j.s.SecurityHandler ServletContext@o.e.j.w.WebAppContext@4f8aac0a{/solr,file:/home/jmmnn/linksSDGs/solr-5.4.0/server/solr-webapp/webapp/,STARTING}{/home/jmmnn/linksSDGs/solr-5.4.0/server/solr-webapp/webapp} has uncovered http methods for path: /
+1524 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter SolrDispatchFilter.init(): WebAppClassLoader=964457264@397c7330
+1560 INFO  (main) [   ] o.a.s.c.SolrResourceLoader JNDI not configured for solr (NoInitialContextEx)
+1561 INFO  (main) [   ] o.a.s.c.SolrResourceLoader using system property solr.solr.home: /home/jmmnn/linksSDGs/solr-5.4.0/server/solr
+1562 INFO  (main) [   ] o.a.s.c.SolrResourceLoader new SolrResourceLoader for directory: '/home/jmmnn/linksSDGs/solr-5.4.0/server/solr'
+1562 INFO  (main) [   ] o.a.s.c.SolrResourceLoader JNDI not configured for solr (NoInitialContextEx)
+1562 INFO  (main) [   ] o.a.s.c.SolrResourceLoader using system property solr.solr.home: /home/jmmnn/linksSDGs/solr-5.4.0/server/solr
+1570 INFO  (main) [   ] o.a.s.c.SolrXmlConfig Loading container configuration from /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/solr.xml
+1714 INFO  (main) [   ] o.a.s.c.CorePropertiesLocator Config-defined core root directory: /home/jmmnn/linksSDGs/solr-5.4.0/server/solr
+1754 INFO  (main) [   ] o.a.s.c.CoreContainer New CoreContainer 1147066539
+1755 INFO  (main) [   ] o.a.s.c.CoreContainer Loading cores into CoreContainer [instanceDir=/home/jmmnn/linksSDGs/solr-5.4.0/server/solr]
+1755 WARN  (main) [   ] o.a.s.c.CoreContainer Couldn't add files from /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/lib to classpath: /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/lib
+1775 INFO  (main) [   ] o.a.s.h.c.HttpShardHandlerFactory created with socketTimeout : 600000,connTimeout : 60000,maxConnectionsPerHost : 20,maxConnections : 10000,corePoolSize : 0,maximumPoolSize : 2147483647,maxThreadIdleTime : 5,sizeOfQueue : -1,fairnessPolicy : false,useRetries : false,
+2228 INFO  (main) [   ] o.a.s.u.UpdateShardHandler Creating UpdateShardHandler HTTP client with params: socketTimeout=600000&connTimeout=60000&retry=true
+2232 INFO  (main) [   ] o.a.s.l.LogWatcher SLF4J impl is org.slf4j.impl.Log4jLoggerFactory
+2233 INFO  (main) [   ] o.a.s.l.LogWatcher Registering Log Listener [Log4j (org.slf4j.impl.Log4jLoggerFactory)]
+2235 INFO  (main) [   ] o.a.s.c.CoreContainer Security conf doesn't exist. Skipping setup for authorization module.
+2235 INFO  (main) [   ] o.a.s.c.CoreContainer No authentication plugin used.
+2278 INFO  (main) [   ] o.a.s.c.CorePropertiesLocator Looking for core definitions underneath /home/jmmnn/linksSDGs/solr-5.4.0/server/solr
+2293 INFO  (main) [   ] o.a.s.c.CoreDescriptor Created CoreDescriptor: {name=linksdgs, config=solrconfig.xml, transient=false, schema=schema.xml, loadOnStartup=true, configSetProperties=configsetprops.json, instanceDir=/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs, absoluteInstDir=/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/, dataDir=data/}
+2294 INFO  (main) [   ] o.a.s.c.CorePropertiesLocator Found core linksdgs in /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/
+2300 INFO  (main) [   ] o.a.s.c.CorePropertiesLocator Found 1 core definitions
+2310 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader new SolrResourceLoader for directory: '/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs'
+2311 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader JNDI not configured for solr (NoInitialContextEx)
+2311 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader using system property solr.solr.home: /home/jmmnn/linksSDGs/solr-5.4.0/server/solr
+2314 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter user.dir=/home/jmmnn/linksSDGs/solr-5.4.0/server
+2314 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter SolrDispatchFilter.init() done
+2338 INFO  (main) [   ] o.e.j.s.h.ContextHandler Started o.e.j.w.WebAppContext@4f8aac0a{/solr,file:/home/jmmnn/linksSDGs/solr-5.4.0/server/solr-webapp/webapp/,AVAILABLE}{/home/jmmnn/linksSDGs/solr-5.4.0/server/solr-webapp/webapp}
+2418 INFO  (main) [   ] o.e.j.s.ServerConnector Started ServerConnector@51b9d4c{HTTP/1.1}{0.0.0.0:8983}
+2418 INFO  (main) [   ] o.e.j.s.Server Started @2994ms
+2460 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrConfig current version of requestparams : 0
+2472 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrConfig Adding specified lib dirs to ClassLoader
+2487 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/isoparser-1.0.2.jar' to classloader
+2487 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/apache-mime4j-dom-0.7.2.jar' to classloader
+2487 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/poi-scratchpad-3.11.jar' to classloader
+2487 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/tika-xmp-1.7.jar' to classloader
+2487 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/poi-ooxml-schemas-3.11.jar' to classloader
+2488 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/poi-3.11.jar' to classloader
+2488 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/xercesImpl-2.9.1.jar' to classloader
+2488 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/poi-ooxml-3.11.jar' to classloader
+2488 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/metadata-extractor-2.6.2.jar' to classloader
+2488 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/xmpcore-5.1.2.jar' to classloader
+2488 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/commons-compress-1.8.1.jar' to classloader
+2488 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/apache-mime4j-core-0.7.2.jar' to classloader
+2488 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/bcprov-jdk15-1.45.jar' to classloader
+2488 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/bcmail-jdk15-1.45.jar' to classloader
+2488 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/xz-1.5.jar' to classloader
+2489 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/tika-core-1.7.jar' to classloader
+2489 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/icu4j-54.1.jar' to classloader
+2489 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/tika-parsers-1.7.jar' to classloader
+2489 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/rome-1.0.jar' to classloader
+2489 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/vorbis-java-core-0.6.jar' to classloader
+2489 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/tagsoup-1.2.1.jar' to classloader
+2489 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/fontbox-1.8.8.jar' to classloader
+2489 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/jmatio-1.0.jar' to classloader
+2489 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/jdom-1.0.jar' to classloader
+2489 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/jempbox-1.8.8.jar' to classloader
+2490 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/java-libpst-0.8.1.jar' to classloader
+2490 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/pdfbox-1.8.8.jar' to classloader
+2490 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/aspectjrt-1.8.0.jar' to classloader
+2490 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/boilerpipe-1.1.0.jar' to classloader
+2490 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/vorbis-java-tika-0.6.jar' to classloader
+2490 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/xmlbeans-2.6.0.jar' to classloader
+2490 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/juniversalchardet-1.0.3.jar' to classloader
+2490 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/extraction/lib/tika-java7-1.7.jar' to classloader
+2490 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/dist/solr-cell-5.4.0.jar' to classloader
+2490 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/clustering/lib/jackson-databind-2.5.4.jar' to classloader
+2491 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/clustering/lib/carrot2-mini-3.10.4.jar' to classloader
+2491 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/clustering/lib/mahout-math-0.6.jar' to classloader
+2491 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/clustering/lib/mahout-collections-1.0.jar' to classloader
+2491 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/clustering/lib/simple-xml-2.7.1.jar' to classloader
+2491 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/clustering/lib/attributes-binder-1.2.3.jar' to classloader
+2491 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/clustering/lib/carrot2-guava-18.0.jar' to classloader
+2491 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/clustering/lib/jackson-annotations-2.5.4.jar' to classloader
+2491 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/dist/solr-clustering-5.4.0.jar' to classloader
+2491 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/langid/lib/langdetect-1.1-20120112.jar' to classloader
+2492 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/langid/lib/jsonic-1.2.7.jar' to classloader
+2492 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/dist/solr-langid-5.4.0.jar' to classloader
+2492 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/velocity/lib/commons-beanutils-1.8.3.jar' to classloader
+2492 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/velocity/lib/velocity-1.7.jar' to classloader
+2492 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/velocity/lib/velocity-tools-2.0.jar' to classloader
+2492 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/contrib/velocity/lib/commons-collections-3.2.2.jar' to classloader
+2492 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrResourceLoader Adding 'file:/home/jmmnn/linksSDGs/solr-5.4.0/dist/solr-velocity-5.4.0.jar' to classloader
+3229 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrConfig Using Lucene MatchVersion: 5.4.0
+3737 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.SolrConfig Loaded SolrConfig: solrconfig.xml
+3888 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.s.IndexSchema [linksdgs] Schema name=example-data-driven-schema
+5050 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.s.IndexSchema unique key field: id
+5568 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.s.FileExchangeRateProvider Reloading exchange rates from file currency.xml
+5582 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.s.FileExchangeRateProvider Reloading exchange rates from file currency.xml
+5735 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.ConfigSetProperties Did not find ConfigSet properties, assuming default properties: Can't find resource 'configsetprops.json' in classpath or '/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs'
+5738 INFO  (coreLoadExecutor-6-thread-1) [   ] o.a.s.c.CoreContainer Creating SolrCore 'linksdgs' using configuration from instancedir /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs
+5796 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.SolrCore solr.NRTCachingDirectoryFactory
+5831 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.SolrCore [[linksdgs] ] Opening new SolrCore at [/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs], dataDir=[null]
+5833 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.JmxMonitoredMap No JMX servers found, not exposing Solr information with JMX.
+5838 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.SolrCore [[linksdgs] ] Added SolrEventListener for newSearcher: [org.apache.solr.core.QuerySenderListener{queries=[]}]
+5839 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.SolrCore [[linksdgs] ] Added SolrEventListener for firstSearcher: [org.apache.solr.core.QuerySenderListener{queries=[]}]
+5866 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.CachingDirectoryFactory return new directory for /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data
+5867 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.SolrCore New index directory detected: old=null new=/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data/index/
+5868 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.CachingDirectoryFactory return new directory for /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data/index
+5887 INFO  (OldIndexDirectoryCleanupThreadForCore-linksdgs) [   x:linksdgs] o.a.s.c.SolrCore Looking for old index directories to cleanup for core linksdgs in /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data/
+5892 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.PluginBag queryResponseWriter : 'velocity' created with startup=lazy 
+5912 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.r.XSLTResponseWriter xsltCacheLifetimeSeconds=5
+6076 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.u.p.UpdateRequestProcessorChain creating updateRequestProcessorChain "add-unknown-fields-to-the-schema"
+6227 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.SolrCore no updateRequestProcessorChain defined as default, creating implicit default
+6272 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.h.l.XMLLoader xsltCacheLifetimeSeconds=60
+6274 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.h.l.XMLLoader xsltCacheLifetimeSeconds=60
+6275 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.h.l.XMLLoader xsltCacheLifetimeSeconds=60
+6276 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.h.l.XMLLoader xsltCacheLifetimeSeconds=60
+6292 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.PluginBag requestHandler : '/update/extract' created with startup=lazy 
+6292 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.PluginBag requestHandler : '/analysis/field' created with startup=lazy 
+6292 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.PluginBag requestHandler : '/analysis/document' created with startup=lazy 
+6295 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.PluginBag requestHandler : '/spell' created with startup=lazy 
+6295 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.PluginBag requestHandler : '/tvrh' created with startup=lazy 
+6295 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.PluginBag requestHandler : '/terms' created with startup=lazy 
+6295 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.PluginBag requestHandler : '/elevate' created with startup=lazy 
+6299 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.RequestHandlers Registered paths: /admin/logging,/admin/plugins,/admin/system,/admin/segments,/admin/file,/admin/luke,/update,/terms,/admin/threads,/schema,/query,/replication,/analysis/field,/browse,/admin/ping,/update/json/docs,/analysis/document,/select,/admin/mbeans,/update/csv,/elevate,/get,/update/json,/export,/update/extract,/admin/properties,/tvrh,/spell,/config,/debug/dump
+6303 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.SolrCore Using default statsCache cache: org.apache.solr.search.stats.LocalStatsCache
+6314 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.u.UpdateHandler Using UpdateLog implementation: org.apache.solr.update.UpdateLog
+6315 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.u.UpdateLog Initializing UpdateLog: dataDir= defaultSyncLevel=FLUSH numRecordsToKeep=100 maxNumLogsToKeep=10 numVersionBuckets=65536
+6342 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.u.CommitTracker Hard AutoCommit: if uncommited for 15000ms; 
+6342 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.u.CommitTracker Soft AutoCommit: disabled
+6417 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.SolrDeletionPolicy SolrDeletionPolicy.onInit: commits: num=1
+	commit{dir=NRTCachingDirectory(MMapDirectory@/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data/index lockFactory=org.apache.lucene.store.NativeFSLockFactory@3fc8f1a2; maxCacheMB=48.0 maxMergeSizeMB=4.0),segFN=segments_dst,generation=17885}
+6418 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.SolrDeletionPolicy newest commit generation = 17885
+6492 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.s.SolrIndexSearcher Opening Searcher@29661259[linksdgs] main
+6501 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.r.ManagedResourceStorage File-based storage initialized to use dir: /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/conf
+6501 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.r.RestManager Initializing RestManager with initArgs: {storageDir=/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/conf}
+6514 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.r.ManagedResourceStorage Reading _rest_managed.json using file:dir=/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/conf
+6514 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.r.RestManager Initializing 0 registered ManagedResources
+6525 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.h.c.SpellCheckComponent Initializing spell checkers
+6534 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.s.DirectSolrSpellChecker init: {name=default,field=text,classname=solr.DirectSolrSpellChecker,distanceMeasure=internal,accuracy=0.5,maxEdits=2,minPrefix=1,maxInspections=5,minQueryLength=4,maxQueryFrequency=0.01}
+6543 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.h.c.SpellCheckComponent No queryConverter defined, using default converter
+6546 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.h.c.QueryElevationComponent Loading QueryElevation from: /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/conf/elevate.xml
+6655 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.h.ReplicationHandler Commits will be reserved for  10000
+6655 INFO  (searcherExecutor-7-thread-1-processing-x:linksdgs) [   x:linksdgs] o.a.s.c.QuerySenderListener QuerySenderListener sending requests to Searcher@29661259[linksdgs] main{ExitableDirectoryReader(UninvertingDirectoryReader(Uninverting(_fbr(5.4.0):C17587) Uninverting(_fbs(5.4.0):C1) Uninverting(_fbt(5.4.0):C1) Uninverting(_fbu(5.4.0):C1) Uninverting(_fbv(5.4.0):C1) Uninverting(_fbw(5.4.0):C1)))}
+6656 INFO  (searcherExecutor-7-thread-1-processing-x:linksdgs) [   x:linksdgs] o.a.s.c.QuerySenderListener QuerySenderListener done.
+6656 INFO  (searcherExecutor-7-thread-1-processing-x:linksdgs) [   x:linksdgs] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: default
+6656 INFO  (searcherExecutor-7-thread-1-processing-x:linksdgs) [   x:linksdgs] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: wordbreak
+6656 INFO  (searcherExecutor-7-thread-1-processing-x:linksdgs) [   x:linksdgs] o.a.s.c.SolrCore [linksdgs] Registered new searcher Searcher@29661259[linksdgs] main{ExitableDirectoryReader(UninvertingDirectoryReader(Uninverting(_fbr(5.4.0):C17587) Uninverting(_fbs(5.4.0):C1) Uninverting(_fbt(5.4.0):C1) Uninverting(_fbu(5.4.0):C1) Uninverting(_fbv(5.4.0):C1) Uninverting(_fbw(5.4.0):C1)))}
+6663 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.u.UpdateLog Looking up max value of version field to seed version buckets
+6665 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.u.VersionInfo Refreshing highest value of _version_ for 65536 version buckets from index
+6694 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.u.VersionInfo Found MAX value 1523598787187048448 from Terms for _version_ in index
+6699 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.u.UpdateLog Took 35.0ms to seed version buckets with highest version 1523598787187048448
+6700 INFO  (coreLoadExecutor-6-thread-1) [   x:linksdgs] o.a.s.c.CoreContainer registering core: linksdgs
+321849 INFO  (qtp1215271166-20) [   ] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&_=1456023554775&wt=json} status=0 QTime=24 
+322128 INFO  (qtp1215271166-19) [   ] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={_=1456023555027&wt=json} status=0 QTime=49 
+322570 INFO  (qtp1215271166-20) [   ] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&_=1456023555521&wt=json} status=0 QTime=0 
+322685 INFO  (qtp1215271166-16) [   ] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={_=1456023555628&wt=json} status=0 QTime=9 
+324970 ERROR (qtp1215271166-18) [   x:linksdgs] o.a.s.h.a.ShowFileRequestHandler Can not find: admin-extra.menu-top.html [/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/conf/admin-extra.menu-top.html]
+324972 ERROR (qtp1215271166-14) [   x:linksdgs] o.a.s.h.a.ShowFileRequestHandler Can not find: admin-extra.menu-bottom.html [/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/conf/admin-extra.menu-bottom.html]
+324975 INFO  (qtp1215271166-14) [   x:linksdgs] o.a.s.c.S.Request [linksdgs] webapp=/solr path=/admin/file params={file=admin-extra.menu-bottom.html&_=1456023557841&contentType=text/html;charset%3Dutf-8} status=404 QTime=3 
+324982 INFO  (qtp1215271166-18) [   x:linksdgs] o.a.s.c.S.Request [linksdgs] webapp=/solr path=/admin/file params={file=admin-extra.menu-top.html&_=1456023557840&contentType=text/html;charset%3Dutf-8} status=404 QTime=18 
+325069 INFO  (qtp1215271166-19) [   x:linksdgs] o.a.s.c.S.Request [linksdgs] webapp=/solr path=/admin/luke params={numTerms=0&_=1456023558008&show=index&wt=json} status=0 QTime=3 
+325086 INFO  (qtp1215271166-20) [   x:linksdgs] o.a.s.c.S.Request [linksdgs] webapp=/solr path=/replication params={command=details&_=1456023558014&wt=json} status=0 QTime=15 
+325100 INFO  (qtp1215271166-14) [   x:linksdgs] o.a.s.c.S.Request [linksdgs] webapp=/solr path=/admin/system params={_=1456023558016&wt=json} status=0 QTime=20 
+325129 ERROR (qtp1215271166-15) [   x:linksdgs] o.a.s.h.a.ShowFileRequestHandler Can not find: admin-extra.html [/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/conf/admin-extra.html]
+325130 INFO  (qtp1215271166-15) [   x:linksdgs] o.a.s.c.S.Request [linksdgs] webapp=/solr path=/admin/file params={file=admin-extra.html&_=1456023558018} status=404 QTime=0 
+325138 INFO  (qtp1215271166-18) [   x:linksdgs] o.a.s.c.S.Request [linksdgs] webapp=/solr path=/admin/ping params={action=status&_=1456023558021&wt=json} status=503 QTime=1 
+331072 INFO  (qtp1215271166-20) [   x:linksdgs] o.a.s.c.S.Request [linksdgs] webapp=/solr path=/select params={indent=true&q=*:*&_=1456023563976&wt=json} hits=17592 status=0 QTime=46 
+1760691 INFO  (Thread-0) [   ] o.e.j.s.ServerConnector Stopped ServerConnector@51b9d4c{HTTP/1.1}{0.0.0.0:8983}
+1760692 INFO  (Thread-0) [   ] o.a.s.c.CoreContainer Shutting down CoreContainer instance=1147066539
+1760693 INFO  (Thread-0) [   x:linksdgs] o.a.s.c.SolrCore [linksdgs]  CLOSING SolrCore org.apache.solr.core.SolrCore@b9d964d
+1760696 INFO  (Thread-0) [   x:linksdgs] o.a.s.u.DirectUpdateHandler2 closing DirectUpdateHandler2{commits=0,autocommit maxTime=15000ms,autocommits=0,soft autocommits=0,optimizes=0,rollbacks=0,expungeDeletes=0,docsPending=0,adds=0,deletesById=0,deletesByQuery=0,errors=0,cumulative_adds=0,cumulative_deletesById=0,cumulative_deletesByQuery=0,cumulative_errors=0,transaction_logs_total_size=3087,transaction_logs_total_number=10}
+1760696 INFO  (Thread-0) [   x:linksdgs] o.a.s.u.SolrCoreState Closing SolrCoreState
+1760696 INFO  (Thread-0) [   x:linksdgs] o.a.s.u.DefaultSolrCoreState SolrCoreState ref count has reached 0 - closing IndexWriter
+1760696 INFO  (Thread-0) [   x:linksdgs] o.a.s.u.DefaultSolrCoreState closing IndexWriter with IndexWriterCloser
+1760717 INFO  (Thread-0) [   x:linksdgs] o.a.s.c.SolrCore [linksdgs] Closing main searcher on request.
+1760728 INFO  (Thread-0) [   x:linksdgs] o.a.s.c.CachingDirectoryFactory Closing NRTCachingDirectoryFactory - 2 directories currently being tracked
+1760729 INFO  (Thread-0) [   x:linksdgs] o.a.s.c.CachingDirectoryFactory looking to close /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data/index [CachedDir<<refCount=0;path=/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data/index;done=false>>]
+1760729 INFO  (Thread-0) [   x:linksdgs] o.a.s.c.CachingDirectoryFactory Closing directory: /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data/index
+1760729 INFO  (Thread-0) [   x:linksdgs] o.a.s.c.CachingDirectoryFactory looking to close /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data [CachedDir<<refCount=0;path=/home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data;done=false>>]
+1760735 INFO  (Thread-0) [   x:linksdgs] o.a.s.c.CachingDirectoryFactory Closing directory: /home/jmmnn/linksSDGs/solr-5.4.0/server/solr/linksdgs/data
+1760749 INFO  (Thread-0) [   x:linksdgs] o.e.j.s.h.ContextHandler Stopped o.e.j.w.WebAppContext@4f8aac0a{/solr,file:/home/jmmnn/linksSDGs/solr-5.4.0/server/solr-webapp/webapp/,UNAVAILABLE}{/home/jmmnn/linksSDGs/solr-5.4.0/server/solr-webapp/webapp}

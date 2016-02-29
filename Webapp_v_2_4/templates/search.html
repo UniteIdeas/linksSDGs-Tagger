@@ -1,0 +1,187 @@
+<!DOCTYPE HTML>
+<!--
+	Big Picture by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>#LinksSDGs</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="../static/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../static/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="../static/assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="../static/assets/css/ie9.css" /><![endif]-->
+
+			<!--D3 viz dependencies			-->
+        <link rel="stylesheet" type="text/css" href="../static/d3viz/chartist.min.css">
+        <script type="text/javascript" src="../static/d3viz/chartist.js"></script>			
+			<!--end D3 dependencies-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+
+				<!-- Logo -->
+					<h1 id="logo">#LinksSDGs</h1>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="../">About</a></li>
+						</ul>
+					</nav>
+
+			</header>
+			
+<!--This section is just for the SDG image.	-->
+	<section id="two" class="main style1 fullscreen"></section>
+<!--Ends section-->
+
+
+
+		<!-- Search Section-->
+			<section id="zero" class="main style1"> 
+					<header>
+						<h2>View the results of a machine-based literature review of 47 United Nations Publications.</h2>
+						<h3>From each publication a computer programme extracted and tagged all sentences relating to any Sustainable Development Goal.</h3>
+						Examples:
+						<li>A sentence about <b>poverty</b> would be tagged as <b>SDG 1 "No Poverty"</b>.</li>
+						<li>A sentence about <b>health</b> would be tagged as <b>SDG 3 "Good Health & Well-being"</b> etc.</li>
+					</header>
+
+					<!-- Search Form -->
+					<div class="box container 75%">
+							<form method="get" action="#">
+								<div class="row 50%">
+									<div class="12u 12u(mobile)"><input type="text" name="search" placeholder="Search for example: girl's school enrollment.." /></div>
+								</div>
+								
+								<div class="checkbox">
+								<label>
+								    <input type="checkbox" name="fquery" value="Type=Recommendation"> Recommenadtion
+								    <input type="checkbox" name="fquery" value="Type=Constraint"> Constraint
+								    <input type="checkbox" name="fquery" value="Type=Causal"> Causal
+								</label>
+								</div>
+								
+								<div class="row 50%">
+									<div class="12u 12u(mobile)"><input type="submit" value="Search" /></div>
+									You can also download the full result-set:
+								</div>
+								<a href="../static/downloads/full_results_linksSDGs.txt" class="icon fa-download"><span class="label">Download</span></a>
+							</form>
+					</div>
+										<h2>{{data.numFound}} sentences found</h2> Query: <b>{{data.header['params']['q']}}</b> Filter: <b>{{data.header['params']['fq']}}</b>
+					
+			<!--###### Chart here-->
+			
+							       	<div>
+							       	<b>Within the sentences found matching your search, this chart shows the number of sentences tagged for each SDG. In other words, which were the SDGs most mentioned in these results.</b>
+							       	</div>	
+							       		<div class="ct-chart ct-double-octave"></div>
+							       	
+							        <script>
+							        new Chartist.Bar('.ct-chart', {
+							            labels: [
+							            {% for item in data.sdg_facet %}
+											"{{item}}" ,
+										{% endfor %}
+							            ],
+							            series:[ {{data.serie}} ]
+
+							            
+							        }, {
+							                //donut: true,
+							                // donutWidth: 60,
+							                //startAngle: 90,
+							                //labelOffset: 50,
+							                //total: 360,
+							                showLabel: true
+							              });
+							        </script>
+									<!--###### End Chart -->
+
+			<!--style3 secondary-->
+				<div class="content container">
+					
+					<header>
+
+					</header>
+
+					<!--###### Search results Area-->
+					
+
+								<!--###### Search results-->
+									<div>
+										{% for item in data.result_list %}
+										<!--<div class="result__title"><a href="https://preview.c9users.io/jmmnn_1/solr4/originals/{{item['Publication'][0][:-4]}}" class="result__a">Publication : {{item['Publication'][0][:-8]}}</a>-->
+										<div class="result__title">Publication : {{item['Publication'][0][:-8]}}
+
+										   |   <a href="../static/downloads/text/{{item['Publication'][0]}}" class="result__a">Full text</a>
+										</div>
+										
+										Sentence: <b>{{item['Sentence'][0]}}</b><br>
+										Links: {% for sdg in item['SDG'][:] %}  {{sdg}},  {% endfor %}<br>
+										<h4>{% for type in item['Type']%}  {{type}}  {% endfor %}</h4><br>
+										{% endfor %}
+									</div>
+								<!--###### end search resuts-->	
+					</div>
+				</div>
+			</section>
+ <!--This facet row below 2/3  works-->
+					<!--<div class="row">-->
+						<!--###### Facet results-->
+					<!--	<div class="three columns">-->
+					<!--				<div class="results__box">-->
+					<!--					<h3>Stats</h3>-->
+					<!--					<p>-->
+					<!--					{% for item in data.sdg_facet %}-->
+					<!--						{{item}} : {{data.sdg_facet[    item   ]}}<br>-->
+					<!--					{% endfor %}-->
+					<!--					</p>-->
+					<!--				</div>-->
+					<!--	</div>-->
+						<!--###### end Facet resuts-->
+						
+					<!--	<div class="nine columns">-->
+					<!--	</div>-->
+						
+					<!--</div>-->
+
+		<!-- Footer -->
+			<footer id="footer">
+
+				<!-- Icons -->
+					<ul class="actions">
+						<li><a href="https://twitter.com/UN_UniteIdeas" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://www.facebook.com/UnitedNationsUnite" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+						<!--<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li>-->
+						<!--<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>-->
+						<!--<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>-->
+						<!--<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>-->
+					</ul>
+
+				<!-- Menu -->
+					<ul class="menu">
+						<li>&copy; This software is licensed under the GNU General Public License </li><li>GPL V3 <a href="http://www.gnu.org/licenses/gpl-3.0.html">Full license</a></li>
+					</ul>
+
+			</footer>
+
+		<!-- Scripts -->
+			<script src="../static/assets/js/jquery.min.js"></script>
+			<script src="../static/assets/js/jquery.poptrox.min.js"></script>
+			<script src="../static/assets/js/jquery.scrolly.min.js"></script>
+			<script src="../static/assets/js/jquery.scrollex.min.js"></script>
+			<script src="../static/assets/js/skel.min.js"></script>
+			<script src="../static/assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="../static/assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="../static/assets/js/main.js"></script>
+	</body>
+	
+										
+</html>

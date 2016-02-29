@@ -1,0 +1,2998 @@
+ 
+
+ 
+
+ 
+
+ 
+
+Investing in Sustainable Cities: 
+Challenges and Opportunities 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+International Development Finance Club 
+
+Special Interest Group on Sustainable Urban Development 
+
+October 2014 
+
+ 
+
+ 
+
+© 2014 International Development Finance Club 
+
+ 
+
+ 
+
+ 
+
+AUTHORS 
+
+Masayo Terakado 
+
+Office for Global Issues and Development Partnership   
+
+Operations Strategy Department   
+
+JICA – Japan International Cooperation Agency 
+
+ 
+
+Holly K. Williams 
+
+Institutional Funding 
+
+Vicepresidency of Finance 
+
+CAF – Development Bank of Latin America 
+
+ 
+
+ 
+
+CONTRIBUTORS 
+
+Agence Française de Développement (AFD) 
+
+Banco Nacional de Desenvolvimento Econômico e Social (BNDES) 
+
+Caisse de Dépôt et de Gestion (CDG) 
+
+Development Bank of Latin America (CAF) 
+
+Japan International Cooperation Agency (JICA) 
+
+KfW Bankengruppe (KfW) 
+
+Korea Finance Corporation (KoFC) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Investing in Sustainable Cities:   
+Challenges and Opportunities   
+
+ 
+
+ 
+
+Contents                                                                                                                                         
+
+ 
+
+ 
+Preface 
+
+ 
+
+ ........................................................................................................................ ii 
+
+Executive Summary .......................................................................................................... iii 
+
+ 
+
+Chapter 1.  Why Sustainable Urban Development Matters ........................................... 1 
+
+ 
+
+Chapter 2.  Defining sustainable urban development and setting standards ............. 5 
+
+I.  Global public efforts to define the SUD concept ................................... 6 
+
+II. 
+
+The private sector ................................................................................ 7 
+
+ 
+
+Chapter 3.  Policy formulation and urban planning ...................................................... 8 
+
+I. 
+
+Holistic SUD policies and strategies ..................................................... 8 
+
+II.  Critical economic, social and environmental challenges .................... 11 
+
+III.  Stakeholder coordination and participation ......................................... 17 
+
+IV.  The role of Development Banks ......................................................... 18 
+
+ 
+
+Chapter 4.  Financial Approaches ................................................................................. 21 
+
+ 
+
+Chapter 5.  Service delivery and infrastructure management .................................... 25 
+
+ 
+
+Chapter 6.  Promoting clean and sustainable technologies ....................................... 27 
+
+ 
+
+Chapter 7.  Conclusion and way forward ..................................................................... 29 
+
+ 
+
+Appendices  ...................................................................................................................... 31 
+
+ 
+
+References 
+
+ ................................................................................................................. 33 
+
+ 
+
+ 
+
+ 
+
+i 
+
+ 
+
+Preface                                                                                                                             
+
+ 
+The International Development Finance Club (IDFC) has brought together 23 national, bilateral and regional 
+development banks from Africa, Asia, Europe, and Latin America to pool their global expertise, best practices 
+
+and in-depth local know-how on strategic topics of mutual interest.   
+
+ 
+
+By  2050, 67%  of  the  world’s  population  is  expected  to  reside  in  urban areas.  Dynamic  transformations  will 
+take  place  in  growing  cities  throughout  Africa,  Asia  and  the  rest  of  the  developing  world.  These  hubs  for 
+
+innovation and output have already delivered substantial economic growth and helped alleviate poverty. For 
+
+this reason, it will be vital to continue fostering high-productivity activities that benefit from agglomeration and 
+scale  economies  in  emerging  cities.  At  the  same  time,  managing  the  likely  side  effects  of  urban 
+
+expansion—congestion  and  overcrowding,  inequality,  high  prices  of  land  and  housing,  and  environmental 
+
+degradation  will  also  be  necessary  to  ensure  that  economic  growth  is  sustainable  and  benefits  are  spread 
+widely. 
+
+ 
+
+In 2013, the IDFC created the Sustainable Urban Development Working Group, in order to help government 
+
+officials,  development  agents  and  other  stakeholders  identify  bottlenecks,  and  propose  policy  solutions  to 
+
+tackle the common challenges of rapid and growing urbanization. This paper, Investing in Sustainable Cities: 
+Opportunities and Challenges, was developed by CAF-Development Bank of Latin America and JICA- Japan 
+
+International  Cooperation  Agency,  in  the  hopes  of  promoting  more  comprehensive  dialogue  and 
+
+solution-oriented actions aimed at improving urban planning and policy formulation, management capacities, 
+coordination among stakeholders, and development finance mechanisms. 
+
+ 
+
+ 
+
+ii 
+
+Executive Summary                                         
+ 
+
+ 
+
+ 
+
+                                         
+
+ 
+
+Cities, home to 67% of the world’s population by 2050 (DESA, 2012), serve as a double-edged sword in the 
+
+context of sustainable development. On one hand, they are important engines of economic growth –producing 
+
+more than 80% of national income today (UNEP, 2012). On the other hand, cities are vulnerable to a number 
+of social and environmental perils, particularly climate change related risks and other natural disasters. Some 
+
+one billion people currently live in slums, with limited access to basic services (World Bank, 2013), and this 
+
+number is expected to rise to two billion by 2030 (UN Habitat). Cities account for the vast majority of global 
+energy use, natural resource consumption, green gas emissions and solid waste. Despite the challenges, well 
+
+managed urban development could give rise to cities more conducive to economic growth and social inclusion, 
+
+environmentally sustainable and resilient to climate change. 
+ 
+
+Achieving  sustainable  urban  development  will  require  multidimensional  approaches  across  sectors.  Policy 
+formulation  should  be  comprehensive,  able  to  adapt  to  evolving  development  needs,  and  incorporate 
+
+incentives  that  promote  wide-ranging  stakeholder  coordination  and  participation.  Strategies  must  draw  on 
+
+inter-linkages among different and sometimes conflicting demands; co-benefit measures that cater to multiple 
+needs  through  single  policy  interventions,  using  minimal  resources,  should  be  emphasized.    Improved 
+
+service delivery and infrastructure optimization  not only  improve community health and safety, but  heighten 
+
+competiveness  and  generate  employment.  More  widespread  use  of  green  technologies  helps  maximize 
+synergies  across  development  sectors,  integrating  urban  activities,  increasing  access  to  services  and 
+
+enhancing  productivity.  Such initiatives  will  require  innovative  financing  approaches;  global  need  is  beyond 
+
+the means of government spending capacities and official development assistance. Regulatory and financial 
+frameworks must be appropriately designed to attract private sector investors and ensure the continued flow 
+
+of resources to SUD projects. 
+
+ 
+
+Responding to these challenges, the international development community has made headway on a variety of 
+
+fronts.  On-going  discussions  at  the  UN  suggest  that  SUD  will  be  an  essential  pillar  of  the  Post  2015 
+
+Development  Agenda.  A  number  of  international  organizations  and  donors  are  working  towards  better 
+defining  sustainable  urban  development  and  setting  standards  –initiatives  that  not  only  help  diffuse  the 
+
+concept but also create new markets and business opportunities. In order to accelerate and broaden support 
+
+for SUD, the IDFC collaborates and coordinates with central and local governments, international institutions 
+and private sector actors. Building on the Club´s extensive partnership network, members provide technical 
+
+assistance and other tools to guide policy reform, urban strategy formulation and capacity development. They 
+
+also  directly  finance  SUD  projects  all  over  the  world,  from  mass  transit  systems  and  eco-cities  to  violence 
+prevention  and  CSR  recycling  programs.  IDFC  members  mobilize  a  wide  range  of  resources  at  both 
+
+international and domestic levels, through the promotion of public-private partnerships, and the advancement 
+
+of  joint  financing  endeavors,  providing  partial  risk  coverage  and  other  cost  reduction  mechanisms  to  help 
+attract private capital to SUD projects in developing countries.
+
+ 
+
+iii 
+
+Chapter 1.  Why Sustainable Urban Development Matters 
+
+ 
+
+ 
+
+ 
+
+Sustainable  development  will  be  at  the  core  of  the  Post-2015  Development  Agenda.  Having  witnessed 
+
+alarming  environmental  degradation  and  climate  change  threats,  the  Report  of  the  High-Level  Panel  of 
+Eminent  Persons  on the  Post-2015  Development  Agenda  (HLP)  urged the  international  community  to take 
+
+decisive actions to modify  consumption and production patterns and to ensure the integration of the social, 
+
+economic  and  environmental  dimensions  of  sustainability  in  pursuit  of  poverty  eradication  and  global 
+prosperity. 
+
+Figure 1: System approach towards Sustainable Development 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2: Distribution of the World Urban Population by Major Area, 1950, 2011, and 2050 
+
+(Source:  UNDESA,  2012) 
+
+1 
+
+ 
+
+ 
+
+ 
+
+Achieving  sustainable  development  will  require  multidimensional  approaches  across  sectors.  Among them, 
+
+improving  sustainability  of  urban  development  is  critical  because  urban  cities,  home  to  67%  of  the  world’s 
+
+population  by  2050  (UNDESA,  2012),  serve  as  a  double-edged  sword  in  the  context  of  sustainable 
+development. On one hand, cities functions as the main engine of economic growth. Overall, 60% of global 
+
+GDP can be attributed to 600 cities around the world (Richard Dobbs et al., 2011). In OECD countries, only 
+
+2% of their regions, mostly the largest urban areas, generate roughly one-third of all growth (OECD, 2011). In 
+India  and  China,  the  five  largest  cities’  economies  are  responsible  for  approximately  15%  of  national  GDP 
+
+(UN Habitat, 2010). In general, there is complex but positive correlation between urbanization and economic 
+
+growth.  Urbanization  is  often  characterized  by  agglomeration  of  production,  which  leads  to  increased 
+productivity  and  greater  investment  interest.  Providing  more  employment  opportunities  and  higher  salaries 
+
+brought by competitive labor market and elevated productivity further helps stimulate economies as a whole. 
+
+A recent study by Credit Suisse found that every 5% point increase in urban population pushes up per capita 
+economic activity by 10% (Credit Suisse, 2012). 
+
+ 
+
+On the other hand, cities face a number of social and environmental challenges, growing in tandem with the 
+today’s  unprecedented  pace  of  urbanization.1  Globally,  more  than  one  billion  people  live  in  slums  (World 
+Bank, 2013), with limited access to basic social services, economic activities and, without security of tenure, 
+many of them live under constant threat of eviction. Cities also contribute to global environmental pressures. 
+
+They account for an estimated 67% of global energy use, and up to 70% of global green gas emissions (IEA, 
+
+2008  and  2010),  mainly  due  to  the  concentration  of  industrial  production,  transportation  and  construction. 
+There  are  also  mounting  problems  of  waste  management  control  and  water  and  air  pollution,  posing 
+
+increasing threats to inhabitants’ health and well-being. In more than 65% of the cities in developing countries, 
+
+water  is  not  properly  treated.  Between  30  to  50%  of  the  solid  waste  generated  within  most  cities  is  not 
+collected (UN-HABITAT, 2009). All  these challenges are further exacerbated by rapid and unplanned  urban 
+
+expansion  that  tends  to  increase  resource  inefficiencies  (e.g.  energy  and  land  use)  and  costs  for  social 
+
+service delivery.   
+
+ 
+
+Urban areas are also increasingly susceptible to natural disasters, mostly because of their common location 
+
+along waterways, as well as population and infrastructure densities. As a UNISDR report suggests, the rate of 
+natural disasters in urban areas has increased four-fold since 1975 (UNSDR, 2011), and in many disasters, 
+
+the  poor  and  vulnerable  are  disproportionately  affected.  Furthermore,  according  to the  2011  UN  Report  on 
+
+Urbanization,  of  the  more  than  1.4  billion  people  in  the  world  residing  in  urban  areas  of  at  least  1  million 
+inhabitants, 60 per cent, or roughly 890 million people, were living in areas of high risk of exposure to at least 
+
+one natural hazard (UNDESA, 2011). 
+
+ 
+
+ 
+
+ 
+                                            
+1  For example, it took European countries some 150 years to increase urbanization rates from 10 to 50%. Similar urban 
+growth is now happening in some emerging Asian countries in just 55 to 95 years. 
+(https://www.kfw-entwicklungsbank.de/PDF/Download-Center/PDF-Dokumente-Development-Research/PP_-Stadtentwic
+klung_Qualitatives-Wachstum_EN.pdf) 
+
+ 
+
+2 
+
+Figure 3. Climate Change increases disaster risks 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Despite  these  challenges,  well  managed  urban  development  could  give  rise  to  cities  more  conducive  to 
+
+economic  growth  and  social  inclusion,  environmentally  sustainable  and  resilient  to  climate  change,  natural 
+
+disasters and other risks. The Sustainable Development Solutions Network’s Thematic Group on Sustainable 
+Cities,  established  to  facilitate  the  discussion  on  the  Post-2015  under  the  UN  framework,  illustrates  the 
+numerous  opportunities  available  to  cities  if  sustainable  urban  development 2   is  realized.  Given  the 
+concentration  of  economic  activities  in  urban  areas  and  significant  investment  opportunities,  particularly  in 
+emerging and developing economies, there is ample opportunity and motivation to reengineer cities in a more 
+
+sustainable  manner.  By  all  accounts,  well-managed  cities  will  use  natural  resources  and  technology  more 
+
+effectively,  which  will  have  a  positive  and  substantial  impact  on  society,  the  economy  and  the  environment 
+(Aromar Revi and Cynthia Rosenzweig, 2013). 
+
+ 
+
+What  is  required  to  achieve  sustainable  urban  development  varies  from  country  to  country,  but 
+comprehensive interventions from up-stream policy and standard setting to down-stream project design and 
+
+implementation are vital. Responding to these challenges, the international community has made headway on 
+
+a  variety  of  fronts.  Defining  sustainable  urban  development  and  setting  standards  is  the  first  step  towards 
+widely  diffusing  the  concept.  Standard-setting  is  also  instrumental  in  creating  new  markets.  A  number  of 
+
+international  organizations  and  donors  are  advancing  their  work  in  these  areas  through  research  and 
+
+dialogue. 
+
+ 
+
+There  is  also  a  large  funding  gap  in  the  urban  development  sector.  Global  demand  for  infrastructure 
+development  is  enormous,  exceeding  some  US$  5  trillion  annually  under  current  growth  projections. 
+
+Furthermore,  an  additional  US$  700  billion  is  required  to  support  the  ambitious  goals  of  the  IEA  to  limit 
+
+average global temperature increases to 2°C above pre-industrial levels (WEF, 2013). This large funding gap 
+cannot be met by public spending  alone. Unfortunately, securing long-term private finance for infrastructure 
+
+                                            
+2    A standardized definition of ―sustainable urban development‖ has not yet been established at the international level. As 
+a  working  definition,  the  IDFC  defines  it  as  urbanization  that  is  underpinned  by  social,  economic  and  environmental 
+sustainability.  It  encompasses  the  development  of  basic  shelters  and  infrastructures,  social  service  delivery,  and  the 
+promotion of economic activities including productive transformation at the individual firm level, all with due consideration 
+to issues such as inclusiveness, security, energy and climate change, among others. See Chapter 2 for how the concept 
+emerged and is perceived at the international community.   
+
+ 
+
+3 
+
+investment is becoming increasingly difficult due to recent economic downturns. Measures have been taken 
+
+by  various  governments  to  leverage  private finance,  but  scale  and  pace  need  to be  upgraded  significantly. 
+
+Public-sector support in green investments, if increased up to US$ 130 billion and targeted more effectively, 
+could  mobilize  private  capital  in  the  range  of  US$  570  billion,  which  would  near  the  US$  700  billion  of 
+
+incremental annual investment required to facilitate greener growth. However, greening the remaining US$ 5 
+
+trillion  investment  requirement  in  the  business-as-usual  growth  projects  will  continue  to  present  a  major 
+challenge; comprehensive policy reform and a stronger push toward investment-grade policy initiatives will be 
+required to fully address demand (WEF, 2013). 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+Chapter 2. 
+
+Defining sustainable urban development and setting standards 
+
+ 
+The concept  of  the  sustainable city  first  emerged and  evolved  as Western  countries  were striving to tackle 
+increasing  urban  sprawl  and  environmental  issues  in  the  1970s  .  The  concept,  now  known  as  Sustainable 
+
+Urban Development (SUD), has gained even greater prevalence in recent years, as the world has begun to 
+
+place  increasing  emphasis  on  the  importance  of  controlling  the  effects  of  rapid  urbanization  and  climate 
+change.   
+
+ 
+
+SUD  is  commonly  understood  as  an  approach  that  stresses  ―sustainability‖  as  its  main  feature,  embracing 
+
+social and economic structures that do not compromise environmental aspects (UN-HABITAT, 2002). SUD is 
+
+underpinned  by  mechanisms  aimed  at  producing  co-benefits  like  (i)  inclusive  economic  growth,  (ii) 
+competitive economies, (iii) social fairness and equality, (iv) safe, secure and comfortable environments, and 
+
+(v) environmental friendliness, including conservation of local and global public goods. 
+
+ 
+
+ 
+
+Figure 4: Three Pillars for SUD (image) 
+
+      Source:  Extracted  from  DESA,  2012  and  modified  by  JICA 
+
+ 
+
+A recent study identified more than 200 varieties of SUD definitions across the globe (Keivani, 2010). It will be 
+important to establish a clear definition and common standards for SUD if the concept is to be integrated into 
+the mainstream. Efforts are already underway to address this issue, but more work remains to be done.     
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+I.  Global public efforts to define the SUD concept 
+
+The  concept  of  SUD  has  been  promoted  at  the  international  level  through  a  multitude  of  forums  and 
+conferences, as a part of a global endeavor to help cities cope with emerging development challenges. The 
+
+Istanbul Declaration on Human Settlements and the Habitat Agenda, adopted at the Second UN Conference 
+
+on Human Settlements (Habitat II) in Istanbul in 1996, emphasized that urban development should give ―full 
+consideration  to  the  needs  and  necessities  of  achieving  economic  growth,  social  development  and 
+environmental  protection  (The  Habitat  Agenda,  19963).  UN-HABITAT  has  since  accelerated  its  work  in 
+monitoring  urban  conditions  worldwide  and  created  the  Global  Urban  Indicators  Database,  which  contains 
+indicators covering 5 functions of cities: shelter, social development and eradication of poverty, environmental 
+
+management,  economic  development  and  governance.  It  now  serves  as  a  global  framework  for  cities  to 
+
+define and monitor their urban issues. More recently, SUD has also been discussed for the Post-Millennium 
+Development Goals (MDGs), the Sustainable Development Goals (SDGs) and the Post 2015 Development 
+
+Agenda. In fact, ―make cities and human settlements inclusive, safe, resilient‖ was incorporated as Goal 11 of 
+the final proposal by The UN Open Working Group on Sustainable Development Goals in 2014.4  In tandem 
+with the official negotiation process, numerous proposals for SUD goals and indicators have been put forward. 
+
+A majority of these proposals consider SUD as a dynamic process and have emphasized the importance of 
+
+integrating  economic,  social  and  environmental  objectives  and  encouraging  measures  to  mainstream 
+comprehensive planning and management. 
+
+ 
+
+The Organization for Economic Cooperation and Development (OECD) has also contributed to constructing 
+
+and  promoting  international  SUD  standards.  Building  on  member  countries’  abundant  experience  and 
+
+knowledge,  the  OECD  has  created  systems  for  reviewing  city  development  policies  and  produced  policy 
+papers  for  public  use  (OECD,  2012).  More  recently,  it  established  a  Green  Cities  Programme,  which 
+
+developed  a  set  of  indicators  and  policy  recommendations  on  cities’  environmental  performance.  The 
+
+Programme  provides  insights  into  the  types  of  green  urban  policies  that  are  most  likely  to  facilitate  certain 
+desired  economic  results,  for  example, to incentivize  cities  to  promote  SUD.  The  Programme is  now  being 
+
+extended to cities in developing countries to assist them  in establishing their urban green growth strategies 
+
+and relevant indicators.   
+
+ 
+
+International organizations have also collaborated with local governments to help establish standards for SUD. 
+
+One example is the Global City Indicators Facility (GCIF) which was originally created by the World Bank and 
+is  now  managed  by  the  Canadian  Government.  The  Facility  is  characterized  by  its  focus  on  the  soft 
+
+component of SUD, featuring city services and quality of life factors. Establishing this set of indicators under a 
+
+globally standardized methodology allows for global comparability of city performance -a positive step towards 
+laying a foundation for SUD standards and a useful tool for knowledge-sharing. 
+
+ 
+
+Work  in the  SUD  field  is  also progressing  at the  regional,  national  and  sub-national  levels.  The  situation  is 
+
+diverse, reflecting complex and distinct histories, political systems and stages of development. One example 
+
+of  evolution  at  the  national  level  is  Malaysia’s  Low  Carbon  Cities  Framework,  which  underpins  the 
+
+                                            
+3  http://ww2.unhabitat.org/declarations/habitat_agenda.asp 
+See Appendix 1 for Global Urban Indicators proposed by the Agenda 
+4 
+http://sustainabledevelopment.un.org/content/documents/4518SDGs_FINAL_Proposal%20of%20OWG_19%20July%20a
+t%201320hrs.pdf 
+
+ 
+
+6 
+
+government’s  target  to  reduce  carbon  emissions  by  40%  by  the  year  2020.  The  framework  intends  to 
+
+mainstream  the  concept  of  low  carbon  cities,  and  help  local  authorities  make  decisions  and  design  action 
+
+plans  for  greener  urbanization.  The  framework  employs  a  monitoring  mechanism  which  contains  clear 
+performance criteria and indicators based on the 4 priority aspects of urban development for GHG reduction: 
+
+(i) urban environment, (ii) urban transportation, (iii) urban infrastructure, and (iv) buildings.   
+
+ 
+
+ 
+
+Japan´s  Comprehensive  Assessment  System  for  Built  Environment  Efficiency  (CASBEE)  is  another 
+
+interesting example. The system was developed to serve as a tool to assess and evaluate the environmental 
+
+performance  of  buildings.  The  tool  has  now  evolved  to contain frameworks  to help cities  pursue  their  SUD 
+policies; CASBEE-For Urban Development  helps  evaluate the environmental  performance of  areas beyond 
+
+one specific building, and CASBEE-For Cities provides a framework to evaluate environmental performance 
+
+with full consideration of both social and economic factors. The system is used by a number of Japanese local 
+authorities and is being rolled out into the entire Asian region.   
+
+ 
+
+II.  The private sector 
+
+The private sector has also acknowledged the importance of standard setting for market development. Some 
+
+international  corporations  are  trying  to  develop  their  own  indicators  to  define  and  monitor  cities’  SUD 
+performance  in  order  to  expand  and  strengthen  markets  for  SUD-related  businesses.  On  example  is  the 
+
+International Standards Organization (ISO), which has created Environmental Management Systems (EMS) – 
+
+voluntary  measurement  instruments  that  can  be  utilized  by  public  and  private  sector  managers  to  improve 
+environmental performance. The system provides a set of policies and procedures for the supervision, control, 
+
+reduction  and  prevention  of  activities  that  impact  the  environment.  These  kind  of  tools  help  communities 
+
+formulate and implement holistic, cross-sector and area-based approaches to development, and set a solid 
+foundation  for  progress  and  sustainability.  The  ISO  is  also  leading  a  discussion  to  establish  international 
+
+standards on sustainable city development through its Technical Committee on Sustainable Development in 
+
+Communities (ISO/TC 268) and subsidiary bodies which discuss city indicators (ISO/TC 268 WG2) and smart 
+community infrastructures (ISO/TC 268 SC1)5. The Committee is currently examining requirements, guidance, 
+and  supporting  techniques  and  tools  to  help  cities  and  other  stakeholders  realize  SUD.  Notably,  unlike 
+
+conventional ISO standards that intend to promote product standardizations, the ISO/TC 268’s work defines 
+the  actual  business  fields  by  specifying  and  standardizing  infrastructure  related  services.  This  essentially 
+
+provides an international guarantee to the scope of the business, thereby contributing to market creation. This 
+
+is indeed a welcoming trend, with the potential to advance SUD through a more market-based approach.   
+
+                                            
+5http://www.iso.org/iso/home/standards_development/list_of_iso_technical_committees/iso_technical_committee.htm?co
+mmid=656906 
+
+ 
+
+7 
+
+Chapter 3. 
+
+Policy formulation and urban planning 
+
+ 
+
+ 
+
+I.  Holistic SUD policies and strategies 
+
+Most cities in developing countries face a variety of administrative, technical, and financial capacity limitations 
+
+that make it difficult to deal with the challenges of rapid urbanization. City managers tend to focus on chronic 
+problems  and  the  day-to-day  and  sector-to-sector  issues.  Effective  urban  planning  is  often  hindered  by 
+
+complex  and  entrenched  interests  and  relationships  among  a  diverse  set  of  public  and  private  groups.   
+
+Inefficient  institutional  structures  are  also  commonly  cited  as  an  obstacle  to  implementing  integrated  city 
+planning solutions. Separate budgets, timelines and goals often lead to fragmented solutions. 
+
+ 
+
+―The  Future  We  Want‖,  produced  by  the  UN  Conference  on  Sustainable  Development  in  2012  in  Rio  de 
+
+Janeiro,  advocates  holistic  approaches  to  sustainable  cities  and  human  settlements.  The  document 
+
+encourages local governments to play a leading role in setting a vision and framework for sustainable  urban 
+development  throughout  the  city  life  cycle;  from  planning  out  a  new  city  to  the  revitalization  of  older  cities. 
+
+Comprehensive  policy  formulation  and  planning  is  critical  because,  once  developed,  urban  infrastructure 
+
+locks  in  the  city’s  economic  and  social  patterns,  and  carry  a  prolonged  impact  on  the  city’s  environmental 
+performance.  Therefore,  policies  and  strategies  can  ultimately  determine  whether  the  city  can  successfully 
+
+use their resources for effective and sustainable development. Second, as noted earlier, local governments in 
+
+developing  countries  face  a  variety  of  challenges  due  to  rapid  urbanization.  Consequently,  urban 
+development strategies need to take into account a variety of social, economic and environmental issues and 
+
+set  clear  priorities  among  them.  Third,  urban  development  involves  a  diverse  set  of  stakeholders  at  many 
+
+different  levels.  A  holistic  SUD  framework  is  expected  to  function  as  a  common  platform  for  these 
+stakeholders to identify their respective roles, including financing, and to collaborate amongst each other.   
+
+ 
+
+In  the  past  decades,  local  governments  have  often  used  master  planning  as  a  basis  for  city  development. 
+While this approach has evolved significantly in developed countries, conventional master planning remains 
+
+dominant in developing counties, making it difficult for their cities to address emerging urbanization issues. In 
+
+its  2009  Global  Report  on  Human  Resettlement,  UNHABITAT  illustrates  a  number  of  improved  forms  of 
+master  planning  which  are  underpinned  by  more  bottom-up  features,  participatory  processes  and 
+
+collaboration at the community level. However, it  also  points to the need to intensify measures to deal  with 
+
+major  SUD  challenges  such  as  poverty  and  inequality,  environmental  issues  and  climate  change,  and  to 
+establish regulatory and financing systems that can ensure functionality of the plan.     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 
+
+Figure 5: JICA’s 5 main features of sustainable cities 
+
+ 
+
+ 
+
+ 
+
+The  difficulties  of  making  successful  SUD  policies,  strategies  and  planning  often  lies  in  how  to  bring  in  as 
+
+many perspectives as possible to ensure the framework can address multifaceted problems, how to identify 
+
+priorities among a set of needs that are diverse, sometime conflicting, and even changing over a long period 
+of  time,  and  lastly,  how  to  incorporate  mechanisms  to  ensure  their  enforcement.  A  quick  review  on  major 
+
+literature such as the UNHABITAT’s 2009 Global Report on Human Resettlement, reveals that cities today are 
+
+approaching these challenges by the following 
+
+  enriching  the  content  of  SUD  framework  to  integrate  more  proactive  and  incentivizing 
+measures toward certain urbanization issues of great importance (e.g. poverty reduction 
+
+or climate change) 
+
+  setting up institutional and regulatory mechanisms to support good planning 
+
+  enhancing  the  process  of  city  planning  through  participatory  and  coordination 
+
+mechanisms.   
+
+ 
+
+CAF: Integrated Development in Panama City 
+
+CAF´s ―Ciudades con Futuro‖ (Cities with Future) Program is a high social impact initiative aimed at improving the quality 
+of life of urban populations through integrated multi‐sectoral interventions. The program has four major components: 1) 
+
+inclusive  urban  development,  2)  productive  transformation,  3)  environmental  sustainability,  and  4)  institutional 
+
+strengthening  and  public  safety.  The  first  phase  of  the  program  covers  five  major  Latin  American  cities,  including 
+
+Guayaquil, Quito, Panama City, Fortaleza and Lima. 
+
+ 
+
+From 1998 to 2012, CAF provided roughly USD 1 billion in funding for critical energy, logistics, transport and water and 
+
+sanitation  projects  in  Panama  City.    Notable  among  these  initiatives  is  the  expansion  of  the  Panama  Canal,  a  project 
+
+aimed  not  only  at  increasing  logistical  capacity  but  also  efficiency,  decreasing  water  use  and  helping  mitigate  climate 
+
+change by reducing global maritime Co2 emissions caused by larger ships required to take alternate longer transit routes.   
+
+CAF  also  served as  the  principal source  of external  financing  (about  32%  of  the  total  cost),  including  USD  1  million in 
+
+grant assistance and USD 600 million in loans for the construction of Panama City´s first metro line. Other international 
+
+financiers  include  the  Compañía  Española  de  Seguros  de  Crédito  a  la  Exportación  (CESCE),  Compagnie  Française 
+
+d'Assurance pour le Commerce Extérieur (COFACE) and the Multilateral Investment Guarantee Agency (MIGA), which 
+
+issued a guarantee to cover a loan arranged by Citigroup Global Markets. The company responsible for the majority of the 
+
+engineering,  procurement,  and  construction,  Line  One  Consortium  (CLU),  is  a  jointly-owned  enterprise  of  Construtora 
+
+ 
+
+9 
+
+Norberto Odebrecht S.A of Brazil and Fomento de Construcciones y Contratas S.A. of Spain. The contract with CLU uses 
+
+a factoring payment scheme in which the contractor utilizes private commercial bank interim financing, with prior approval 
+
+of the Ministry of Economy and Finance (MEF) of Panama. The development of these types of new capital structures and 
+
+public-private  financing  arrangements  make  funding  long-term  infrastructure  projects  more  viable  while  also  optimizing 
+
+ 
+
+funding costs.   
+
+ 
+
+The canal and metro projects will not only reduce vehicle and maritime operating costs and travel times, and decrease 
+
+greenhouse gas emissions, but also have a direct positive impact on the welfare of Panama City residents, by stimulating 
+economic growth and increasing access to jobs, services and trade. 
+ 
+
+Thanks to the progress of collaboration among various stakeholders at the international level, more tools to 
+
+help  cities  overcome  the  difficulties  in  establishing  their  SUD  frameworks  have  become  available.  City 
+
+Development  Strategy  (CDS)  is  one  such  tool  developed  through  international  collaboration  under  the 
+CitiesAlliance, which seeks to support cities in strategic planning, with a strong focus on poverty reduction. It 
+
+gives  cities  a  clear  framework  toward  the  development  and  implementation  of  city  strategies,  which  is 
+
+underpinned by a robust assessment and extensive consultation mechanism. The approach not only enable 
+cities to successfully develop their SUD frameworks, but also facilitates their implementation by catalyzing the 
+
+process to promote existing sectorial plans and increase their relevance, and to define downstream projects 
+
+in a structured and transparent manner.   
+
+ 
+
+ 
+
+ 
+
+Figure 6:    Typical Phases in a City Development Strategy 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+II.  Critical economic, social and environmental challenges   
+
+In this sections, we take an in-depth look at some of successful SUD approaches. It discusses a few emerging 
+good practices where developing countries successfully address specific challenges in city development.   
+
+ 
+
+ 
+
+Inclusive urbanization   
+
+The  Global  Risks  2014  report  by  the  World  Economic  Forum  highlights  the  persisting  unemployment  and 
+severe  income  disparity  as  among  the  top  5  global  risks  of  concern  in  2014.  There  is  an  emerging  global 
+
+consensus that inequality must be addressed to achieve sustainable development, and have therefore been 
+
+integrated  into  the  Post-2015  Development  Agenda.  The  impact  of  urbanization  on  unemployment  and 
+economic  inequality  remain  unproven  and  require  further  study.  In  most  cases,  poverty  rates  are  higher  in 
+
+rural areas than urban areas – indeed reaching 60%, by a UNHABITAT study (UNHABITAT, 2010). However, 
+
+recent studies identify a negative relationship between urbanization and income level (Ravallion, M., S. Chen, 
+and  P.  Sangraula,  2007).  Although  the  picture  varies  greatly  from  country  to  country  (Ravi  Kanbur  and 
+
+Juzhong Zhuang, 2013), some of the Asian countries have witnessed growth in the income disparity that went 
+
+in  tandem  with  urbanization  and  economic  development.  A  study  by  Ravi  Kanbur  and  Juzhong  Zhuang 
+estimates that cities may become home to more than half of the poor by 2020 if urbanization continues at its 
+current  pace  and  no  concerted  action  is  taken  (Ravallon,  M.).  This  finding  was  echoed  by  UNHABITAT 
+(UNHABITAT, 2010).   
+
+ 
+
+                            Figure 7:    Wider Income Gap in Urban Areas 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Based  on  these  findings,  SUD  policies  should  more  rigorously  address  inequality  and  unemployment  by 
+
+providing (i) direct support systems to the poor and vulnerable, (ii) mechanisms to cut the poverty spiral, and 
+
+(iii)  measures  to  redress  widening  income  gaps.  While  tackling  these  issues  often  requires  strong 
+coordination  with  and  support  from  national  policies  targeting  the  underlying  socio-economic  causes,  there 
+
+are some specific issues of great importance that local governments must carefully consider within their SUD 
+
+policies.   
+
+ 
+
+The first issue is unemployment. In many cities, the influx of unskilled populations to urban areas has resulted 
+in higher unemployment and labor market mismatches. Contrary to general expectations, economic growth 
+
+often fails to fully absorb incoming labor populations, as the growth is realized through increased productivity 
+
+ 
+
+11 
+
+rather  than  enlarged  labor  forces.  As  witnessed  during  the  Arab  Spring,  youth  unemployment  remains  a 
+
+serious  problem  in  many  countries.  Cities  need  to  tackle  these  issues  with  more  comprehensive  policy 
+
+packages in collaboration with national and other relevant authorities and stakeholders. On the supply side, 
+low  levels  of  achievement  in  formal  education  among  poor  urban  youth  continues  to  present  a  major 
+
+constraint  to  employment,  and  should  be  addressed  through  enhanced  education,  vocational  training  and 
+
+information-sharing  systems.  On  the  demand  side,  other  socio-economic  factors  such  as  local  market 
+conditions should be tackled through measures to increase the economic competitiveness and  job creation. 
+
+Economic  activities  are  largely  influenced  by  urban  planning,  particularly  infrastructure  development,  so 
+
+authorities  need  to  take  all  these  elements  into  consideration  to  ensure  comprehensive  action  and 
+well-coordinated SUD policies.   
+
+ 
+
+ 
+
+The  second  issue  that  has  a  significant  impact  on  urban  inequality  is  the  informal  employment  sector.  In 
+developing countries, the informal sector accounts for more than 50% of non-agricultural employment which is 
+
+mostly produced in urban areas (Ejaz Chani and Ravi Kanbur, 2013). While some literature argues that the 
+
+sector  creates  economic  benefits  by  providing  job  opportunities,  others  point  to  its  strong  association  with 
+higher poverty and lower productivity. Locked into the informal sector, people are often excluded from legal 
+
+and social protections and have limited access to social and financial services. This is especially problematic 
+
+in urban areas where family-based welfare systems tend to be weaker, particularly for migrant families; these 
+challenges require careful attention by local governments.   
+
+ 
+
+                                Figure 8:    Large Informal Sectors Associated with High Poverty Rates 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Slums  are  another  important  issue.  Although  slum  dwellers  are  not  necessarily  a  homogenous  group  with 
+respect to their living conditions, many problems associated with slums are widespread; lack of basic services 
+
+such  as  water,  sanitation,  health  and  electricity;  unfavorable  housing  conditions; 
+
+insecurity  and 
+
+overpopulation; insecure tenure’s rights. The majority of slum dwellers have limited access to formal jobs and 
+are chronically trapped in social and economic deprivation. Recognizing these issues as a major development 
+
+challenge,  governments  committed  to  improving  the  conditions  of  slum  dwellers  in  the  MDG  7  manifest. 
+
+ 
+
+12 
+
+However,  despite  the  progress  made  since  2000,  the  number  of  slum  dwellers  remains  significant, 
+
+constituting  more  than  60%  of  the  African  population  and  25-45%  of  the  Asian  population  in  2012  (United 
+
+ 
+
+Nations, 2013).   
+ 
+
+KfW: Violence Prevention through Urban Upgrading 
+
+Kayelitsha is a y township about 30 km from the city center of Cape Town, with around 800,000 inhabitants. It  has been   
+
+characterized by high crime rates, widespread poverty, unemployment and high HIV rates. In cooperation with KfW, the 
+
+City of Cape Town has implemented the VPUU – Violence Prevention through Urban Upgrading program with the support 
+
+of  the  German  Federal  Ministry  for  Economic  Cooperation  and  Development  (BMZ)  between  2005  and  2014.  Further 
+
+support has been received by the government of the Western Cape Province and local NGOs. The goal of the program is 
+
+to improve the perceived and real safety of residents in selected areas of Khayelitsha,  provide victim support and crime 
+
+prevention  services,  access  to  social,  recreational  and  commercial  facilities,  empowerment  of  people  through 
+
+employment and income, conflict resolution, increase capacity and competency of civil society organizations to promote 
+
+violence  prevention  initiatives,  and  mainstreaming  violence  prevention  principals  in  urban  planning  and  project 
+
+implementation mechanisms at municipal and provincial administration levels. 
+
+ 
+
+The total cost of the program was EUR 60.3 million, including a EUR 15.5 million grant from KfW, EUR 43 million from 
+
+partner contributions and EUR 1.8 million in financing from third parties. KfW held a particularly important catalytic role, 
+
+increasing  visibility  and  interest  in  participatory  urban  planning  mechanisms  and  acted  as  a  contract  guarantor  for 
+
+continuity.  In  fact,  KfW  currently  only  finances  25%  of  the  overall  program  budget.  KfW  also  helped  coordinate  local 
+
+expertise  and  bought  international  consultants  and  advisors  to  the  project,  as  well  as  incorporated  bank´s  own  best 
+
+practices from other projects to ensure the successful realization of the VPUU program. As a result, local administrations 
+
+have been trained, safety has been improved and more than 20 public buildings have been completed with more being 
+
+yet  under  construction,  such  as  libraries,  youth  centers,  sport  sites  and  others.  The  VPUU  has  proved  to  be  a  great 
+
+success and thus will be transferred as an obligatory planning instrument within other townships in the City of Cape Town 
+
+and in all cities of the Western Cape Province. 
+
+ 
+
+As the 2003 UNHABITAT report points out, there has been a significant shift in many governments’ approach 
+to  informality  and/  or  slums,  from  negative measures  such as  forced  eviction,  involuntary  resettlement  and 
+
+neglect, to more inclusive and rights-based measures (UNHABITAT, 2003). Recognizing that the conventional 
+
+approaches  to  slums  -which  mainly  focused  on  improvement  of  physical  conditions-  failed  to  address  the 
+deep-rooted causes of slum buildup, UNHABITAT encouraged governments to rethink their approaches and 
+
+take more proactive actions to support the livelihoods of slum dwellers. Doing so has required the integration 
+
+of  the  slum  issue  into  broader  SUD  policies,  and  more  active  involvement  of  slum  dwellers  in  the 
+decision-making  process.  Use  of  planning  tools  such  as  public  investment  in  trunk  infrastructure  to  direct 
+
+patterns  of  development,  and  guided  land  development  combining  strategic  planning,  land  pooling  or 
+
+readjustment are increasingly recognized as instrumental in effectively responding to the issue of informality 
+(UNHABITAT, 2009). Measures to make them an integral and productive part of the entire city development 
+
+are  vital.  As  a  2013 World  Bank  study  points  out,  policies  to move  slum  dwellers  to better  settings  outside 
+
+slums sometimes creates unintended and perverse effects by disconnecting dwellers from job opportunities. 
+Some  IDFC  members’  policies  prioritize  situ  rehabilitation  as  a  way  of  informal  settlement/slum  upgrading.   
+
+Policy  measures  taken  by  cities  like  Hanoi  and  Bogota  to  coordinate  land  market  rules  with  urban 
+
+infrastructure development, ensuring connectivity between people and jobs  have proven quite effective and 
+can be usefully replicated elsewhere (World Bank and IMF, 2013).   
+
+ 
+
+ 
+
+13 
+
+BNDES: Supporting CSR 
+
+BNDES  has  provided  SuperVia  a  total  of  R$  14.7  million  to  date  for  priority  projects  related  to  the  train  company’s 
+
+Corporate Social Responsibility (CSR) Program. The bank provides up to 100% of the project value and 240 month loan 
+
+terms for projects aimed at income generation and improving the quality of life of the communities around the SuperVia 
+
+railway network. The Via Limpa (Clean Tracks) Project, for example, aims to clear waste from the railway using clean task 
+
+forces,  the  building  of  eco-points  (specific  locations  for  recycling  containers),  reforestation  of  areas  around  the  tracks, 
+
+environmental  education  programs,  and  the  certification  of  recycling  collectors  in  training  events.  The  program  should 
+
+increase operation safety, enhance service and track maintenance, as well as offer an alternative source of income and 
+
+improve  the  quality  of  life  of  the  population  living  in  the  areas  around  the  track  previously  lacking  regular  garbage 
+
+ 
+
+collection. 
+
+ 
+
+BNDES also finances the Via Parceira (Partner Track) Project, aimed at increasing the income of the recycling collectors, 
+
+providing  education  events  for  school  students  from  21  communities  surrounding  the  rail  system,  promoting  digital 
+
+inclusion and strengthening the relationship between the company and the  surrounding communities. To achieve these 
+
+goals,  the  program  provides  technical  support  and  management  assistance  to  a  network  of  recycling  collector  co-ops 
+
+formed by 5 institutions located near the rail system. In partnership with Reação Institute, the Via Parceira Project also 
+
+supports the construction of sports centers in the Morro de Alemão group of favelas, so that students can have access to 
+
+a  variety  of  social,  cultural  and  environmental  educational  activities.  The  Creative  Economy  Project  also  supports 
+
+socio-productive  inclusion  and  sustainability  by  fostering  a  niche  market  for  eco-design  products  (from  recyclable 
+
+materials) and a productive center to create them. BNDES funds will also be used to help manage the program, including 
+the use of consultants to assist with planning, monitoring and project evaluation. 
+
+ 
+
+ 
+
+Managing environmental risks   
+
+Cities  both  create  daunting  environmental  problems  and  suffer  their  consequences.  Urban  environmental 
+issues such as air, water and soil pollution, and waste management are sweeping the globe as the wave of 
+
+urbanization  spreads.  Emerging  issues  such  as  the  depletion  of  resources,  notably  water,  and  risks 
+
+associated with climate change, such as increased natural disasters, are threaten the future of many cities. In 
+fact, as the ―The Future We Want‖ in 2012 warns, the current world’s development pattern is not sustainable. 
+
+The world needs to take immediate action to reverse current trends. Given that infrastructure development not 
+
+only  locks-in the city’s economic and social structure  for decades  to come, but also creates significant and 
+lasting  environmental  consequences,  SUD 
+forward-thinking 
+
+frameworks  must  carefully  weave-in 
+
+environmental considerations. However, tackling urban environmental issues has proven to be an ambitious 
+
+task for many cities in the past. More often than not, environmental problems are left unattended because the 
+associated risks and costs are not necessarily visible or gains are perceived to be smaller than other pressing 
+
+concerns,  like  economic  growth.  In  the  case  of  climate  change,  the  situation  is  more  complex,  as  the 
+
+ownership  of  the  problem  is  not  clear-cut  and  how  to  allocate  the  responsibility  requires  careful  policy 
+considerations by the governments. 
+
+ 
+
+How can cities effectively address environmental challenges through their SUD policies and strategies? There 
+has been a variety of emerging good practices and innovation on this front in the last  few decades. The first 
+
+step is to identify and quantify risks. Research related to the environmental impact of urban development has 
+
+become widely available. The World Bank’s evaluation of rising sea levels effects (World Bank, 2007), and the 
+World  Bank,  Asian  Development  Bank  and  JICA’s  collaborative  research  on  climate  risks  in  Asian  coastal 
+
+mega-cities (World Bank, 2010), for example, all provide invaluable insight for developing SUD frameworks.   
+
+ 
+
+14 
+
+ 
+
+ 
+
+The second important step is to take measures that directly address environmental threats. In the past, local 
+
+authorities have taken the lead, often addressing environmental problems prior to national governments by 
+introducing regulatory frameworks for pollution control or GHG emission caps. However, the majority of local 
+
+authorities  in  developing  countries  have  limited  resources  and  are  short  of  incentives  to  prioritize 
+
+environmental  issues  over  other  developmental  goals.  To overcome this  obstacle,  some local  governments 
+have  started  to  adopt  an  approach  that  emphasizes  the  ―co-benefits‖  produced  by  environmentally-friendly 
+
+policies, looking to realize environmental, social and other developmental objectives through a single policy in 
+
+their  SUD  frameworks  (UN  University-  Institute  of  Advanced  Studies,  2013).  A  study  by  a  UN  University’s 
+Institute  of  Advanced  Studies  in  2013  identified  cases  where  the  approach  successfully  improved  regional 
+urban  sustainability  while  simultaneously  solving  local  problems.  The  Delhi  Metro  in  India,  for  example, 
+
+lowered  GHG  emissions  while  also  reducing  congestion  and  air  pollution.  Another  example  is  the 
+Community-Based  Solid Waste Management  project  in  Yogyakarta, Indonesia,  where  both  solid  waste  and 
+
+GHG  emissions  were  lessened.  Commending  the  approach  as  both  technically  feasible  and  economically 
+
+beneficial,  the  UN  study  proposes  the  ―co-benefits‖  approach  be  replicated  in  other  cities.  The  UN 
+recommends  that  short-term  strategies  focus  on  waste  management  -its  urgent  health  and  environmental 
+
+import  and  economic  feasibility  provide  strong  incentives  for  cities.  Medium  to  long-term  strategies  should 
+
+look to the transportation, industry, energy, and building and land use sectors, all of which involve relatively 
+complex physical and institutional changes but provide robust benefits in the long run.   
+
+ 
+
+AFD : Reconciling climate and social co-benefits in Medellin   
+
+In the early 1990s, the 6,000 violent deaths every year in Medellin, a Colombian city with 2.5 million inhabitants, made it 
+
+one of the most dangerous city in the world. With successive waves of rural-urban migration, slums had spread on the 
+
+heights  of  the  city,  set  in  the  Andes  Mountains,  hindering  access  to  entire  neighborhoods.  Cut  off  from  economic 
+
+opportunities,  public  services  and  local  authorities,  these  neighborhoods  had  become  a  breeding  ground  for  social 
+
+violence and drug trafficking. Since 2004, the Municipality of Medellin has been working to stem this high level of crime by 
+
+seeking to integrate these vulnerable communities via an ambitious integrated urban development policy.   
+
+ 
+
+In 2010, AFD awarded a $250M direct loan to the Municipality of Medellin to support the implementation of an appropriate 
+
+public transport network, connecting 30 peripheral neighborhoods in the Ayacucho Valley and surrounding hills to the rest 
+
+of  the  city  through  one  tramway  line  and  two  metrocable  lines.  Such  public  transport  infrastructures  decrease  GHG 
+
+emissions, while significantly improving access to the city center and reducing travel time for 350,000 local residents.   
+
+ 
+
+Combined with a pro-active social policy and simultaneous large-scale investment activities in public spaces and social 
+
+facilities,  this  project  has  facilitated  local  economic  development  by  encouraging  the  arrival  of  businesses  and  shops. 
+
+Finally,  insecurity  has  been  significantly  decreased:  since  the  inception  of  the  Municipality’s  pro-active  social  urban 
+
+planning policy, the rate of violent deaths is now six times lower in Medellin.   
+
+ 
+
+AFD’s  financial  instruments  to  support  sustainable  urban  development  are  tailored  to  local  institutional  &  regulatory 
+
+contexts and partners’ needs. Direct loans to sub-national governments (without a sovereign guarantee) are a privileged 
+
+instrument  to  support  local  authorities’  priority  urban  infrastructure  programs,  and  have  been  successfully  mobilized  in 
+
+contexts as diverse as Medellin (Colombia), Johannesburg & Cape Town (South Africa), Dakar (Senegal), Ouagadougou 
+
+(Burkina Faso) or Izmir (Turkey).     
+
+ 
+
+Many local governments have started eyeing the potential of green growth strategies that pursue economic 
+
+ 
+
+15 
+
+growth and social development through urban activities targeting environmental issues. The OECD study in 
+
+2013 on ―Green Growth in Cities‖ reveals that many local leaders have started to recognize the utility of  the 
+
+green growth concept, presenting an opportunity to create jobs and attract investment while  also improving 
+local environmental performance and addressing climate change (OECD, 2013). Case studies on four major 
+
+OECD member country  cities– Paris, Chicago, Stockholm and Kita-Kyushu - found that policies to promote 
+
+energy efficiency retrofits  for buildings can boost job-creation,  while  policies to increase transport  efficiency 
+can  also  improve  cities’  attractiveness  to  business  firms  and  skilled  laborers.  The  approach  is  now  being 
+
+ 
+
+rolled out in many emerging Asian cities.   
+
+ 
+
+Cities’ increasing susceptibility to natural disasters is another important risk factor that should be taken into 
+
+account  during  city  planning.  A  UNISDR  report  in  2011  demonstrated  that  natural  disasters  in  urban  areas 
+
+have  increased four-fold since 1975 (UNISDR,  2011), largely  due to their proximity  to  waterways, and high 
+population  and  infrastructure  densities.  Over  a  35  year  period,  from  2015  to  2050,  the  number  of  people 
+
+exposed to major natural disasters in large cities is estimated to double to some 1.5 billion (World Bank, 2010) 
+
+and  in  many  disasters,  the  poor  are  disproportionately  affected.  Governments  must  ensure  that  new 
+infrastructure  is  not  built  in  a  way  that  increases  exposure  to  natural  disasters;  it  should  be  located  in  less 
+
+vulnerable  areas  and  the  city  must  leave  enough  space  for  evacuation  routes.  If  this  is  not  possible,  new 
+
+infrastructure should have multiple functions, like some schools in Bangladesh which can serve as shelters in 
+the event of severe flooding and the highways which protected cities from severe tsunami, functioning like a 
+
+dike during the Great East Japan Earthquake.   
+
+ 
+
+Spatial planning and effective land use 
+
+Land  use  is  an  important  element  of  SUD,  serving  as  the  foundation  of  spatial  planning  and  infrastructure 
+
+development.  Integrated  solutions  for  appropriate  natural  resource  and  land  use,  hazard  risk  planning, 
+infrastructure development, and urban transport expansion are critical.   
+
+ 
+
+First of all, a clear definition of property rights must be established and underpinned by legal and institutional 
+
+frameworks  with  administrative  and  enforcement  mechanisms  such  as  land  registration.    For  example, 
+
+Curitiba, Brazil, has been well-known for its innovative approach to SUD since the 1960s. However, the city 
+government is currently striving to address emerging issues such as urban sprawl, squatting and increased 
+
+insecurity  by  implementing  new  urban  planning  measures.  In  order  to  assist  the  city  with  implementation, 
+
+JICA provided technical assistance to help the city adapt a Japanese ―readjustment‖ methodology. Through 
+the project, Japanese experts trained local authorities how to hold constructive negotiations with residents by 
+
+explaining  the  prospective  benefits  of  land  submission,  like  improved  public  transport  and  increased  land 
+
+values  due  to  new  infrastructure  development.  As  a  result,  Curitiba  officials  successfully  obtained  part  of 
+residents´ lands for public usage, mainly for road and park construction. Curitiba is now drafting its own land 
+
+readjustment law and a pilot project to test out the new methodology on the ground. 
+
+ 
+
+Second,  which  areas  should  be  designated  or  (re)developed  for  residential  or  business  and  industrial 
+
+purposes  should  be  in  line  with  the  city’s  overall  vision,  and  require  careful  consideration  of  multifaceted 
+
+perspectives. Strategic spatial planning with careful consideration to infrastructure development is also vital. 
+Demographic growth in cities often leads to expansion of urban area, either through merging of several towns 
+
+or through urban sprawl. Urban sprawl, particularly, entails inefficient use of resources and often higher costs 
+
+for  delivering  social  services  (HABITAT,  2009).  Spatial  planning  should  set  out  how  to  control  and  plan 
+
+ 
+
+16 
+
+possible  city  expansion  in  a  sequential  manner  and  ensure  that  infrastructure  development  is  properly 
+
+embedded  into  the  city´s  larger  land  use  planning  and  management  scheme  is  of  particular  importance, 
+
+considering that once it’s developed, infrastructure locks in patterns of economic and social activities and their 
+environmental impact for decades (World Bank, 2013).   
+
+ 
+
+ 
+
+Effective  land  use  policies  allow  for  people  and  products  to  be  mobile  and  efficient.  Long-term  land  use 
+planning  helps  city  administrators  monitor  and  manage  the  growth  of  slums.  Incorporating  larger  green 
+
+spaces in cities can provide ―green lungs‖ that decrease the heat-island effect and lower the amount of energy 
+
+required for indoor cooling systems.    Food production is also a major issue for urban sustainability, and must 
+be taken into consideration at the regional level; growing food in green spaces and backyards increases food 
+
+security and reduces the environmental impact of importing food from distant regions.   
+
+ 
+
+City  planners  should  promote  land  valuation  processes  that  are  systematic,  professional,  transparent  and 
+
+widely  accessible.  In  developing  countries,  projects  can  often  be  delayed  because of  land  price  distortions 
+and  asymmetric  information  (land  values  may  be  concealed  to  avoid  high  transaction  taxes,  or  help 
+
+developers  acquire  land  at  favorable  rates)  and  this  should  be  addressed  by  establishing  appraised  land 
+
+values that prevent land-related conflict. Density regulations -introduced to limit the quantity of properties that 
+can be developed- should be carefully crafted to prevent land price market distortions. Moreover, they are vital 
+
+to striking an efficient balance between the cost and benefit of ―compact‖ cities. Urban sprawl often elevates 
+
+the costs of delivering social services and increases communities’ reliance on private vehicles that contribute 
+to GHG emissions, for example. However, there is no one-size-fits-all model for such regulations and many 
+
+cities are exploring how to optimize their regulations to fit to their individual needs. Legal system also has to 
+
+be developed to protect residents’ basic rights. In addition to established legal system, UNHABITAT proposes 
+introducing  more  flexible  system  with  easier  access  to  the  public,  such  as  litigation  measures  for  dispute 
+
+resolution and negotiation and more collaborative practices. It also cautions that large-scale developers have 
+
+become  dominant  in  urban  development,  and  recommends  that  local  governments  enhance  their  legal 
+systems to ensure more inclusive development (UNHABITAT, 2009).   
+
+ 
+
+III.  Stakeholder coordination and participation 
+
+City  planners  are  not  only  mayors,  but  also  community-based  organizations,  subnational,  national  and 
+
+international  policy  makers  and  private  sector  investors,  developers,  and  service  providers.  Unfortunately, 
+
+these actors  tend to  operate  within their  own  spheres.  Urban  areas  encompass  multiple municipalities,  but 
+often  lack  mechanisms  to  coordinate  policy  and  planning  across  boundaries  despite  current  efforts  to 
+
+formulate  multiple  networks  and  increased  presence  at  international  discussions.  Furthermore,  local 
+
+governments must be equipped with sufficient authority and human and financial resources to lead the SUD 
+planning process. Architects, engineers, landscapers, hydrologists and officials at all government levels will 
+
+have to coordinate their efforts if sustainable long-term urban development is to be achieved. Both up-stream 
+
+policy and standard setting to down-stream project design and implementation are of vital importance, and are 
+challenges  that  require  collaborative  approaches.  The  participation  of  a  diverse  set  of  actors,  with  distinct 
+
+perspectives and needs, is critical to ensuring the integrity of urban development. 
+
+ 
+
+However  many  developing  countries  do not  have systems  in place for  such inclusive processes,  and  often 
+lack  proper  information  disclosure  and  education.  To  ensure  citizens’  views  are  duly  reflected  into  city 
+
+ 
+
+17 
+
+planning  and  implementation,  accountability  mechanisms  including  transparent  decision-making  and 
+
+monitoring are essential. Governments need to undertake a variety of measures to ensure meaningful citizen 
+
+participation.  UNHABITAT  emphasizes  the  importance  of  the  following:  (i)  political  systems  that  allow 
+proactive  participation  and  genuine  negotiation,  (ii)  legal  basis  for  local  politics  and  planning  to  ensure 
+
+citizens’  voices  are  well  reflected  in  decision-making  processes,  and  (iii)  delegation  of  authority, 
+
+responsibilities and resources to local governments to support participatory planning.   
+
+ 
+
+ 
+
+The private sector plays important but unique role in city planning as a stakeholder and beneficiary. The role 
+
+as investor has been increasingly recognized as essential in the face of public budgetary constraints as well. 
+In addition to PPP projects, there are a number of ways to mobilize private finance through establishment of 
+
+special  funds,  taxation  schemes,  and  CSR  donation  initiates,  and  governments  are  encouraged  to  set  up 
+mechanisms to implement such measures.   
+
+ 
+
+JICA: Promoting Collaboration for Comprehensive Urban Planning 
+
+Metro Cebu is the second largest metropolitan area in the Philippines, composed of 7 cities and 6 municipalities, and a 
+
+population  expected  to  reach  5  million  by  2050.  Like  other  Asian  mega  cities,  Metro  Cebu  is  experiencing  steady 
+
+socio-economic growth but is increasingly constrained by rapid urbanization and consequent resource and infrastructure 
+
+shortages.In order to meet these challenges, the Japan International Cooperation Agency (JICA), the City of Yokohama, 
+
+the  City  of  Cebu  and  the  Metro  Cebu  Development  and  Coordinating  Board  (MCDCB)  worked  together  to  formulate a 
+
+long-term  sustainable  urban  development  vision  for  the  city,  forging  a  cross-sectoral  and  transboundary  collaboration 
+
+among  the  national  government,  13  local  governments,  the  private  sector  and  civil  society.  The  ―MEGA  CEBU  Vision 
+
+2050‖ sets out a  strategy  for city  development,  striking a  balance between  comprehensiveness  and  sectorial  priorities. 
+
+Part of the plan´s success can be attributed to widespread stakeholder participation and consultation, supplemented by 
+
+policy  and  technical  inputs  from  JICA  and  the  City  of  Yokohama.  Prioritizing  diversified  views,  a  SWOT  analysis  and 
+
+comparative studies analyzing international good practice benchmarks, provided a robust framework for the MEGA CEBU 
+
+Vision. The result of this approach was a city development plan that incorporates various aspects of urban sustainability, 
+
+including  cultural, economic,  social  and  environmental  aspects.  The  MEGA  CEBU  Vision also sets  out  clear strategies 
+
+and  development  targets.  Currently,  action  plans  and  road  maps  are  being  drafted  to  support  their  implementation, 
+
+assisted by JICA (through technical assistance).   
+
+ 
+
+JICA’s successful experience in Metro Cebu also demonstrates the usefulness of knowledge-sharing initiatives between 
+
+cities. The MEGA CEBU Vision setup a mechanism to share best practices among 13 local governments, helping those 
+
+governments increase their expertise and leading them to take positive actions on the ground for the realization of more 
+sustainable and comprehensive urban development. 
+ 
+
+IV.  The role of Development Banks 
+
+Working closely with governments, development finance institutions are making efforts to provide a variety of 
+
+effective  financial  instruments  as  well  as  supporting  policy,  and  institutional  and  capacity  development. 
+Multilateral,  regional  and  national  development  finance  institutions  such  as  the  members  of  International 
+
+Development Finance Club (IDFC), together with developing country governments can play an essential role 
+
+in  advancing  the  concept  of  sustainable  urban  development.  According  to  IDFC’s  green  finance  mapping 
+report  (Ecofys,  2012),  the  Members’  contribution  in  green  finance  reached  a  total  US$  89  billion  in  2010. 
+
+Development  finance  institutions’  also  have  a  strong  track  record  in  mobilizing  domestic  resources  and 
+
+fostering  new  investments  in  sectors  of  strategic  importance  such  as  clean  energy  and  environmental 
+conservation  projects,  as  well  as  general  economic  and  social  development  projects  (World  Bank  2012). 
+
+ 
+
+18 
+
+These institutions also often share a close relationship with industrial sector players, and use their access to 
+
+institutional and regulatory decision-makers to promote institutional legal frameworks that strengthen market 
+
+ 
+
+investment conditions. 
+
+ 
+
+―While 70 percent of high-income countries integrate land use and natural risk management, only about 15 
+
+percent of low-income countries are doing so‖ (World Bank 2012b). Development banks can play an important 
+role  in  helping  city  managers  and  other  policy  makers  identify  these  types  of  urbanization  bottlenecks  and 
+
+propose policies and strategies to combat them. They can also expand lending linked to comprehensive and 
+
+multi-sectorial  urban  development  models  with  special  emphasis  on  housing  and  slum  management  and 
+urban mobility programs that help build more inclusive cities. 
+
+ 
+
+Development  banks  can  also  promote  results-based  urban  planning  strategies  by  supporting  knowledge 
+
+sharing programs, data collection and feasibility studies.    Universities will play a key role in preparing young 
+
+people to deal with new-century and cross-disciplinary challenges --training future architects, engineers and 
+city officials. Development banks can nurture partnerships among these universities, politicians, development 
+
+agencies and private financiers to not only sponsor co-learning and capacity building, but to build networks to 
+
+leverage new funding mechanisms. 
+
+   
+
+In order to overcome some of the investment barriers to urban development, IDFC members commonly stress 
+
+the importance of decentralized urban development management, greater local autonomy over financing, and 
+the inclusion of customers and community members in the decisions making process to promote more service 
+
+oriented reform and widespread public support for projects. Development banks can also cooperate and help 
+
+support  existing  networks,  such  as  the  Cities  Alliance  or  the  Organization  of  Local  Governments  for 
+Sustainability (ICLEI), for example, that assist cities in learning from one another through expert consultation, 
+
+knowledge  sharing,  capacity  building,  access  to  research  and  other  collaborative  aid  mechanisms.  The 
+
+Japanese Government has helped connect key regional players in East Asia, for example, through the East 
+Asia Low Carbon Growth Partnership Dialogue -under the East Asian Summit (EAS) framework- and the East 
+
+Asia Knowledge Platform for Low Carbon Growth, a knowledge-sharing hub that brings together researchers, 
+
+national policy makers, local governments and service providers to produce both policy and practical research 
+that  can  be  translated  into  implementable  policy  reform.  Urban  learning  cannot  focus  merely  on  historic 
+
+models of northern metropolises; the Global South will be home to the majority of the population growth over 
+
+the next 40 years and greater South-to-South dialogue and collaboration will allow the regions of Africa, Latin 
+America  and  Asia  to  learn  from  each  other’s  methods  and  capacity  to  deal  with  the  challenges  of  rapid 
+
+urbanization and growth.   
+
+ 
+
+Central  to  sustainable  urban  development  will  be  an  emphasis  on  integrated  planning  in  the  provision  of 
+
+environmental friendly infrastructure, basic services, and other public goods. Development banks should look 
+to  support  multi-sectorial  program  approaches  that  treat  urban  areas  as  integrated  systems,  rather  than 
+
+support  individual  interventions  as  single-purpose funding schemes  often fail  to link  project  interventions  to 
+
+larger, city-wide program objectives. Well planned timing of interventions that fit into a greater urban planning 
+scheme  will  be  essential,  as  is  reaching  out  to  other  development  and  private  sector  partners  to  secure 
+
+funding. 
+
+ 
+
+ 
+
+19 
+
+ 
+
+CDG: The Eco-city of Zenata   
+
+The  Zenata  Development  Company,  a  subsidiary  of  CDG  Group,  has  undertaken  the  largest  integrated  urban 
+
+development  project  in  Africa  to  date,  aimed  at  making  Zenata  an  attractive,  efficient,  service-based  eco-city  in  Grand 
+
+Casablanca. The initiative is guided by the core principles of sustainable development: soft and public modes of transport, 
+
+optimization of water management, green corridors, low density, and social and functional diversity.       
+
+ 
+
+The Zenata Master Plan has divided the city into 14 units of roughly 28,500 people each, designed to reduce travel by 
+
+providing  their  own  infrastructure,  services  and  equipment  for  education,  health,  shopping  and  leisure  activities.  The 
+
+project also builds housing for middle income families and the relocates 7,000 families from onsite slums. A total of 470 
+
+hectares of green space is being developed inside the city, irrigated naturally and leading to the sea; these parks have 
+
+been designed as ―ecological corridors‖ promoting biodiversity and improved ambient temperature control. A multimodal 
+
+station, subway and tramway line will connect the city into the main mobility network of Casablanca. The Zenata urban 
+
+planning approach has three priority goals: the rebalancing and revitalization of the city of Casablanca to the east, the 
+
+creation of jobs and new facilities to achieve a ratio of 130,000 jobs for every 400,000 people, and the creation of a city 
+
+more accessible to the middle classes, where quality of life and the structure of natural and public spaces are a priority. 
+
+ 
+
+CDG’s  goal  is  to  make  Zenata  a  model  for  sustainable  urban  development.  CDG  has  mobilized  substantial  French 
+
+expertise -around fifteen top consulting firms- including urban planner Bernard Reichen (winner of France´s Grand Prix for 
+
+Urban Planning in 2005) for the study and design of the project. In April 2013, AFD also signed a financing agreement 
+
+with the Zenata Development Company to help finance the new city. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20 
+
+Chapter 4. 
+
+Financial Approaches 
+
+ 
+
+ 
+
+The cost of funding sustainable cities is beyond the means of both government funding capacities and official 
+
+development assistance. Global demand for infrastructure development is enormous, exceeding US$ 5 trillion 
+
+annually under current growth projections. An additional US$ 700 billion is required to support the ambitious 
+goals of the International  Energy  Agency (IEA) to limit average global temperature increases to 2°C above 
+
+pre-industrial levels (WEF, 2013).  Ensuring  the continued flow  of finance for sustainable urban  investments 
+
+will  require  new  private  sector  financial  instruments.  Fortunately,  there  is  a  mounting  commitment  at  the 
+international level to support and finance sustainable cities. The Nantes EcoCity Summit and the Declaration 
+
+of Mayors and Subnational Leaders on Climate Change was adopted by 50 mayors from 30 countries, and 20 
+
+networks  of  local  governments  in  2013,  affirming  their  commitment  to  scale-up  climate  actions.  The 
+declaration  calls  for  enhanced  access  to  finance  for  local  climate  projects,  including  the  development  of 
+
+specific funding windows for local climate action and sustainable urban development. And at the UN Climate 
+
+Summit in September 2014, a network of local governments and international public and private institutions 
+launched the ―City Climate Finance Leadership Alliance‖ to accelerate knowledge-sharing and other actions 
+
+to mobilize more financing for low-carbon and resilient urban development. In fact, new funding opportunities 
+
+have  arisen  for  city  managers  in  developing  countries  who  are  working  towards  building  more  energy  and 
+resource efficient urban models.    At the same time, new accounting methods are being developed in order to 
+
+estimate the full costs and benefits of policy and investment initiatives, like life-cycle costing.     
+
+ 
+
+Public-sector support for green investments, if increased up to US$ 130 billion and targeted more effectively, 
+could  mobilize  private  capital  in  the  range  of  US$  570  billion,  which  would  near  the  US$  700  billion  of 
+
+incremental  annual  investment  required  to  facilitate  greener  growth.  However,  there  will  be  another  US$  5 
+
+trillion  required  for  business-as-usual  growth  projects.  Comprehensive  policy  reform  and  a  stronger  push 
+toward investment-grade policy initiatives will be required to fully address demand (WEF, 2013). In order to 
+
+finance urban development programs, governments should improve creditworthiness by securing cash flows 
+
+from  user  fees  and  taxes.  Tax  revenue  provides  the  basis  for  capital  expenditure  subsidies  required  for 
+investments that may otherwise not be financially or politically viable. Improved creditworthiness will also help 
+
+cities  borrow  money  and  attract  private  investment,  making  financing  easier.  Many  city  governments  in 
+
+developing countries struggle to obtain long-term credit due to limited domestic bond markets. In the absence 
+of  well-developed  capital  markets,  financial  intermediaries  and  development  banks  can  play  a  key  role  in 
+
+mobilizing resources for urban development financing.   
+
+ 
+
+Mechanisms to leverage land assets through property taxes and sales, betterment levies and impact fees and 
+
+exactions  can  help  governments  raise  new  capital.  Tax  revenue  and  fee  collection  should  be  planned  and 
+
+implemented in a transparent manner and underpinned by good service delivery. ―Fees for service should be 
+claimed  by  the enterprises  providing  the service,  and  any  asset sales  should provide  capital  for  continuing 
+
+improvement  of  the  service  in  question.‖  (ADB  Green  Cities,  p312).  Aside  from  robust  tax  collection 
+
+mechanisms,  cities  can  boost  funding  by  charging  users  the  full  cost  of  services  like  water  and  electricity, 
+including  environmental  damage,  and  establishing  markets  for  tradable  rights  to  resources  and  pollutant 
+
+permits, among others. City  planners should also look to find  ways to price the  full cost  of individual motor 
+
+vehicle  use,  taking  into  account  congestion,  pollution  and  other  negative  externalities.  Requiring  private 
+sector  employers  to  cover  employee  transport  costs,  for  example,  would  likely  push  firms  to  keep  firms  in 
+
+ 
+
+21 
+
+higher density areas, increasing the overall efficiency of urban hubs. Ration resource pricing for farmers, for 
+
+instance,  not  only  encourages  water  conservation,  but  also  promotes  recycling  and  the  use  of  alternative 
+
+ 
+
+sources like rainwater harvesting.   
+
+ 
+
+Ultimately, cities are more accountable for their own development when the funds for are raised locally, rather 
+
+than  at  the  national  level.  When  possible  they  should  look  to  tap  their  own  domestic  and  public  financing 
+sources.  Land  asset–based  financing  is  source  of  subnational  finance  for  urban  development  in  many 
+
+countries, as land is often the most valuable asset subnational government balance sheets. Strong institutions 
+
+are required to oversee land management and sales, tax collection and secure property rights. However, local 
+governments  can  sometimes  lack  the  financial  independence  to  acquire  land  or  protect  rights-of  way  for 
+
+infrastructure improvement. Land transactions can also be hampered by poor land-valuation systems, and a 
+
+lack  of  transparency  and  credibility  for  land  titles  -dampening  incentives  for  landowners  to  rent  out  their 
+property. Furthermore, land development ventures often require high entry costs.   
+
+ 
+
+Subnational  governments  like  Mexico,  China  and  Colombia,  among  others,  have  been  able  to  issue  bond 
+
+instruments to raise funds. A well-developed domestic financial market lowers costs and increases long-term 
+
+credit  sustainability.  Strong  securities  and  financial  market  regulatory  regimes  are  required  to  develop 
+diversified and well-functioning local markets. However, strong regulatory frameworks need to be in place to 
+
+manage  subnational  debt  sustainability.    Systems  that  regulate  private  capital  markets  and  support  their 
+
+capacity to deploy financial products enhance affordability and access to green finance.   
+
+ 
+
+Green  funds,  like  Climate  Investment  Funds  (CIFs),  the  Global  Environment  Facility  (GEF)  and  Clean 
+
+Development Mechanism (CDM) funds are some of the most commonly  utilized sources of climate change 
+financing for developing countries. Most development finance institutions  have special funds  and programs 
+
+targeting climate change mitigation and adaptation. They also offer grants and technical assistance in climate 
+
+change project and capacity development. 
+
+ 
+
+Development  banks can  provide  governments  borrowing  from commercial  markets  with guarantees  to help 
+
+ensure  lower interest rates, longer maturities  and more flexible debt parameters. Development banks often 
+support local finance institutions by extending lines of credit or partial credit guarantees, as well as provide 
+
+equity  capital  and  transaction-cost  recovery  mechanisms  to  help  absorb  some  of  the  cost  of  making  small 
+
+loans.  Initiatives  for  removing  or  lowering  costs  could  also  incorporate  capacity-building  programs  and 
+structuring  assistance  to  help  local  finance  institutions  ―bundle‖  their  loans  and  take  them  to  mainstream 
+
+capital markets.   
+
+ 
+
+Development  banks  can  also  help  structure  and  promote  policy  incentives  and  disincentives  such  as  fuel 
+
+taxes that include real costs of vehicle use (traffic, pollution) and tax incentives for energy efficient home and 
+
+building technologies, as well as road user and parking charges and limitations in city centers and peak hours. 
+Furthermore, development banks can also provide the leverage to tap new markets and private investors, as 
+
+well as help structure pooled initiatives to reduce individual investment costs. One of the primary roles that 
+
+development banks serve is to improve investment climates by guiding PPP policy and institutional framework 
+reform, backing PPP pilot projects and structuring financing vehicles that help provide the risk/return profile 
+
+that the private sector expects. 
+
+ 
+
+22 
+
+ 
+
+ 
+
+Many  subnational  governments  have  created  special-purpose  vehicles  (SPVs)  to  undertake  urban 
+
+infrastructure investments, often in partnership with private sector financiers and operators. Transferring risk 
+
+the  private  sector,  through  service  contracts,  management  contracts,  leases,  and  privatization  can  help 
+financially constrained cities. However, many of these financial arrangements require a commitment to clear 
+
+and  credible  property  rights,  transparent  procurement  processes,  cost  covering  tariffs  and  sustainable  tax 
+
+revenue regimes. As governments often face political constraints when attempting to charge service users to 
+cover  costs,  PPPs  are  a  politically  viable  alternative  and  inject  much  needed  capital  for  infrastructure 
+
+development. Competitive market selection mechanisms and cost-benefit analyses can also improve project 
+
+selection and sustainability. To successfully implement PPPs, city managers in many developing countries will 
+have  to  improve  public  sector  capacity,  design  and  implement  comprehensive  legal  and  sector  planning 
+
+frameworks  and  risk  assessment  models,  as  well  as  ensure  transparent  and  competitive  procurement  to 
+
+avoid monopoly service provision. 
+
+ 
+
+City services, like trucking, for example, can flourish under competitive markets with free entry to providers 
+
+and  prices  that  reflect  real  demand  and  costs.  However,  other  services,  such  as  bus  transportation  and 
+garbage  collection,  may  require  more  nuanced  systems,  such  as  auctions,  where  service  contracts  are 
+
+awarded  to  the  provider  who  offers  the  lowest  price  and  meets  established  performance  standards.  Such 
+
+concession  auctions  have  succeeded  in  reducing  both  costs  and  prices  in  many  cities  (WB,  2013).   
+Improvement of services characterized as natural monopolies or public goods, like water and sanitation, will 
+
+require  larger cross-sector policy coordination. Targeted subsidies  and regulated prices may be required in 
+
+certain  service  sectors,  for  both  social  equity  and  environmental  sustainability  purposes,  but  that  means 
+governments  will  have  to  set  transparent  and  credible  mechanisms  to  prevent  corruption  and  inefficiency. 
+
+When possible, city governments should promote market competition and avoid artificial monopolies. 
+
+ 
+
+Due  to  global  economic  downturns  caused  by  the  2007  global  financial  crisis,  fewer  resources  have  been 
+available for urban development initiatives. Even if local banks and other financial intermediaries were able to 
+
+fill the funding gap, development banks play a uniquely ―additional‖ role as financial catalysts, drawing private 
+
+capital into large, long-term projects in countries and sectors where significant development results are likely, 
+but  the  market perceives  high  risk.  Development  banks  also  often  offer  below  market  interest  rates,  longer 
+
+terms and flexible repayment schedules. They can also provide risk mitigation through political or partial risk 
+
+insurance or guarantees that attract a wide variety of market players, and provide local funding partners with 
+an  improved  level  of  creditor  status.  Development  banks  can  also  deliver  design  and  project  selection 
+
+additionality,  offering  technical  assistance  and  other  tools  for  capacity  building  that  promote  transparency, 
+
+accountability, cost-effective service delivery and program sustainability. 
+
+ 
+
+The  lack  of  finance  for  municipalities  in  developing  countries  is  a  crucial  bottleneck  identified  by  all  IDFC 
+members. KfW, for example, addresses the problem by providing credit lines and grant funding for community 
+
+infrastructure development via intermediary structures. These Municipal Development Funds provide capacity 
+
+building  and  incentives  for  good  local  governance,  by  providing  clear  and  standardized  criteria  for  project 
+design and infrastructure maintenance and operation. Local participation is also encouraged with the use of 
+
+transparent planning  and investment prioritization. KfW also supports  existing commercial bank markets by 
+
+offering  credit  lines  and  technical  assistance  to  enhance  their  outreach  to  municipalities.  In  Serbia,  for 
+
+ 
+
+23 
+
+example,  from  2009-2012,  commercial  banks  provided  113  loans  to  74  municipalities,  funding  some  300 
+
+projects. This mechanism was implemented under an existing legal framework for municipal debt (with central 
+
+government guarantees), significant municipal income from taxes and fees, multi-year investment plans and 
+the supervision of municipal indebtedness by commercial banks and central governments.   
+
+ 
+
+ 
+
+AFD, for its part, has long recognized their key role as catalysts for innovative urban development. AFD works 
+with local financial institutions to mobilize adequate financing and technical cooperation, especially in smaller, 
+
+secondary towns, where an important part of future urban growth will be concentrated. In Brazil, for instance, 
+
+AFD  extends  financing  to  the  public  state  bank  of  Paraná,  Fomento  Paraná,  to  support  the  upgrading  of 
+municipal solid waste facilities throughout the whole state. The  EUR 45 million credit facility is dedicated to 
+
+developing  the  new  regional  solid  waste  plan  and  incentivizing  local  authorities  to  improve  (i)  the  waste 
+
+sorting process and selective collection, with the participation of cooperatives or other forms of association of 
+waste pickers, (ii) the waste recycling process, by composting or methanation or other technologies defined 
+
+by Brazilian law, and (iii) the final disposal of waste by closing and rehabilitating inappropriate landfills or using 
+
+sanitary landfills. The program is also directed at helping Paraná state improve its environmental and climate 
+change  policy,  and  helps  promote  mitigation  projects  that  have  a  positive  impact  on  greenhouse  gas 
+
+emissions.  As  a  complement  to  the  credit  facility,  a  technical  and  institutional  cooperation  has  been 
+
+established between Brazilian local authorities, urban and environmental Paraná institutions, and French peer 
+institutions.   
+
+ 
+
+KoFC: Promoting PPPs in Jeju 
+
+As part of its mandate to extend Korea’s infrastructure and promote a balanced regional development, KoFC took part as 
+
+a financial investor in a project to build Aqua Planet Jeju, Asia’s largest aquarium in Korea’s southern island of Jeju. The 
+
+total  cost  of  the  project  was  KRW130.1  billion  (excluding  government  subsidy);  KoFC  contributed  KRW41.2  billion,  or 
+
+32%, via indirect investments through a fund set up for the project. Taking 30 months to complete, the aquarium began 
+
+operating in April 2012, and will be privately operated for the next 30 years before it is transferred to  the Jeju Municipal 
+
+Government.   
+
+ 
+
+The  Aqua  Planet  Jeju  project  represents  a  good  case  practice  in  sustainable  urban  development  by  KoFC  on  several 
+
+grounds.  First,  it  represents  Korea’s  first  build-operate-transfer  PPP  project  (based  on  the  Act  on  Public  Private 
+
+Partnership  in  Infrastructure),  drawing  a  substantial  portion  of  private  investments  at  a  time  when  the  country’s 
+
+infrastructure  market  struggled  to  secure  financing  for  large-scale  infrastructure  projects.  Because  it  is  a  BOT,  the 
+
+government  was  free  from  the  burden  of  a  minimum  revenue  guarantee,  which  can  often  erode  a  project’s  long-term 
+
+profitability and sustainability. Capitalizing on the merits of a BOT, the Jeju Municipal Government endeavored to bring the 
+
+project to the island, where the level of urban development had long been inadequate compared to other parts of Korea. 
+
+Although Jeju  is one  of the  most popular  tourist  destinations  in  the country,  it still  lacks  the  necessary  infrastructure  to 
+
+attract  tourists  on  a  continuous  basis.  By  utilizing Jeju´s  unique  and  rich marine  resources,  the aquarium  represents  a 
+
+sustainable source of income that will contribute to the long-term growth of the local economy.   
+
+ 
+
+The project has also opened the door to a new industry in Korea, where only a handful of aquariums of scale exist. In fact, 
+
+after seeing that Aqua Planet Jeju had the potential to generate sufficient profits, the private operator of the project went 
+
+on to build two more aquariums in two different cities in Korea, and has plans to expand overseas. These aquariums have 
+
+helped  expand  employment  opportunities  in  surrounding  areas,  and  increased  demand  for  specific  and  rare  job 
+
+segments, such as animal curators, veterinary technicians, conservation biologists, aquarist, and docents.   
+ 
+
+ 
+
+24 
+
+ 
+
+Chapter 5. 
+
+Service delivery and infrastructure management 
+
+ 
+
+Today, cities are home to more than half of the world’s population, and this proportion is expected to grow to 
+
+two-thirds, or 6 billion people, by 2050 (UN-HABITAT). Twentieth-century cities face numerous challenges to 
+
+building  and maintaining the basic physical  infrastructure needed to ensure the  safety, mobility,  health, and 
+progress of these massive populations; sustainable cities require adequate roadways, public transit, railroads, 
+
+seaports,  airports,  water  and  sewage  treatment  systems,  electric  grids,  schools,  and  hospitals.  Ensuring 
+
+better service delivery to communities and citizens is the ultimate goal of sustainable urban development; it 
+provides the very tax revenue and fees that can be leveraged to a acquire additional financial support for city 
+
+development and management.   
+
+ 
+
+Infrastructure  facilitates  progress  in  all  sectors  and  is  commonly  identified  as  one  of  the  major  drivers  of 
+
+change towards a more green and sustainable economy. In addition to the potential supply-and-demand- side 
+impacts of infrastructure optimization on economic growth, the infrastructure services - water systems, solid 
+
+waste  management,  sewer  systems,  power  generating  plants,  roads,  mass  transportation,  electricity 
+
+generation,  and  telecommunications-    also  play  a  significant  role  in  the  distribution  of  income.  Roughly  1 
+billion of the world’s population currently reside in slums, and that number is projected to increase to 3 billion 
+
+by 2050 if left unchecked (UN-HABITAT). These massive slum-dwelling populations constitute roughly half of 
+
+city  populations  in  many  developing  countries,  and  lack  access  to  adequate  shelter,  water  and  sanitation 
+–essential  to  environmental  sustainability,  social  cohesion,  health  and  human  capital  productivity.  One 
+
+example of an innovative solution to poor service delivery is Curitiba´s garbage collection system. The city´s 
+
+program targets low-income areas, and is designed to clean sites  which are difficult for conventional  waste 
+management systems to reach, by encouraging local residents to exchange garbage bags for food and public 
+
+transportation tickets. Thanks to this initiative, more than 31,000 families have collected some 11,000 tons of 
+
+garbage.  This  has  reduced  the  cost  of  the  city’s  solid  waste  management,  created  employment,  and 
+contributed to the overall cleanness and wellness of the city.   
+
+ 
+
+Many  workers in developing countries commute into cities using collective taxis,  which are slow, expensive 
+and contribute to climate change. Roads are often insufficiently designed or maintained to handle the current 
+
+high density traffic that continues to escalate with greater urbanization. Often, workers must transfer several 
+
+times  to  reach  their  destination.  Buses  present  a  similar  challenge.  Improved  service  delivery  and  lower 
+capital costs are needed  in most developing cities. Furthermore, the transport sector  represents one of the 
+
+fastest growing sources of GHGs in the world (ADB, 2012) and represents 23% of global fossil fuel emissions. 
+
+To achieve a significant reduction in GHG emissions, it will be important to promote efficient and integrated 
+public transport systems that incentivize widespread use and reduce the growth of the auto sector, particularly 
+
+by  private individual users. Regional and  national governments should look to adopt initiatives that support 
+
+transformation  (efficient  distribution  of  populations)  and  generate  strategies 
+
+urban 
+non-motorized transport aimed at reducing GHGs like electric vehicles.   
+
+that  promote 
+
+ 
+
+―Deficient infrastructure can raise the costs of doing business in urban areas and reduce firm productivity by 
+
+as much as 40 per cent‖ (UNHABITAT, 2012). Many developing countries have industrial clusters that fail to 
+
+provide results due to poor planning, inadequate and environmentally hazardous facilities, but above all, weak 
+infrastructure  services  that  fail  to  link  clusters  together  and  to  essential  markets.  Urbanisation  actuality 
+
+ 
+
+25 
+
+facilitates agglomeration economies as the rapid and easy exchange of technology and information opens up 
+
+new  opportunities  for  both  labour  and  production.  Cluster  economies  help  create  internationally  connected 
+
+cities,  concentrate  production  efficiently  and  further  facilitate  economic  growth.  As  cities  catalyse 
+agglomeration,  they  are  important  engines  of  employment  and  investment,  and  improved  public  service 
+
+ 
+
+provision that help contribute to quality of life.   
+
+ 
+
+Building  competitive  and  sustainable  cities  require  a  plan  that  identifies  and  mitigates  major  internal  and 
+
+external connection bottlenecks and exorbitant transport costs. City connectivity planning must find a balance 
+
+between expanding the supply of affordable transport options, and reducing negative externalities caused by 
+increased  congestion  and  pollution.  Much  of  the  quality  and  sustainability  of  infrastructure  is  also  in  their 
+
+construction and design consideration of externalities; infrastructure should avoid excessive fragmentation of 
+
+wetlands and other strategic ecosystems, and take into account debris and pollution levels. New standards 
+and incentives have surfaced encouraging the establishment of more efficient buildings and eco-homes. With 
+
+the increase in urban expansion and the need for new cities and homes, developing countries have a prime 
+
+opportunity to take advantage of new efficient and green construction practices when expanding their building 
+stocks.  Smart  city  development  requires  coordination  among  national  and  local  governments,  businesses, 
+
+and residents to deliver intelligent solutions for reducing infrastructure and service costs, while at the same 
+
+time improving quality of life.   
+
+ 
+
+The challenge for many developing countries will be to choose between infrastructure expansion to support 
+growing economies and the negative impact of accelerated urbanization. In this area, development banks can 
+
+help support governments during the decision making process, and help formulate sustainable long-term city 
+
+planning  strategies.  Policy  makers  should  promote  the  development  of  integrated  eco-efficient  social  and 
+physical infrastructure that takes into account future expansion and maintenance plans, improved population 
+
+distributions and land use, and multi-sectorial and systemic interventions that generate widespread positive 
+
+externalities.     
+
+ 
+
+ 
+
+ 
+
+26 
+
+ 
+
+Chapter 6. 
+
+Promoting clean and sustainable technologies 
+
+ 
+
+Cities consume an estimated 67% of global energy and account for roughly 70% of global greenhouse gas 
+emissions (IEA, 2008 and 2010), mainly due to the concentration of industrial production, transportation and 
+
+construction.  Unfortunately,  cities  are  commonly  locked  in  to  antiquated  and  inefficient  technologies  as  a 
+
+result of past capital  investments in facilities that are  yet  to realize returns and the ongoing need to please 
+entrenched  and  diverse  stakeholder  groups.  The  productive  sectors  in  many  developing  countries,  for 
+
+example, have access  to abundant  supply  of  water  and  energy  resources,  and  continue  to  use technology 
+
+that  emits  high  levels  of  greenhouse  gases  (GHGs).  It  will  be  of  vital  importance  to  promote  changes  and 
+innovation in technology associated to renewable energy. However, there continues to be a lack of awareness 
+
+about green industries, financing instruments or fiscal incentives, as well as limited access and incentives to 
+
+develop  cutting-edge  technology  tools  and  services  in  many  developing  countries.  Ultimately,  building 
+sustainable cities will necessitate both improved demand side management—such as smarter buildings and 
+
+better light bulbs—and supply side developments —like more efficient energy production and distribution. 
+
+ 
+
+According to the IEA, buildings represent an important source of GHG emissions and account for roughly 40% 
+of  primary  energy  consumption  in  most  countries6.  Green  architecture,  including  water  harvesting  and 
+sustainable urban drainage, energy-efficiency designs – optimized orientation, use of heat-reflecting and solar 
+materials,  green  roofs  and  walls  –  and  decentralized  electricity  generation  are  the  backbone  of 
+
+energy-efficient  building  practices.  There  has  been  a  significant  uptake  in  energy-efficient  engineering  and 
+
+construction technologies in many developed countries, and governments have promoted the sector with tax 
+incentives and building codes for retrofitting and new construction. Such initiatives are also starting to take-off 
+
+in developing cities like Bangkok, Delhi and Seoul, among others. ―From 2010 to 2050, worldwide investment 
+
+in buildings will range from $300 billion to $1 trillion per year‖ (UNEP, 2011b). Creating more efficient buildings 
+will help ensure the reduction of energy consumption and costs over the long-term. 
+
+ 
+
+The promotion of greener transport can improve access to services, help reduce pollution levels  and health 
+
+inequalities for city residents. Expanded green urban areas can also promote social cohesion, as the negative 
+
+environmental externalities of rapid urbanization affects the poor the most. Semi-treated wastewater can used 
+to  water  public  parks  and  greenery  and  waterless  urinals  and  toilets  promoted  to  decrease  the  overall 
+
+utilization  of  water.  Promoting  community-based  waste  processing  and  recycling  programs,  and  providing 
+
+storage  facilities  and  markets  for  compost  and  recyclable  materials  can  help  reduce  the  amount  of  waste 
+directed to landfills. Emerging cities should look towards circular development models, in which water, waste 
+
+and energy output is recycled, so that sewer water, for example, can be used to cultivate fish and plants, or 
+
+solid  wastes  recycled  to  create  methane  gas.  These  initiatives  not  only  decrease  harmful  environmental 
+effects, but enhance city beautification and contribute to social capital through improvements in quality of life. 
+
+Human  and  social  capital  development,  in  turn,  is  essential  to  workforce  productivity,  innovation,  and 
+
+competitiveness.   
+
+ 
+
+The renewable energy sector – solar, wind, hydroelectric, geothermal and bio-fuel – continues to attract huge 
+
+investment.  By  2010,  a  total  US$243  billion  had  been  committed  to  this  sector  worldwide;  51  and  this  is 
+
+                                            
+6  http://www.iea.org/topics/sustainablebuildings/ 
+
+ 
+
+27 
+
+projected to rise to US$630 billion by 2030, in the process creating as many as 20 million jobs. Although much 
+
+of this has concentrated on developed countries, investment in renewable energies is beginning to materialize 
+
+in  the  developing  world  as  well‖  (UN-HABITAT  2012).  The  employment  potential  of  environmental 
+sustainability  is  huge,  in  the  production  and  deployment  of  new  technical  systems:  renewable  energies, 
+
+sustainable  urban  transportation,  waste  recycling,  retrofitting  old  buildings,  new  sustainable  buildings  and 
+
+infrastructures, and other environmental services.    Innovative measures like micro-generation of renewable 
+energy  through  wind-power  and  solar-power  technologies  as  well  as  combined  heating/cooling  plants  and 
+
+decentralized energy plants are being assessed for urban development strategies. Expanded networking of 
+
+locally generated low-carbon energy will be vital for the sustainability of cities of the future.   
+
+ 
+
+ 
+
+Information  technology  systems  integrate  urban  development  activities,  increasing  efficiencies  and  cost 
+
+recovery  across  sectors,  and  enabling  improved  service  delivery  and  management.    Using  ICT  as  an 
+instrument for integrated urban development not only improves information collection but also provides more 
+
+efficient  services,  reduces  waste and  informs  residents  about  resource consummation  and  how  to  improve 
+
+their quality of life.    One example is smart grid.    It is computerized electric utility grid, which can optimize the 
+use  of  power  and  reduce  loss  by  not  only  monitoring  the  energy  coming  in  from  diverse  sources  but  also 
+
+detecting where energy is needed through a two-way communication system that collects data about power 
+
+usage by consumers. ICT expansion can also help centralize city governance and help manage infrastructure 
+development as demand increases. E-governance tools, such as the internet and mobile computing improve 
+
+public  sector  information  and  service delivery,  encourage citizen  participation,  and  help make governments 
+
+more accountable and transparent. ICT development also contributes to local competitiveness prosperity by 
+making  cities  more  efficient  and  business  friendly,  as  well  as  attracting  green  industries.  Furthermore,  ICT 
+
+promotes  greater  social  inclusiveness,  by  opening  up  channels  for  greater  resident  participation  in  city 
+
+management and public service provision.   
+
+ 
+
+―The  greening  of  cities  will  require  some,  or  preferably  all,  of  the  following:  (i)  reduction  of  chemical  and 
+physical hazards, (ii) control over environmental impacts on health, (iii) creation of quality environments for all, 
+
+(iv)  minimized  ecological  footprints  outside  the  urban  area,  (v)  ensured  sustainable  consumption,  and  (vi) 
+
+adaptation  to  climate  change  impacts‖  (Satterthwaite,  1997).  Building  green  cities  will  require  overcoming 
+disjointed  governance  structures,  affordability  and  consumer  preference  issues  that  decrease  investment 
+
+interest in green technologies. Smart technology helps enable synergies across development sectors. Urban 
+
+growth  boundaries,  land-use  and  density  regulations  and  bonuses,  traffic  and  vehicular  control,  car-fee 
+developments, and emission controls, are some examples of regulations and planning mechanisms that can 
+
+help  achieve  greener  cities.  Additionally,  widespread  information  relating  to  environmental  performance  of 
+
+cities can help promote greater policy reform.     
+
+ 
+
+ 
+
+28 
+
+ 
+
+Chapter 7. 
+
+Conclusion and way forward 
+
+ 
+
+The world is in the midst of a sweeping population shift from the countryside to  the city. Urban dwellers will 
+likely account for some 86 per cent of the population in more developed regions and for 64 per cent of that in 
+
+less developed regions (UNDESA 2012). This transition presents many challenges including slum build-up, 
+
+income  inequality,  increased  consumption  and  solid-waste,  intensified  use  of  natural  resources  and 
+greenhouse  gas  emissions,  among  others.  And  these  challenges  are  exacerbated  by  unplanned  city 
+
+expansion  and  urban sprawl.  Consequently,  the choices  that  city  planners  make to manage the  process  of 
+
+rapid  and  increasing  urbanization  will  have  profound  consequences  for  citizens´  well-being  and  economic 
+future.  Urban  professionals  must  collaborate  with  architects,  engineers,  landscapers,  transportation 
+
+coordinators and land lawyers, as well as environmentalists and community members to ensure a holistic and 
+
+inclusive approach to city design and management in the Post-2015 era.   
+
+ 
+
+Cities  in  developing  countries  face  a  wide  range  of  administrative,  technical,  and  financial  limitations  that 
+
+make  it  difficult  to  deal  with  the  challenges  of  rapid  and  increasing  urbanization.  Inefficient  institutional 
+structures and disjointed budgets, timelines and goals have often led to fragmented urban planning solutions. 
+
+With  limited  access  to  finance,  governments  in  many  developing  governments  must  look  to  improve  their 
+
+investment environments through macroeconomic policy and regulatory reform and by securing project cash 
+flows. Better service delivery  and infrastructure management  will  help increase public support for user fees 
+
+and tax collection mechanisms. There is an urgent need to  capture more private sector resources; funding 
+
+SUD is beyond the means of public expenditure. More innovative financial products will be required, as well 
+as  greater  support  from  development  banks  that  can  mobilize  a  wide  range  of  domestic  and  international 
+
+resources,  provide  the  leverage  to  tap  new  markets  and  private  investors,  not  only  providing  country  risk 
+
+guarantees to help ensure lower interest rates, longer maturities and more flexible debt parameters, but also 
+helping structure pooled initiatives that reduce individual investment costs. Development banks can also help 
+
+improve  investment  climates  by  guiding  PPP  policy  and  institutional  framework  reform,  backing  PPP  pilot 
+
+projects and structuring financing vehicles that help provide attractive risk/return profiles for private investors. 
+In addition to their financing support, development banks can offer technical assistance for policy, institutional 
+
+and  capacity  development  and  promote  knowledge  sharing  programs  and  networks,  data  collection  and 
+
+feasibility  studies  that  can  help  governments  design  and  apply  comprehensive  and  effective  urban  growth 
+strategies.     
+
+ 
+
+The importance of Sustainable Urban Development (SUD) has gained substantial momentum in recent years; 
+
+measures  to  mainstream  comprehensive  planning  and  management,  incorporating  economic,  social  and 
+
+environmental factors are now widely promoted in the international development community. Standard setting 
+will  continue  to  be  instrumental  in  diffusing  the  concept,  as  well  as  creating  new  markets  for  integrated 
+
+interventions that attract private sector actors. Although many useful city planning tools are available, there is 
+
+no one-size-fits-all approach to accommodate the diverse set of challenges and threats cities face. However, 
+the following have been identified as key factors in SUD strategy and policy formulation: 
+
+  ensure  comprehensiveness  and  incorporate  more  proactive  and  incentivizing  measures  for  local 
+
+authorities to tackle high priority issues (e.g. poverty reduction or climate change) 
+
+  promote stakeholder coordination and participation to ensure the integrity of urban development,   
+
+ 
+
+29 
+
+ 
+
+identify inter-linkages among different and sometimes conflicting needs, maximize synergies between 
+
+them where possible, mitigate unintended consequences of a policy and address problems in a 
+
+ 
+
+sequenced manner, 
+
+  encourage ―co-benefit‖ measures that can cater to multiple needs through a single policy intervention 
+
+and utilize fewer resources,   
+
+  effective regulatory and financial frameworks to enhance implementation, and 
+
+  built-in mechanisms to monitor and revise strategies to accommodate changing needs 
+
+ 
+Urbanization is advantageous in many ways. As cities grow, they increasingly benefit from agglomeration or 
+
+economies of scale that  improve productivity  in many  industry  and service sectors. In fact, delivering basic 
+
+services  such  as  water,  housing  and  education  is  less  costly  in  concentrated  population  centers  than  in 
+sparsely  populated  areas  (Richard Dobbs  et  al.,  2011).  Large  cities  also  attract  the  most  talent  and inward 
+
+investment, and are often at the center of a cluster of smaller cities, which creates network effects that spur 
+
+even greater economic growth and productivity. However, leaders must be able to respond to the increasing 
+complexity of cities, and provide effective planning and management capable of both mitigating the risks and 
+
+exploiting  benefits  of  urban  growth.  SUD  strategies  should  give  rise  to  cities  more  conducive  to  economic 
+
+growth  and  social  inclusion,  environmentally  sustainable,  and  resilient  to  climate  change,  natural  disasters 
+and other risks.   
+
+ 
+
+The IDFC will do its part to accelerate and expand support for SUD by scaling-up its collaboration with central 
+and local governments, international institutions and private sector actors using its broad partnership network. 
+
+It  will  beef  up  its  efforts  to  endorse  knowledge-sharing  networks,  exchange  best  practices  and  promote 
+
+member experiences and expertise with city planners and urban development agencies. IDFC members will 
+also continue provide technical assistance and other diagnostic tools to help city planners improve their urban 
+
+policies and development strategies. For all that, financing SUD will remain one of the most critical challenges 
+
+in developing countries. IDFC members are in a position to use their comparative advantage in the sector to 
+help  improve  cities´  access  to  funding.  The  IDFC  will  bolster  its  efforts  to  promote  and  develop  innovative 
+
+mechanisms and financial products to help mobilize resources and draw more private capital to SUD projects 
+
+and initiatives.     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30 
+
+ 
+
+Appendix 1    The Habitat Agenda: Global Urban Indicators – Selected statistics 
+
+Chapter/ Goals 
+
+1.Shelter 
+
+Indicators 
+
+ 
+
+Goal 1 : Promote the right to adequate 
+housing 
+
+Goal 2 : Provide security of tenure 
+
+Goal 3 : Provide equal access to credit 
+
+Indicator 1.1: durable structures 
+Indicator 1.2: overcrowding 
+Indicator 1.3: housing price and rent-to-income 
+Indicator 1.4: right to adequate housing 
+
+Indicator 1.5: secure tenure 
+Indicator 1.6: authorized housing 
+Indicator 1.7: evictions 
+Indicator 1.8: housing finance 
+
+Goal 4 : Provide equal access to land 
+
+Indicator 1.9: land price-to-income 
+
+Goal 5 : Provide access to basic services 
+
+Indicator 1.10: access to safe water 
+Indicator 1.11: access to improves sanitation 
+Indicator 1.12: connection to services 
+
+2. Social development and eradication of poverty 
+
+Goal 6 : Provide equal opportunities for safe 
+and healthy life 
+
+Goal 7 : Promote social integration and 
+support disadvantaged groups 
+Goal 8 : Promote gender equality in human 
+settlements development 
+
+Indicator 2.1: under-five mortality 
+Indicator 2.2: homicides 
+Indicator 2.4: HIV prevalence 
+Indicator 2.4: urban violence 
+Indicator 2.5: poor households 
+
+Indicator 2.6: literacy rates 
+Indicator 2.7: school enrolment 
+Indicator 2.8: women councilors 
+Indicator 2.9: gender inclusion 
+
+3. Environmental Management 
+
+ 
+
+Goal 9 : Promote geographically-balanced 
+settlement structures 
+
+Indicator 3.1: urban population growth 
+Indicator 3.2: planned settlements 
+ 
+
+Goal 10 : Manage supply and demand for 
+water in an effective manner 
+
+Indicator 3.3: price of water 
+Indicator 3.4: water consumption 
+
+Goal 11 : Reduce urban pollution 
+
+Indicator 3.5: wastewater treated 
+Indicator 3.6: solid waste disposal 
+Indicator 3.7:regular solid waste collection   
+
+Goal 12 : Prevent disasters and rebuild 
+settlements 
+
+Indicator 3.8:houses in hazardous locations 
+Indicator 3.9: disaster prevention and mitigation instruments 
+ 
+
+Goal 13 : Promote effective and 
+environmentally sound transportation 
+systems 
+
+Indicator 3.10: travel time 
+Indicator 3.11: transport modes   
+ 
+
+Goal 14: Support mechanisms to prepare 
+and implement local environmental plans 
+and local Agenda 21 initiatives 
+
+Indicator 3.12: local environmental plans 
+ 
+
+4. Economic Development 
+
+ 
+
+Goal 15 : Strengthen small and 
+micro-enterprises, particularly those 
+developed by women 
+Goal 16 :Encourage public-private sector 
+partnership and stimulate productive 
+employment opportunities 
+
+Indicator 4.1: informal employment 
+ 
+
+Indicator 4.2: city product 
+Indicator 4.3: unemployment 
+
+5. Economic Development 
+
+ 
+
+Goal 17: Promote decentralization and 
+strengthen local authorities 
+
+Goal 18: Encourage and support 
+participation and civic engagement 
+
+Indicator 5.1: local government revenue 
+Indicator 5.2: decentralization 
+Indicator 5.3: voters participation 
+Indicator 5.4: civic association 
+
+ 
+
+31 
+
+Goal 19: Ensure transparent, accountable 
+and efficient governance of towns, cities and 
+metropolitan areas 
+
+ 
+
+MDG Goal 7, Target 7D 
+Goal 7: Ensure environmental sustainability 
+
+ 
+
+Indicator 5.5:citizens participation 
+
+Indicator 5.6: transparency and accountability 
+
+ 
+
+ 
+
+ 
+
+Indicator 7.10: Proportion of urban population living in slums 
+ 
+
+Source UNHABITAT    http://www.unhabitat.org/content.asp?typeid=19&catid=646&cid=8383 
+
+ 
+
+32 
+
+ 
+
+References 
+
+ 
+
+Annez, P.C., Buckley, R.M., and Spence, M. (2009). Urbanization and Growth. Washington, DC: The World 
+Bank 
+
+ 
+
+Aromar  Revi  and  Cynthia  Rosenzweig.  (2013),  ―The  Urban  Opportunity:  Enabling  Transformative  and 
+Sustainable Development”.   
+
+http://www.post2015hlp.org/wp-content/uploads/2013/05/Revi-Rosenzweig_The-Urban-Opportunity-Enabling
+-Transformative-and-Sustainable-Development.pdf 
+
+ 
+
+Asian  Development  Bank.  (2012).Urban  Development  Series:  Green  Cities.  Mandaluyong  City:  Asian 
+Development Bank. 
+
+ 
+
+Chandy, L., Hermias, J., and Kaharas, H. (2010).  External Assistance for Urban Development. Washington, 
+DC: The Brookings Institute 
+
+ 
+Credit Suisse Emerging Market Research Institute. (2012). “Opportunities in an Urbanizing World”. . Zurich. 
+Credit Suisse 
+http://static.pulso.cl/20121018/1637131.pdf 
+ 
+
+Department  of  Economic  and  Social  Affairs,  UN,  (2012),  ―World  Urbanization  Prospects,  2011  Revision”. 
+United Nations 
+
+http://esa.un.org/unup/pdf/WUP2011_Highlights.pdf 
+ 
+
+Ecofys, 
+http://www.idfc.org/Downloads/IDFC_green_finance_mapping_report__2012_06_14.pdf 
+
+―Mapping  of  Green  Finance  Delivered  by 
+
+(2012). 
+
+IDFC  Members 
+
+in  2011”. 
+
+ 
+The Economist Intelligence Unit (2012). “The Green City Index: A summary of the Green City Index research 
+series”. Munich: Siemens AG 
+http://81.47.175.201/ETMS/rankings/2012_European_Green_City_Index_sum_report.pdf 
+ 
+Ejaz Chani and Ravi Kanbur. (2013). “Urbanization and (In)Formalization‖. Washington, DC: The World Bank 
+Policy Research Working Paper 6374 
+http://www.kanbur.dyson.cornell.edu/papers/UrbanizationAndInformalization.pdf 
+ 
+
+The  High  Level  Panel  of  Eminent  Persons  on  the  Post-2015  Development  Agenda  (HLP)/  United  Nations 
+(2013),  ―A  New  Global  Partnership:  Eradicate  Poverty  and  Transform  Economies  through  Sustainable 
+Development”. New York: United nations Publications 
+
+http://www.post2015hlp.org/wp-content/uploads/2013/05/UN-Report.pdf 
+
+ 
+
+ 
+
+33 
+
+International Energy Agency (2008), ―World Energy Outlook 2008” Paris: International Energy Agency 
+
+ 
+
+http://www.worldenergyoutlook.org/media/weowebsite/2008-1994/weo2008.pdf 
+
+ 
+
+International Energy Agency (2010), ―World Energy Outlook 2010” Paris: International Energy Agency 
+
+http://www.worldenergyoutlook.org/media/weo2010.pdf 
+
+ 
+JICA. (2013). “Urban Growth for Inclusive and Dynamic Development”. Tokyo: JICA   
+http://www.jica.go.jp/english/our_work/thematic_issues/urban/c8h0vm00005znnor-att/overview_01.pdf 
+ 
+
+Jose  de  Luna-Martinez  and  Carlos  Leonardo  Vicente  (2012)  ―Global  Survey  of  Development  Banks”. 
+Washington, DC: World Bank 
+
+http://elibrary.worldbank.org/doi/pdf/10.1596/1813-9450-5969 
+
+ 
+Keivani, R. (2010). ―A review of the main challenges to urban sustainability”. Oxford: International Journal of 
+Urban Sustainable Development   
+http://www.tandfonline.com/doi/pdf/10.1080/19463131003704213 
+ 
+
+KPMG. (2010). Linking Cities to Finance: Overcoming Bottlenecks to Financing StrategicUrban Infrastructure 
+Investments. Background paper, Shanghai, China, September 27–28. 
+
+ 
+OECD. (2013) “Green Growth in Cities, OECD Green Growth Studies”. Paris: OECD Publishing   
+http://www.oecd-ilibrary.org/urban-rural-and-regional-development/green-growth-in-cities_9789264195325-e
+n 
+ 
+OECD (2012) “Redefining “urbanization”: A new way to measure metropolitan areas. ”Paris: OECD Publishing   
+http://www.oecd-ilibrary.org/urban-rural-and-regional-development/redefining-urban_9789264174108-en 
+ 
+
+Peirce, Neil R. et al. (2008). Century of the City. New York: The Rockefeller Foundation. 
+
+ 
+Ravallion,  M.,  S.  Chen,  and  P.  Sangraula.  (2007)  “The  Urbanization  of  Global  Poverty”,  Research  Digest 
+newsletter: Vol1, (No. 4). Washington. DC: World Bank 
+http://siteresources.worldbank.org/INTPA/Resources/Training-Materials/Urbanization_of_GlobalPoverty.pdf 
+ 
+Ravi Kanbur and Juzhong Zhuang. (2013) “Urbanization and Inequality in Asia”. Asian Development Review. 
+Vol. 30, no.1. Metro Manila: Asian Development Bank and Asian Development Bank Institute, 
+http://www.kanbur.dyson.cornell.edu/papers/UrbanizationAndInequalityInAsia.pdf 
+
+ 
+
+Richard Dobbs, Sven Smit, Jaana Remes, James Manyika, Charles Roxburgh and Alejandra Restrepo (2011), 
+―Urban World: Mapping the Economic Power of Cities” . : McKinsey Global Institute 
+
+ 
+
+Satterthwaite,  D.  (1997).  Sustainable  cities  or  cities  that  contribute  to  sustainable  development?  Urban 
+Studies. 34 (10), 1667–1691. 
+
+ 
+
+34 
+
+ 
+
+ 
+Susmita Dasgupta, Benoit Laplante, Craig Meisner, David Wheeler and Jianping Yan (2007). “The Impact of 
+Sea  Level  Rise  on  Developing  Countries:  A  Comparative  Analysis”  World  Bank  Policy  Research  Working 
+Paper 4135. Washington, DC: World Bank 
+http://elibrary.worldbank.org/doi/pdf/10.1596/1813-9450-4136 
+ 
+S.  Mostafa  Rasoolimanesh  et  al.  (2011),  “Achievement  to  Sustainable  Urban  Development  using  City 
+Development Strategies: A Comparison between Cities Alliance and the World Bank definitions”. Journal of 
+Sustainable Development Vol.4, No.5. Toronto: Canadian Center of Science and Education 
+http://www.ccsenet.org/journal/index.php/jsd/article/viewFile/11340/8798 
+ 
+
+United Nations (2013), “The Millennium Development Goals Report 2013”. New York: United Nations 
+
+http://www.un.org/millenniumgoals/pdf/report-2013/mdg-report-2013-english.pdf 
+
+ 
+United  Nations  Environment  Programme  (UNEP).  (2011).  Buildings  –  Investing  in  energy  and  resource 
+efficiency. Towards a Green Economy. Bangkok: UNESCAP. 
+ 
+United Nations Department of Economic and Social Affairs (UNDESA). (2012). “World Urbanization Prospects 
+The 2011 Revision”. New York: UNDESA/ Population Division 
+http://esa.un.org/unup/pdf/FINAL-FINAL_REPORT%20WUP2011_Annextables_01Aug2012_Final.pdf 
+ 
+United Nations Human Settlements Programme (UN-HABITAT). (2002) “Sustainable Urbanisation Achieving 
+Agenda 21”. Nairobi: UN-HABITAT 
+ 
+UN-HABITAT(2003). “The  Challenges  of  Slums: Global Report on Human Settlements”. London: Earthscan 
+Publications Ltd.   
+ 
+UN-HABITAT  (2009)  “Global  Report  on  Human  Settlement  2009:  Planning  Sustainable  Cities”.  London: 
+Earthscan Publications Ltd 
+ 
+UN-HABITAT (2010). “State of the World’s Cities 2010/2011- Cities for All: Bridging the Urban Divide” London: 
+Earthscan Publications Ltd 
+ 
+UNHABITAT. (2013). The State of the World’s Cities. New York: Routledge 
+ 
+
+United Nations Office for Disaster Risk Reduction (UNISDR)(2011), ―Global Assessment Report on Disaster 
+Risk Reduction”. London: United Nations Publication 
+
+http://www.preventionweb.net/english/hyogo/gar/2011/en/home/download.html 
+ 
+UN University- Institute of Advanced Studies. (2013). ―Urban Development with Climate Co-Benefits: Aligning 
+Climate,  Environmental  and  Other  Development  Goals  in  Cities”.  Yokohama:  United  Nations  University 
+Instituted of Advanced studies 
+ 
+World  Bank  (2010),  “Natural  Hazards,  Unnatural  Disasters;  The  Economics  of  Effective  Prevention”, 
+Washington, DC: World Bank   
+http://www.gfdrr.org/sites/gfdrr.org/files/nhud/files/NHUD-Overview.pdf 
+ 
+
+The World  Bank.  (2012).  Inclusive  Green  Growth:  The  Pathway  to  Sustainable  Development. Washington, 
+DC: The World Bank. 
+
+ 
+
+ 
+
+35 
+
+ 
+
+World Bank. (2013) “Planning, Connecting and Financing Cities - Now”. Washington, DC: World Bank 
+http://siteresources.worldbank.org/EXTSDNET/Resources/Urbanization-Planning-Connecting-Financing-201
+3.pdf 
+ 
+World bank, ADB and JICA (2010). “Climate Risks and Adaptation in Asian Coastal Megacities: A Synthesis 
+Report”. Washington, DC: World Bank 
+http://siteresources.worldbank.org/EASTASIAPACIFICEXT/Resources/226300-1287600424406/coastal_meg
+acities_fullreport.pdf 
+ 
+
+World  Bank  and  IMF  (2013),  ―Global  Monitoring  Report  2013:  Rural-Urban  Dynamics  and  the  Millennium 
+Development Goals”. Washington, DC: World Bank 
+
+http://siteresources.worldbank.org/INTPROSPECTS/Resources/334934-1327948020811/8401693-13557533
+54515/8980448-1366123749799/GMR_2013_Full_Report.pdf 
+
+ 
+
+World  Economic  Forum.  (2013).  ―The  Green  Investment  Report:  The  ways  and  means  to  unlock  private 
+finance  for  green  growth  –  A  report  of  the  Green  Growth  Action  Alliance”.  Geneva:  The  World  Economic 
+Forum. 3. 
+
+http://www3.weforum.org/docs/WEF_GreenInvestment_Report_2013.pdf 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+36 
+
+
